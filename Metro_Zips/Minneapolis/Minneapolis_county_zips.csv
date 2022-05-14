@@ -1,0 +1,310 @@
+zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,Metro,irs_estimated_population
+55001,STANDARD,0,Afton,,,MN,Washington County,America/Chicago,651,NA,US,44.9,-92.81,Minneapolis,2980
+55002,PO BOX,1,Almelund,,Center City,MN,Chisago County,America/Chicago,,NA,US,45.52,-92.87,Minneapolis,0
+55003,STANDARD,0,Bayport,,"Baytown, Douglas",MN,Washington County,America/Chicago,651,NA,US,45.01,-92.78,Minneapolis,2380
+55005,STANDARD,0,Bethel,East Bethel,"Linwood, Oak Grove",MN,Anoka County,America/Chicago,,NA,US,45.4,-93.26,Minneapolis,4750
+55006,STANDARD,0,Braham,,"Day, Grass Lake",MN,Isanti County,America/Chicago,320,NA,US,45.72,-93.17,Minneapolis,3450
+55008,STANDARD,0,Cambridge,,"Edgewood, Spectacle Lake",MN,Isanti County,America/Chicago,"612,763",NA,US,45.56,-93.22,Minneapolis,14840
+55010,PO BOX,0,Castle Rock,,Oak Grove,MN,Dakota County,America/Chicago,,NA,US,44.58,-93.09,Minneapolis,94
+55011,STANDARD,0,Cedar,"Cedar E Bethl, Cedar East Bethel, East Bethel, Oak Grove",,MN,Anoka County,America/Chicago,,NA,US,45.34,-93.24,Minneapolis,10300
+55012,STANDARD,0,Center City,,Chisago Lake,MN,Chisago County,America/Chicago,651,NA,US,45.39,-92.81,Minneapolis,1860
+55013,STANDARD,0,Chisago City,,,MN,Chisago County,America/Chicago,,NA,US,45.37,-92.88,Minneapolis,6720
+55014,STANDARD,0,Circle Pines,Lino Lakes,"Blaine, Columbus, Lexington",MN,Anoka County,America/Chicago,,NA,US,45.13,-93.15,Minneapolis,26360
+55016,STANDARD,0,Cottage Grove,,,MN,Washington County,America/Chicago,651,NA,US,44.81,-92.92,Minneapolis,37180
+55017,STANDARD,0,Dalbo,,,MN,Isanti County,America/Chicago,,NA,US,45.68,-93.45,Minneapolis,690
+55020,STANDARD,0,Elko New Market,"Elko, Elko New Mrkt",,MN,Scott County,America/Chicago,952,NA,US,44.56,-93.32,Minneapolis,4140
+55024,STANDARD,0,Farmington,,,MN,Dakota County,America/Chicago,"651,952",NA,US,44.65,-93.17,Minneapolis,34300
+55025,STANDARD,0,Forest Lake,Columbus,,MN,Washington County,America/Chicago,651,NA,US,45.27,-92.98,Minneapolis,23950
+55029,PO BOX,0,Grandy,,,MN,Isanti County,America/Chicago,,NA,US,45.64,-93.2,Minneapolis,105
+55031,STANDARD,0,Hampton,New Trier,,MN,Dakota County,America/Chicago,,NA,US,44.6,-93,Minneapolis,1860
+55032,STANDARD,0,Harris,,,MN,Chisago County,America/Chicago,,NA,US,45.6,-92.98,Minneapolis,3440
+55033,STANDARD,0,Hastings,,,MN,Dakota County,America/Chicago,651,NA,US,44.73,-92.85,Minneapolis,27660
+55038,STANDARD,0,Hugo,"Centerville, Lino Lakes",Columbus,MN,Washington County,America/Chicago,,NA,US,45.15,-92.96,Minneapolis,23110
+55040,STANDARD,0,Isanti,,,MN,Isanti County,America/Chicago,,NA,US,45.48,-93.25,Minneapolis,12920
+55042,STANDARD,0,Lake Elmo,,Oakdale,MN,Washington County,America/Chicago,651,NA,US,44.99,-92.9,Minneapolis,11510
+55043,STANDARD,0,Lakeland,"Lake Saint Croix Beach, Lakeland Shores, Lakeland Shrs, Saint Marys Point, St Croix Bch, St Croix Beach, St Marys Point, St Marys Pt",,MN,Washington County,America/Chicago,651,NA,US,44.95,-92.77,Minneapolis,3400
+55044,STANDARD,0,Lakeville,,"Antlers Park, Argonne",MN,Dakota County,America/Chicago,952,NA,US,44.67,-93.24,Minneapolis,58900
+55045,STANDARD,0,Lindstrom,,,MN,Chisago County,America/Chicago,651,NA,US,45.38,-92.84,Minneapolis,7480
+55047,STANDARD,0,Marine On Saint Croix,Marine St Crx,"Marine, Marine On St Croix, New Scandia, St Croix",MN,Washington County,America/Chicago,651,NA,US,45.2,-92.78,Minneapolis,2530
+55054,STANDARD,0,Elko New Market,"Elko New Mrkt, New Market",,MN,Scott County,America/Chicago,952,NA,US,44.57,-93.34,Minneapolis,2390
+55055,STANDARD,0,Newport,,,MN,Washington County,America/Chicago,651,NA,US,44.87,-92.99,Minneapolis,3470
+55056,STANDARD,0,North Branch,,"Branch, Sunrise, Weber",MN,Chisago County,America/Chicago,651,NA,US,45.51,-92.97,Minneapolis,13490
+55065,STANDARD,0,Randolph,,,MN,Dakota County,America/Chicago,,NA,US,44.55,-93.02,Minneapolis,1150
+55068,STANDARD,0,Rosemount,,,MN,Dakota County,America/Chicago,,NA,US,44.74,-93.07,Minneapolis,30490
+55069,STANDARD,0,Rush City,,,MN,Chisago County,America/Chicago,320,NA,US,45.68,-92.96,Minneapolis,4290
+55070,STANDARD,0,Saint Francis,,St Francis,MN,Anoka County,America/Chicago,,NA,US,45.39,-93.38,Minneapolis,7630
+55071,STANDARD,0,Saint Paul Park,St Paul Park,Grey Cloud Island,MN,Washington County,America/Chicago,651,NA,US,44.83,-92.99,Minneapolis,5410
+55073,STANDARD,0,Scandia,,"Copas, New Scandia, Otisville",MN,Washington County,America/Chicago,651,NA,US,45.27,-92.82,Minneapolis,3630
+55074,STANDARD,0,Shafer,,Franconia,MN,Chisago County,America/Chicago,,NA,US,45.38,-92.74,Minneapolis,2260
+55075,STANDARD,0,South Saint Paul,South St Paul,"S Saint Paul, So Saint Paul",MN,Dakota County,America/Chicago,651,NA,US,44.88,-93.04,Minneapolis,19110
+55076,STANDARD,0,Inver Grove Heights,"Inver Grove, South Saint Paul, South St Paul",,MN,Dakota County,America/Chicago,651,NA,US,44.82,-93.05,Minneapolis,20600
+55077,STANDARD,0,Inver Grove Heights,"Inver Grove, South Saint Paul, South St Paul, Sunfish Lake",,MN,Dakota County,America/Chicago,651,NA,US,44.82,-93.07,Minneapolis,13230
+55078,PO BOX,0,Stacy,,,MN,Chisago County,America/Chicago,651,NA,US,45.39,-92.98,Minneapolis,0
+55079,STANDARD,0,Stacy,,"Lent, Martin Lake",MN,Chisago County,America/Chicago,651,NA,US,45.39,-92.98,Minneapolis,8410
+55080,STANDARD,0,Stanchfield,,Stanford,MN,Isanti County,America/Chicago,,NA,US,45.66,-93.26,Minneapolis,2680
+55082,STANDARD,0,Stillwater,"Oak Park Heights, Oak Park Hgts, Oak Park Hts, W Lakeland, West Lakeland",Grant Township,MN,Washington County,America/Chicago,651,NA,US,45.05,-92.82,Minneapolis,34770
+55083,PO BOX,0,Stillwater,,,MN,Washington County,America/Chicago,651,NA,US,45.05,-92.82,Minneapolis,0
+55084,STANDARD,0,Taylors Falls,,Palmdale,MN,Chisago County,America/Chicago,651,NA,US,45.41,-92.66,Minneapolis,1610
+55085,PO BOX,0,Vermillion,,,MN,Dakota County,America/Chicago,,NA,US,44.67,-92.96,Minneapolis,421
+55090,PO BOX,0,Willernie,,,MN,Washington County,America/Chicago,651,NA,US,45.05,-92.96,Minneapolis,473
+55092,STANDARD,0,Wyoming,"Columbus, East Bethel",,MN,Chisago County,America/Chicago,651,NA,US,45.33,-92.99,Minneapolis,10360
+55101,STANDARD,0,Saint Paul,,,MN,Ramsey County,America/Chicago,651,NA,US,44.95,-93.09,Minneapolis,6630
+55102,STANDARD,0,Saint Paul,,,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,15290
+55103,STANDARD,0,Saint Paul,,,MN,Ramsey County,America/Chicago,651,NA,US,44.96,-93.12,Minneapolis,11230
+55104,STANDARD,0,Saint Paul,,,MN,Ramsey County,America/Chicago,651,NA,US,44.95,-93.16,Minneapolis,35870
+55105,STANDARD,0,Saint Paul,,,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.17,Minneapolis,22480
+55106,STANDARD,0,Saint Paul,,Maplewood,MN,Ramsey County,America/Chicago,651,NA,US,44.96,-93.05,Minneapolis,53000
+55107,STANDARD,0,Saint Paul,"W Saint Paul, West Saint Paul","W St Paul, West St Paul",MN,Ramsey County,America/Chicago,651,NA,US,44.93,-93.08,Minneapolis,12630
+55108,STANDARD,0,Saint Paul,"Falcon Heights, Falcon Hgts, Lauderdale",,MN,Ramsey County,America/Chicago,651,NA,US,44.98,-93.17,Minneapolis,12210
+55109,STANDARD,0,Saint Paul,"Little Canada, Maplewood, N Saint Paul, North Saint Paul, North St Paul",Vadnais Heights,MN,Ramsey County,America/Chicago,651,NA,US,45.01,-93.03,Minneapolis,31950
+55110,STANDARD,0,Saint Paul,"Dellwood, Vadnais Heights, Vadnais Hts, White Bear Lake, White Bear Lk, White Bear Township, White Bear Tp","Birchwood, Gem Lake, Grant, Grant Township, Lino Lakes",MN,Ramsey County,America/Chicago,651,NA,US,45.09,-93.01,Minneapolis,37260
+55111,STANDARD,0,Saint Paul,Fort Snelling,Fort Snelling Military Resv,MN,Hennepin County,America/Chicago,"612,651,952",NA,US,44.88,-93.2,Minneapolis,208
+55112,STANDARD,0,Saint Paul,"Arden Hills, Mounds View, New Brighton",Moundsview,MN,Ramsey County,America/Chicago,"651,763,952",NA,US,45.08,-93.19,Minneapolis,42440
+55113,STANDARD,0,Saint Paul,"Falcon Heights, Falcon Hgts, Lauderdale, Little Canada, Roseville",,MN,Ramsey County,America/Chicago,"651,763,952",NA,US,45.01,-93.15,Minneapolis,37780
+55114,STANDARD,0,Saint Paul,,,MN,Ramsey County,America/Chicago,651,NA,US,44.97,-93.2,Minneapolis,3090
+55115,STANDARD,0,Saint Paul,"Mahtomedi, Pine Springs, White Bear Lake, White Bear Lk","Grant, Grant Township",MN,Washington County,America/Chicago,651,NA,US,45.07,-92.95,Minneapolis,8640
+55116,STANDARD,0,Saint Paul,,,MN,Ramsey County,America/Chicago,651,NA,US,44.91,-93.17,Minneapolis,22870
+55117,STANDARD,0,Saint Paul,"Little Canada, Maplewood",,MN,Ramsey County,America/Chicago,651,NA,US,45,-93.09,Minneapolis,40610
+55118,STANDARD,0,Saint Paul,"Mendota Heights, Mendota Hts, Sunfish Lake, W Saint Paul, W St Paul, West Saint Paul, West St Paul",Lilydale,MN,Dakota County,America/Chicago,651,NA,US,44.89,-93.1,Minneapolis,27460
+55119,STANDARD,0,Saint Paul,Maplewood,,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.01,Minneapolis,39460
+55120,STANDARD,0,Saint Paul,"Eagan, Mendota Heights, Mendota Hts",,MN,Dakota County,America/Chicago,952,NA,US,44.87,-93.15,Minneapolis,4540
+55121,STANDARD,0,Saint Paul,Eagan,,MN,Dakota County,America/Chicago,952,NA,US,44.85,-93.15,Minneapolis,8860
+55122,STANDARD,0,Saint Paul,Eagan,,MN,Dakota County,America/Chicago,651,NA,US,44.81,-93.2,Minneapolis,30710
+55123,STANDARD,0,Saint Paul,Eagan,,MN,Dakota County,America/Chicago,952,NA,US,44.81,-93.14,Minneapolis,27150
+55124,STANDARD,0,Saint Paul,Apple Valley,,MN,Dakota County,America/Chicago,"651,952",NA,US,44.74,-93.19,Minneapolis,53620
+55125,STANDARD,0,Saint Paul,Woodbury,,MN,Washington County,America/Chicago,651,NA,US,44.92,-92.94,Minneapolis,43440
+55126,STANDARD,0,Saint Paul,"Arden Hills, No Oaks, Roseville, Shoreview",Lino Lakes,MN,Ramsey County,America/Chicago,"763,952,651",NA,US,45.08,-93.13,Minneapolis,26420
+55127,STANDARD,0,Saint Paul,"Little Canada, North Oaks, Vadnais Heights, Vadnais Hts, White Bear Lake, White Bear Lake Township, White Bear Lk, White Bear Tp",,MN,Ramsey County,America/Chicago,651,NA,US,45.08,-93.08,Minneapolis,17930
+55128,STANDARD,0,Saint Paul,"Landfall Village, Landfall Vlg, Oakdale, Pine Springs",,MN,Washington County,America/Chicago,651,NA,US,44.99,-92.96,Minneapolis,28270
+55129,STANDARD,0,Saint Paul,Woodbury,,MN,Washington County,America/Chicago,651,NA,US,44.88,-92.89,Minneapolis,29100
+55130,STANDARD,0,Saint Paul,,,MN,Ramsey County,America/Chicago,651,NA,US,44.97,-93.08,Minneapolis,15550
+55131,STANDARD,0,Saint Paul,,,MN,Ramsey County,America/Chicago,,NA,US,44.94,-93.1,Minneapolis,0
+55133,UNIQUE,0,Saint Paul,,Minn Mining Boxes,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,0
+55144,UNIQUE,0,Saint Paul,Maplewood,3m Corp,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,659
+55145,UNIQUE,0,Saint Paul,,State Tax Dept,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,0
+55146,UNIQUE,0,Saint Paul,,State Tax Dept,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,0
+55150,PO BOX,0,Mendota,Saint Paul,,MN,Dakota County,America/Chicago,,NA,US,44.89,-93.17,Minneapolis,178
+55155,UNIQUE,0,Saint Paul,,State Offices,MN,Ramsey County,America/Chicago,651,NA,US,44.96,-93.08,Minneapolis,32
+55161,UNIQUE,1,Saint Paul,,State Farm Ins,MN,Ramsey County,America/Chicago,651,NA,US,45.01,-93.15,Minneapolis,0
+55164,PO BOX,0,Saint Paul,,,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,80
+55165,PO BOX,1,Saint Paul,,,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,237
+55166,PO BOX,1,Saint Paul,,,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,0
+55168,UNIQUE,1,Saint Paul,,V A,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,0
+55169,UNIQUE,1,Saint Paul,,Usps Fac Area Office,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.09,Minneapolis,0
+55170,UNIQUE,0,Saint Paul,,"First Bank St Paul, Us Bank, Us Bank Visa",MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,0
+55171,UNIQUE,1,Saint Paul,,Us Bank Visa,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,0
+55172,PO BOX,1,Saint Paul,,Bar Code,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,0
+55175,PO BOX,1,Saint Paul,,,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,161
+55177,UNIQUE,1,Saint Paul,,Spotts Inc,MN,Ramsey County,America/Chicago,651,NA,US,45.01,-93.15,Minneapolis,0
+55187,UNIQUE,1,Saint Paul,,Target Direct,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-92.91,Minneapolis,0
+55188,UNIQUE,1,Saint Paul,,Target Direct,MN,Ramsey County,America/Chicago,651,NA,US,44.94,-93.1,Minneapolis,0
+55191,UNIQUE,1,Saint Paul,,New Brighton Boxes,MN,Ramsey County,America/Chicago,651,NA,US,45.07,-93.19,Minneapolis,0
+55301,STANDARD,0,Albertville,Otsego,,MN,Wright County,America/Chicago,,NA,US,45.23,-93.66,Minneapolis,12060
+55302,STANDARD,0,Annandale,,,MN,Wright County,America/Chicago,320,NA,US,45.26,-94.11,Minneapolis,6800
+55303,STANDARD,0,Anoka,"Andover, Nowthen, Oak Grove, Ramsey",,MN,Anoka County,America/Chicago,763,NA,US,45.21,-93.39,Minneapolis,47970
+55304,STANDARD,0,Andover,"Anoka, Ham Lake","County Market, Soderville",MN,Anoka County,America/Chicago,763,NA,US,45.25,-93.33,Minneapolis,48660
+55305,STANDARD,0,Hopkins,Minnetonka,,MN,Hennepin County,America/Chicago,############,NA,US,44.96,-93.43,Minneapolis,19830
+55306,STANDARD,0,Burnsville,,,MN,Dakota County,America/Chicago,952,NA,US,44.73,-93.29,Minneapolis,15940
+55308,STANDARD,0,Becker,,,MN,Sherburne County,America/Chicago,763,NA,US,45.44,-93.83,Minneapolis,9440
+55309,STANDARD,0,Big Lake,,,MN,Sherburne County,America/Chicago,763,NA,US,45.33,-93.74,Minneapolis,19580
+55311,STANDARD,0,Maple Grove,Osseo,"Corcoran, Hassan",MN,Hennepin County,America/Chicago,763,NA,US,45.11,-93.5,Minneapolis,36890
+55313,STANDARD,0,Buffalo,Hanover,,MN,Wright County,America/Chicago,320,NA,US,45.17,-93.86,Minneapolis,23210
+55315,STANDARD,0,Carver,,,MN,Carver County,America/Chicago,952,NA,US,44.72,-93.69,Minneapolis,6110
+55316,STANDARD,0,Champlin,,,MN,Hennepin County,America/Chicago,763,NA,US,45.16,-93.38,Minneapolis,23380
+55317,STANDARD,0,Chanhassen,,,MN,Carver County,America/Chicago,952,NA,US,44.85,-93.55,Minneapolis,21900
+55318,STANDARD,0,Chaska,Victoria,,MN,Carver County,America/Chicago,952,NA,US,44.82,-93.6,Minneapolis,28310
+55319,STANDARD,0,Clear Lake,,,MN,Sherburne County,America/Chicago,"763,320",NA,US,45.44,-93.99,Minneapolis,5240
+55320,STANDARD,0,Clearwater,Saint Augusta,,MN,Wright County,America/Chicago,320,NA,US,45.41,-94.04,Minneapolis,4880
+55321,STANDARD,0,Cokato,,,MN,Wright County,America/Chicago,320,NA,US,45.07,-94.18,Minneapolis,5270
+55322,STANDARD,0,Cologne,,,MN,Carver County,America/Chicago,952,NA,US,44.77,-93.78,Minneapolis,3530
+55323,PO BOX,0,Crystal Bay,,Orono,MN,Hennepin County,America/Chicago,952,NA,US,44.97,-93.59,Minneapolis,63
+55327,STANDARD,0,Dayton,,"Hassan, Otsego",MN,Hennepin County,America/Chicago,,NA,US,45.18,-93.47,Minneapolis,4630
+55328,STANDARD,0,Delano,,Independence,MN,Wright County,America/Chicago,763,NA,US,45.04,-93.78,Minneapolis,9530
+55330,STANDARD,0,Elk River,"Burns Township, Burns Twp, Nowthen, Otsego",Ramsey,MN,Sherburne County,America/Chicago,,NA,US,45.33,-93.56,Minneapolis,41120
+55331,STANDARD,0,Excelsior,"Greenwood, Minnetrista, Shorewood","Deephaven, Orono, Tonka Bay",MN,Hennepin County,America/Chicago,,NA,US,44.9,-93.56,Minneapolis,19100
+55337,STANDARD,0,Burnsville,,,MN,Dakota County,America/Chicago,952,NA,US,44.76,-93.27,Minneapolis,43910
+55339,STANDARD,0,Hamburg,,,MN,Carver County,America/Chicago,952,NA,US,44.73,-93.96,Minneapolis,970
+55340,STANDARD,0,Hamel,"Corcoran, Medina",,MN,Hennepin County,America/Chicago,763,NA,US,45.07,-93.58,Minneapolis,8760
+55341,STANDARD,0,Hanover,Saint Michael,,MN,Wright County,America/Chicago,,NA,US,45.15,-93.65,Minneapolis,3480
+55343,STANDARD,0,Hopkins,"Eden Prairie, Minetonka Mls, Minnetnka Mls, Minnetonka, Minnetonka Mills",,MN,Hennepin County,America/Chicago,############,NA,US,44.92,-93.4,Minneapolis,23790
+55344,STANDARD,0,Eden Prairie,,,MN,Hennepin County,America/Chicago,952,NA,US,44.86,-93.43,Minneapolis,14390
+55345,STANDARD,0,Minnetonka,Hopkins,,MN,Hennepin County,America/Chicago,"612,651,763",NA,US,44.93,-93.46,Minneapolis,21620
+55346,STANDARD,0,Eden Prairie,,,MN,Hennepin County,America/Chicago,952,NA,US,44.88,-93.48,Minneapolis,17190
+55347,STANDARD,0,Eden Prairie,,,MN,Hennepin County,America/Chicago,952,NA,US,44.84,-93.45,Minneapolis,31260
+55348,PO BOX,1,Maple Plain,,,MN,Hennepin County,America/Chicago,952,NA,US,45,-93.66,Minneapolis,0
+55349,STANDARD,0,Howard Lake,,,MN,Wright County,America/Chicago,320,NA,US,45.05,-94.06,Minneapolis,3600
+55352,STANDARD,0,Jordan,,,MN,Scott County,America/Chicago,952,NA,US,44.66,-93.63,Minneapolis,9540
+55356,STANDARD,0,Long Lake,Orono,,MN,Hennepin County,America/Chicago,,NA,US,44.98,-93.56,Minneapolis,5690
+55357,STANDARD,0,Loretto,Independence,"Corcoran, Greenfield, Medina",MN,Hennepin County,America/Chicago,,NA,US,45.11,-93.67,Minneapolis,3370
+55358,STANDARD,0,Maple Lake,Silver Creek,,MN,Wright County,America/Chicago,"763,320",NA,US,45.23,-94,Minneapolis,5100
+55359,STANDARD,0,Maple Plain,"Independence, Minnetrista, Orono",Medina,MN,Hennepin County,America/Chicago,,NA,US,45,-93.66,Minneapolis,6300
+55360,STANDARD,0,Mayer,,,MN,Carver County,America/Chicago,952,NA,US,44.88,-93.88,Minneapolis,3340
+55361,PO BOX,0,Minnetonka Beach,"Minetonka Bch, Minnetnka Bch",,MN,Hennepin County,America/Chicago,,NA,US,44.93,-93.58,Minneapolis,33
+55362,STANDARD,0,Monticello,Otsego,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,19190
+55363,STANDARD,0,Montrose,,,MN,Wright County,America/Chicago,763,NA,US,45.06,-93.91,Minneapolis,4840
+55364,STANDARD,0,Mound,Minnetrista,"Orono, Shorewood",MN,Hennepin County,America/Chicago,"763,952",NA,US,44.93,-93.66,Minneapolis,14550
+55365,PO BOX,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,0
+55367,STANDARD,0,New Germany,,,MN,Carver County,America/Chicago,320,NA,US,44.88,-93.97,Minneapolis,940
+55368,STANDARD,0,Norwood Young America,"Norwood, Nya",,MN,Carver County,America/Chicago,952,NA,US,44.76,-93.92,Minneapolis,2190
+55369,STANDARD,0,Osseo,Maple Grove,Hassan,MN,Hennepin County,America/Chicago,763,NA,US,45.13,-93.45,Minneapolis,36520
+55371,STANDARD,0,Princeton,Baldwin,,MN,Mille Lacs County,America/Chicago,763,NA,US,45.57,-93.59,Minneapolis,15900
+55372,STANDARD,0,Prior Lake,Shakopee,,MN,Scott County,America/Chicago,952,NA,US,44.72,-93.43,Minneapolis,33500
+55373,STANDARD,0,Rockford,,"Greenfield, Independence",MN,Wright County,America/Chicago,763,NA,US,45.08,-93.73,Minneapolis,5390
+55374,STANDARD,0,Rogers,Otsego,"Corcoran, Hassan",MN,Hennepin County,America/Chicago,763,NA,US,45.19,-93.55,Minneapolis,15750
+55375,STANDARD,0,Saint Bonifacius,"Crown College, Minnetrista, St Bonifacius",Bible College,MN,Hennepin County,America/Chicago,,NA,US,44.9,-93.74,Minneapolis,4320
+55376,STANDARD,0,Saint Michael,Hanover,,MN,Wright County,America/Chicago,,NA,US,45.21,-93.66,Minneapolis,17900
+55377,PO BOX,0,Santiago,,,MN,Sherburne County,America/Chicago,763,NA,US,45.45,-93.83,Minneapolis,17
+55378,STANDARD,0,Savage,,,MN,Scott County,America/Chicago,952,NA,US,44.75,-93.35,Minneapolis,30730
+55379,STANDARD,0,Shakopee,Prior Lake,,MN,Scott County,America/Chicago,952,NA,US,44.77,-93.47,Minneapolis,45110
+55380,PO BOX,1,Silver Creek,Maple Lake,Silver Lake,MN,Wright County,America/Chicago,,NA,US,45.32,-93.95,Minneapolis,0
+55383,PO BOX,1,Norwood,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.76,-93.92,Minneapolis,0
+55384,STANDARD,0,Spring Park,,,MN,Hennepin County,America/Chicago,,NA,US,44.94,-93.63,Minneapolis,1360
+55386,STANDARD,0,Victoria,,,MN,Carver County,America/Chicago,952,NA,US,44.86,-93.65,Minneapolis,9460
+55387,STANDARD,0,Waconia,Victoria,Minnetrista,MN,Carver County,America/Chicago,952,NA,US,44.84,-93.79,Minneapolis,14050
+55388,STANDARD,0,Watertown,Minnetrista,,MN,Carver County,America/Chicago,952,NA,US,44.96,-93.84,Minneapolis,5540
+55390,STANDARD,0,Waverly,,,MN,Wright County,America/Chicago,,NA,US,45.06,-93.96,Minneapolis,2910
+55391,STANDARD,0,Wayzata,,"Deephaven, Orono, Woodland",MN,Hennepin County,America/Chicago,"763,952",NA,US,44.97,-93.51,Minneapolis,15250
+55392,PO BOX,1,Navarre,,,MN,Hennepin County,America/Chicago,,NA,US,44.95,-93.54,Minneapolis,0
+55393,PO BOX,1,Maple Plain,,,MN,Hennepin County,America/Chicago,952,NA,US,45,-93.66,Minneapolis,0
+55394,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55397,STANDARD,0,Young America,"Norwood Young America, Nya",,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,2770
+55398,STANDARD,0,Zimmerman,,,MN,Sherburne County,America/Chicago,763,NA,US,45.44,-93.59,Minneapolis,16380
+55399,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55401,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,############,NA,US,44.98,-93.27,Minneapolis,9360
+55402,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,############,NA,US,44.98,-93.27,Minneapolis,1230
+55403,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,"612,763,952",NA,US,44.97,-93.28,Minneapolis,12100
+55404,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,############,NA,US,44.96,-93.26,Minneapolis,20260
+55405,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,"612,763,952",NA,US,44.97,-93.3,Minneapolis,12820
+55406,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,612,NA,US,44.94,-93.22,Minneapolis,31510
+55407,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,612,NA,US,44.94,-93.25,Minneapolis,33960
+55408,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,612,NA,US,44.94,-93.29,Minneapolis,26810
+55409,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,612,NA,US,44.93,-93.28,Minneapolis,10700
+55410,STANDARD,0,Minneapolis,Edina,,MN,Hennepin County,America/Chicago,"612,952",NA,US,44.91,-93.32,Minneapolis,20200
+55411,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,############,NA,US,45,-93.3,Minneapolis,25810
+55412,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,############,NA,US,45.03,-93.3,Minneapolis,20190
+55413,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,############,NA,US,45,-93.24,Minneapolis,10610
+55414,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,############,NA,US,44.98,-93.23,Minneapolis,13420
+55415,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,############,NA,US,44.97,-93.26,Minneapolis,3380
+55416,STANDARD,0,Minneapolis,"Edina, Golden Valley, Saint Louis Park, St Louis Park",,MN,Hennepin County,America/Chicago,612,NA,US,44.95,-93.34,Minneapolis,30180
+55417,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,612,NA,US,44.9,-93.23,Minneapolis,24250
+55418,STANDARD,0,Minneapolis,"Saint Anthony, St Anthny Vlg, St Anthony, St Anthony Village",,MN,Hennepin County,America/Chicago,############,NA,US,45.02,-93.24,Minneapolis,27860
+55419,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,"612,952",NA,US,44.91,-93.29,Minneapolis,26690
+55420,STANDARD,0,Minneapolis,Bloomington,,MN,Hennepin County,America/Chicago,952,NA,US,44.84,-93.28,Minneapolis,21440
+55421,STANDARD,0,Minneapolis,"Columbia Heights, Columbia Hts, Fridley, Hilltop, Saint Anthony","St Anthony, St Anthony Village",MN,Anoka County,America/Chicago,############,NA,US,45.05,-93.25,Minneapolis,26750
+55422,STANDARD,0,Minneapolis,"Crystal, Golden Valley, Robbinsdale",,MN,Hennepin County,America/Chicago,"763,952",NA,US,45.01,-93.34,Minneapolis,26250
+55423,STANDARD,0,Minneapolis,"Edina, Richfield",,MN,Hennepin County,America/Chicago,612,NA,US,44.87,-93.28,Minneapolis,34830
+55424,STANDARD,0,Minneapolis,"Edina, Saint Louis Park, St Louis Park",,MN,Hennepin County,America/Chicago,"612,952",NA,US,44.91,-93.34,Minneapolis,10100
+55425,STANDARD,0,Minneapolis,Bloomington,,MN,Hennepin County,America/Chicago,952,NA,US,44.85,-93.23,Minneapolis,9110
+55426,STANDARD,0,Minneapolis,"Golden Valley, Saint Louis Park, St Louis Park",,MN,Hennepin County,America/Chicago,############,NA,US,44.96,-93.37,Minneapolis,23320
+55427,STANDARD,0,Minneapolis,"Crystal, Golden Valley, New Hope",,MN,Hennepin County,America/Chicago,############,NA,US,45.01,-93.38,Minneapolis,22700
+55428,STANDARD,0,Minneapolis,"Brooklyn Center, Brooklyn Ctr, Brooklyn Park, Crystal, New Hope",,MN,Hennepin County,America/Chicago,763,NA,US,45.06,-93.38,Minneapolis,28210
+55429,STANDARD,0,Minneapolis,"Brooklyn Center, Brooklyn Ctr, Brooklyn Park, Crystal",Brooklyn Pk,MN,Hennepin County,America/Chicago,763,NA,US,45.06,-93.34,Minneapolis,27110
+55430,STANDARD,0,Minneapolis,"Brooklyn Center, Brooklyn Ctr",,MN,Hennepin County,America/Chicago,############,NA,US,45.07,-93.3,Minneapolis,22220
+55431,STANDARD,0,Minneapolis,Bloomington,,MN,Hennepin County,America/Chicago,952,NA,US,44.83,-93.31,Minneapolis,18530
+55432,STANDARD,0,Minneapolis,"Fridley, Spring Lake Park, Spring Lk Pk",,MN,Anoka County,America/Chicago,"651,763",NA,US,45.1,-93.25,Minneapolis,29600
+55433,STANDARD,0,Minneapolis,Coon Rapids,,MN,Anoka County,America/Chicago,763,NA,US,45.16,-93.31,Minneapolis,31710
+55434,STANDARD,0,Minneapolis,Blaine,,MN,Anoka County,America/Chicago,"651,763",NA,US,45.16,-93.25,Minneapolis,29610
+55435,STANDARD,0,Minneapolis,"Bloomington, Edina",,MN,Hennepin County,America/Chicago,############,NA,US,44.87,-93.33,Minneapolis,12420
+55436,STANDARD,0,Minneapolis,"Edina, Saint Louis Park, St Louis Park",St Louis Pk,MN,Hennepin County,America/Chicago,############,NA,US,44.9,-93.37,Minneapolis,14010
+55437,STANDARD,0,Minneapolis,Bloomington,,MN,Hennepin County,America/Chicago,952,NA,US,44.82,-93.34,Minneapolis,18460
+55438,STANDARD,0,Minneapolis,Bloomington,,MN,Hennepin County,America/Chicago,952,NA,US,44.82,-93.38,Minneapolis,16580
+55439,STANDARD,0,Minneapolis,Edina,,MN,Hennepin County,America/Chicago,############,NA,US,44.88,-93.37,Minneapolis,9640
+55440,PO BOX,0,Minneapolis,,Minn,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,1819
+55441,STANDARD,0,Minneapolis,"Medicine Lake, Plymouth",,MN,Hennepin County,America/Chicago,############,NA,US,45.01,-93.42,Minneapolis,17080
+55442,STANDARD,0,Minneapolis,Plymouth,,MN,Hennepin County,America/Chicago,############,NA,US,45.05,-93.43,Minneapolis,12720
+55443,STANDARD,0,Minneapolis,"Brooklyn Center, Brooklyn Ctr, Brooklyn Park",Brooklyn Pk,MN,Hennepin County,America/Chicago,612,NA,US,45.12,-93.34,Minneapolis,35540
+55444,STANDARD,0,Minneapolis,"Brooklyn Center, Brooklyn Ctr, Brooklyn Park",Brooklyn Pk,MN,Hennepin County,America/Chicago,"651,763",NA,US,45.1,-93.3,Minneapolis,16870
+55445,STANDARD,0,Minneapolis,Brooklyn Park,Brooklyn Pk,MN,Hennepin County,America/Chicago,612,NA,US,45.12,-93.38,Minneapolis,13230
+55446,STANDARD,0,Minneapolis,Plymouth,,MN,Hennepin County,America/Chicago,763,NA,US,45.04,-93.49,Minneapolis,26870
+55447,STANDARD,0,Minneapolis,Plymouth,,MN,Hennepin County,America/Chicago,############,NA,US,45,-93.49,Minneapolis,20530
+55448,STANDARD,0,Minneapolis,Coon Rapids,,MN,Anoka County,America/Chicago,763,NA,US,45.19,-93.3,Minneapolis,27360
+55449,STANDARD,0,Minneapolis,Blaine,,MN,Anoka County,America/Chicago,612,NA,US,45.18,-93.18,Minneapolis,31840
+55450,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,612,NA,US,44.88,-93.22,Minneapolis,0
+55454,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,############,NA,US,44.97,-93.23,Minneapolis,5590
+55455,STANDARD,0,Minneapolis,,,MN,Hennepin County,America/Chicago,############,NA,US,44.97,-93.23,Minneapolis,80
+55458,PO BOX,0,Minneapolis,,,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,818
+55459,PO BOX,0,Minneapolis,,,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,0
+55460,PO BOX,1,Minneapolis,,,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,0
+55467,UNIQUE,0,Minneapolis,,Wells Fargo Home Mortgage,MN,Hennepin County,America/Chicago,612,NA,US,44.97,-93.26,Minneapolis,0
+55468,UNIQUE,1,Minneapolis,Damark,,MN,Hennepin County,America/Chicago,612,NA,US,44.98,-93.26,Minneapolis,0
+55470,PO BOX,0,Minneapolis,,,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,0
+55472,UNIQUE,0,Minneapolis,,Abmps,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,0
+55473,PO BOX,1,Minneapolis,"Norwood Young America, Nya",,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,0
+55474,UNIQUE,0,Minneapolis,,Ameriprise Financial,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,0
+55478,UNIQUE,0,Minneapolis,,Macys,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,0
+55479,UNIQUE,0,Minneapolis,,Wells Fargo Bank,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,28
+55480,PO BOX,0,Minneapolis,,,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,0
+55483,UNIQUE,0,Minneapolis,,Qwest,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,0
+55484,UNIQUE,0,Minneapolis,,Excel Energy,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,0
+55485,UNIQUE,0,Minneapolis,,Wells Fargo Bank,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,0
+55486,UNIQUE,0,Minneapolis,,Us Bank,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,0
+55487,UNIQUE,0,Minneapolis,,Hennepin County Govt Ctr,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,15
+55488,UNIQUE,0,Minneapolis,,Minneapolis Tribune,MN,Hennepin County,America/Chicago,612,NA,US,44.96,-93.26,Minneapolis,0
+55550,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55551,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55552,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55553,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55554,PO BOX,0,Norwood,,,MN,Carver County,America/Chicago,952,NA,US,44.76,-93.92,Minneapolis,0
+55555,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55556,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55557,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55558,UNIQUE,1,Young America,,"Norwood Young America, Young America Corp",MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55559,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55560,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55561,STANDARD,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.27,-93.8,Minneapolis,0
+55562,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55563,STANDARD,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.27,-93.8,Minneapolis,0
+55564,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55565,PO BOX,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,0
+55566,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55567,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55568,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55569,PO BOX,0,Osseo,Maple Grove,,MN,Hennepin County,America/Chicago,763,NA,US,45.11,-93.39,Minneapolis,0
+55570,PO BOX,1,Maple Plain,,,MN,Hennepin County,America/Chicago,952,NA,US,45,-93.66,Minneapolis,0
+55571,PO BOX,1,Maple Plain,,,MN,Hennepin County,America/Chicago,952,NA,US,45,-93.66,Minneapolis,0
+55572,PO BOX,0,Rockford,,Greenfield,MN,Wright County,America/Chicago,763,NA,US,45,-93.66,Minneapolis,0
+55573,PO BOX,0,Young America,,,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55574,PO BOX,1,Maple Plain,,,MN,Hennepin County,America/Chicago,952,NA,US,45,-93.66,Minneapolis,0
+55575,PO BOX,0,Howard Lake,,,MN,Wright County,America/Chicago,320,NA,US,45.05,-94.06,Minneapolis,0
+55576,PO BOX,1,Maple Plain,,,MN,Hennepin County,America/Chicago,952,NA,US,45,-93.66,Minneapolis,0
+55577,PO BOX,0,Rockford,,,MN,Wright County,America/Chicago,763,NA,US,45,-93.66,Minneapolis,0
+55578,PO BOX,1,Maple Plain,,,MN,Hennepin County,America/Chicago,952,NA,US,45,-93.66,Minneapolis,0
+55579,PO BOX,1,Maple Plain,,,MN,Hennepin County,America/Chicago,952,NA,US,45,-93.66,Minneapolis,0
+55580,PO BOX,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,0
+55581,PO BOX,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,0
+55582,PO BOX,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,0
+55583,PO BOX,1,Norwood,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.76,-93.92,Minneapolis,0
+55584,PO BOX,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,0
+55585,PO BOX,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,0
+55586,PO BOX,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,0
+55587,PO BOX,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,0
+55588,PO BOX,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,0
+55589,PO BOX,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,0
+55590,PO BOX,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,0
+55591,PO BOX,1,Monticello,,,MN,Wright County,America/Chicago,763,NA,US,45.3,-93.8,Minneapolis,0
+55592,PO BOX,0,Maple Plain,,,MN,Hennepin County,America/Chicago,952,NA,US,45,-93.66,Minneapolis,0
+55593,PO BOX,0,Maple Plain,,,MN,Hennepin County,America/Chicago,952,NA,US,45,-93.66,Minneapolis,0
+55594,PO BOX,1,Young America,,Norwood Young America,MN,Carver County,America/Chicago,952,NA,US,44.78,-93.91,Minneapolis,0
+55595,PO BOX,1,Loretto,,,MN,Hennepin County,America/Chicago,763,NA,US,45.05,-93.63,Minneapolis,0
+55596,PO BOX,1,Loretto,,,MN,Hennepin County,America/Chicago,763,NA,US,45.05,-93.63,Minneapolis,0
+55597,PO BOX,1,Loretto,,,MN,Hennepin County,America/Chicago,763,NA,US,45.05,-93.63,Minneapolis,0
+55598,PO BOX,1,Loretto,,,MN,Hennepin County,America/Chicago,763,NA,US,45.05,-93.63,Minneapolis,0
+55599,PO BOX,0,Loretto,,,MN,Hennepin County,America/Chicago,763,NA,US,45.05,-93.63,Minneapolis,0
+56011,STANDARD,0,Belle Plaine,,,MN,Scott County,America/Chicago,952,NA,US,44.62,-93.76,Minneapolis,9060
+56017,STANDARD,0,Cleveland,,,MN,Le Sueur County,America/Chicago,507,NA,US,44.32,-93.83,Minneapolis,1620
+56028,STANDARD,0,Elysian,,,MN,Le Sueur County,America/Chicago,507,NA,US,44.2,-93.67,Minneapolis,1290
+56050,STANDARD,0,Kasota,,,MN,Le Sueur County,America/Chicago,507,NA,US,44.29,-93.96,Minneapolis,1460
+56052,STANDARD,0,Kilkenny,,,MN,Le Sueur County,America/Chicago,507,NA,US,44.31,-93.57,Minneapolis,690
+56057,STANDARD,0,Le Center,,,MN,Le Sueur County,America/Chicago,507,NA,US,44.38,-93.73,Minneapolis,3720
+56058,STANDARD,0,Le Sueur,,,MN,Le Sueur County,America/Chicago,507,NA,US,44.46,-93.9,Minneapolis,5760
+56069,STANDARD,0,Montgomery,,,MN,Le Sueur County,America/Chicago,507,NA,US,44.43,-93.58,Minneapolis,4520
+56071,STANDARD,0,New Prague,Heidelberg,,MN,Scott County,America/Chicago,952,NA,US,44.54,-93.57,Minneapolis,12490
+56096,STANDARD,0,Waterville,,,MN,Le Sueur County,America/Chicago,507,NA,US,44.22,-93.57,Minneapolis,2800
+56304,STANDARD,0,Saint Cloud,,,MN,Sherburne County,America/Chicago,320,NA,US,45.53,-94.06,Minneapolis,13110
+56313,PO BOX,0,Bock,,,MN,Mille Lacs County,America/Chicago,,NA,US,45.78,-93.55,Minneapolis,93
+56330,STANDARD,0,Foreston,,,MN,Mille Lacs County,America/Chicago,320,NA,US,45.73,-93.7,Minneapolis,1640
+56342,STANDARD,0,Isle,,,MN,Mille Lacs County,America/Chicago,320,NA,US,46.14,-93.46,Minneapolis,2410
+56353,STANDARD,0,Milaca,,,MN,Mille Lacs County,America/Chicago,320,NA,US,45.75,-93.65,Minneapolis,8410
+56359,STANDARD,0,Onamia,,,MN,Mille Lacs County,America/Chicago,320,NA,US,46.06,-93.66,Minneapolis,2870
+56363,PO BOX,0,Pease,,,MN,Mille Lacs County,America/Chicago,,NA,US,45.7,-93.65,Minneapolis,131
+56386,STANDARD,0,Wahkon,,,MN,Mille Lacs County,America/Chicago,320,NA,US,46.11,-93.52,Minneapolis,570

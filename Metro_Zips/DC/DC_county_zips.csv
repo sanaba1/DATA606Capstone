@@ -1,0 +1,795 @@
+zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,Metro,irs_estimated_population
+20001,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.91,-77.02,DC,35320
+20002,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.91,-76.98,DC,53330
+20003,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.88,-76.99,DC,27480
+20004,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,1290
+20005,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.03,DC,9160
+20006,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.04,DC,710
+20007,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.91,-77.08,DC,18600
+20008,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.94,-77.06,DC,23940
+20009,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.92,-77.04,DC,41550
+20010,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.93,-77.03,DC,27210
+20011,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.95,-77.02,DC,62810
+20012,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.98,-77.03,DC,14020
+20013,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,868
+20015,STANDARD,0,Washington,Chevy Chase,,DC,District of Columbia,America/New_York,202,NA,US,38.97,-77.06,DC,15160
+20016,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.94,-77.09,DC,24500
+20017,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.94,-76.99,DC,16170
+20018,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.93,-76.97,DC,16800
+20019,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-76.94,DC,50130
+20020,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.86,-76.98,DC,42310
+20022,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.91,-76.96,DC,0
+20023,PO BOX,1,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.01,DC,0
+20024,STANDARD,0,Washington,"Fort Lesley J Mcnair, Fort Mcnair, Ft L J Mcnair",,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,11930
+20026,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,308
+20027,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.9,-76.98,DC,104
+20029,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,511
+20030,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,559
+20032,STANDARD,0,Washington,Bolling AFB,"Bolling Air Force Base, Wash, Washing, Washingtn",DC,District of Columbia,America/New_York,202,NA,US,38.83,-77.01,DC,31150
+20033,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,80
+20035,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,126
+20036,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.91,-77.04,DC,4150
+20037,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.06,DC,6320
+20038,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,261
+20039,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,166
+20040,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,212
+20041,PO BOX,0,Washington,,Dulles International Airp,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,75
+20042,UNIQUE,0,Washington,,Sun Trust Bank Inc,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20043,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,86
+20044,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,335
+20045,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.03,DC,32
+20046,UNIQUE,1,Washington,,G E I C O,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20047,UNIQUE,0,Washington,,Criterion Ins Co,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20049,UNIQUE,0,Washington,,Amer Assc Retired Persons,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20050,PO BOX,0,Washington,Pentagon,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20051,UNIQUE,1,Washington,,Woodward And Lothrop,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20052,UNIQUE,0,Washington,,G W Univ,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.05,DC,124
+20053,UNIQUE,0,Washington,,Verizon,DC,District of Columbia,America/New_York,202,NA,US,38.88,-77.01,DC,0
+20055,UNIQUE,0,Washington,,Bank Of America,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20056,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,147
+20057,UNIQUE,0,Washington,,Georgetown Univ,DC,District of Columbia,America/New_York,202,NA,US,38.91,-77.08,DC,799
+20058,UNIQUE,0,Washington,,Marriott Corp,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20059,UNIQUE,0,Washington,,Howard Univ,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,99
+20060,UNIQUE,0,Washington,,Howard University Hospital,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20061,UNIQUE,0,Washington,,Wells Fargo,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20062,UNIQUE,0,Washington,,Us Chamber Of Com,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20063,UNIQUE,0,Washington,,Int Group Plans Inc,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20064,UNIQUE,0,Washington,,Catholic Univ,DC,District of Columbia,America/New_York,202,NA,US,38.94,-77,DC,33
+20065,UNIQUE,0,Washington,,Blue Cross Group Hosp,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20066,UNIQUE,0,Washington,,Washington Dc Post Office,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20067,UNIQUE,0,Washington,,Pepco,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20068,UNIQUE,0,Washington,,Pepco,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20069,UNIQUE,0,Washington,,Wash Intell Bureau Inc,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20070,UNIQUE,0,Washington,,Wash Intell Bureau Inc,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20071,UNIQUE,0,Washington,,Washington Post,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,28
+20073,UNIQUE,0,Washington,,Pnc Financial,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20074,UNIQUE,0,Washington,,Pnc Financial,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20075,UNIQUE,0,Washington,,Pnc Financial,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20076,UNIQUE,0,Washington,,Geico,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20077,UNIQUE,0,Washington,,Washington Brm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20078,UNIQUE,0,Washington,,Washington Brm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20080,UNIQUE,0,Washington,,Washington Gas,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20081,UNIQUE,0,Washington,,Washington Gas,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20082,UNIQUE,0,Washington,,Natl Repub Cong Comm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20088,PO BOX,1,Washington,,Friendship Heights,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20090,PO BOX,0,Washington,,General Delivery,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,394
+20091,PO BOX,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,125
+20097,UNIQUE,1,Washington,,Natl Repub Cong Comm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20098,UNIQUE,1,Washington,,Vietnam Vet Mem Fund,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+22301,STANDARD,0,Alexandria,Potomac,,VA,Alexandria city,America/New_York,"571,703",NA,US,38.82,-77.06,DC,13270
+22302,STANDARD,0,Alexandria,,,VA,Alexandria city,America/New_York,"571,703",NA,US,38.82,-77.08,DC,16090
+22304,STANDARD,0,Alexandria,,"Cameron Station, Theological Seminary, Trade Center",VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.11,DC,42600
+22305,STANDARD,0,Alexandria,,George Washington,VA,Alexandria city,America/New_York,"571,703",NA,US,38.84,-77.06,DC,14970
+22311,STANDARD,0,Alexandria,,,VA,Alexandria city,America/New_York,"571,703",NA,US,38.83,-77.13,DC,16590
+22313,PO BOX,0,Alexandria,,,VA,Alexandria City,America/New_York,571,NA,US,38.82,-77.08,DC,457
+22314,STANDARD,0,Alexandria,,,VA,Alexandria city,America/New_York,"571,703",NA,US,38.81,-77.06,DC,30900
+22320,PO BOX,0,Alexandria,,,VA,Alexandria City,America/New_York,571,NA,US,38.82,-77.08,DC,184
+22321,UNIQUE,1,Alexandria,Firm Zip,,VA,Alexandria City,America/New_York,571,NA,US,38.8,-77.05,DC,0
+22331,STANDARD,0,Alexandria,,,VA,Alexandria City,America/New_York,703,NA,US,38.82,-77.08,DC,0
+22332,STANDARD,0,Alexandria,,,VA,Alexandria City,America/New_York,571,NA,US,38.82,-77.08,DC,0
+22333,UNIQUE,0,Alexandria,,Us Army Mat Com,VA,Alexandria City,America/New_York,571,NA,US,38.82,-77.08,DC,0
+22334,UNIQUE,0,Alexandria,,Sun Trust Bank,VA,Alexandria City,America/New_York,571,NA,US,38.82,-77.08,DC,0
+22336,UNIQUE,1,Alexandria,,Woodward & Lothrop,VA,Alexandria City,America/New_York,571,NA,US,38.8,-77.04,DC,0
+22201,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"571,703",NA,US,38.89,-77.1,DC,31480
+22202,STANDARD,0,Arlington,,Crystal City,VA,Arlington County,America/New_York,"571,703",NA,US,38.86,-77.05,DC,20150
+22203,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"571,703",NA,US,38.87,-77.12,DC,20060
+22204,STANDARD,0,Arlington,,South,VA,Arlington County,America/New_York,"571,703",NA,US,38.87,-77.1,DC,46660
+22205,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"703,571",NA,US,38.88,-77.14,DC,17630
+22206,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,703,NA,US,38.84,-77.09,DC,18890
+22207,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"703,571",NA,US,38.91,-77.12,DC,31550
+22209,STANDARD,0,Arlington,Rosslyn,,VA,Arlington County,America/New_York,"571,703",NA,US,38.9,-77.08,DC,10950
+22210,PO BOX,0,Arlington,,,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,264
+22211,STANDARD,0,Fort Myer,Ft Myer,,VA,Arlington County,America/New_York,"571,703",NA,US,38.87,-77.07,DC,620
+22212,UNIQUE,0,Arlington,,Navy Mutual Aid Assoc,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+22213,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"571,703",NA,US,38.9,-77.16,DC,3470
+22214,STANDARD,0,Arlington,,,VA,Arlington County,America/New_York,"571,703",NA,US,38.87,-77.07,DC,133
+22215,PO BOX,0,Arlington,,,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,201
+22216,PO BOX,0,Arlington,,,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,181
+22217,UNIQUE,0,Arlington,,Office Of Naval Research,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+22218,UNIQUE,1,Arlington,Visa Lottery,,VA,Arlington County,America/New_York,571,NA,US,38.88,-77.09,DC,0
+22219,PO BOX,0,Arlington,,,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,257
+22222,UNIQUE,1,Arlington,,Marine Corps Institute,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+22223,UNIQUE,1,Arlington,,"Marine Corps Institute, Business Reply Mail",VA,Arlington County,America/New_York,571,NA,US,38.88,-77.09,DC,0
+22225,UNIQUE,0,Arlington,,Dept Of The Navy,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+22226,UNIQUE,0,Arlington,,Fdic,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+22227,UNIQUE,0,Arlington,,Us Air,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+22229,UNIQUE,1,Arlington,Shared Firm Zip,,VA,Arlington County,America/New_York,571,NA,US,38.89,-77.07,DC,0
+22230,UNIQUE,0,Arlington,,National Science Foundation,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+22234,UNIQUE,1,Arlington,Gannett,,VA,Arlington County,America/New_York,571,NA,US,38.89,-77.07,DC,0
+22240,UNIQUE,0,Arlington,,Us Navy Accounting Office,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+22241,UNIQUE,0,Arlington,,Naval Supply System Command,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+22242,UNIQUE,0,Arlington,,Navy Sea Systems Command,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+22243,UNIQUE,0,Arlington,,Naval Air System Command,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+22244,UNIQUE,0,Arlington,,Assistant Secretary Of Navy,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+22245,UNIQUE,0,Arlington,,Space & Naval Warfare System,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+22246,UNIQUE,0,Arlington,,Us Unmanned Aerial Vehicles,VA,Arlington County,America/New_York,571,NA,US,38.87,-77.1,DC,0
+23147,PO BOX,0,Ruthville,,,VA,Charles City,America/New_York,804,NA,US,37.36,-77.04,DC,209
+20130,STANDARD,0,Paris,,,VA,Clarke County,America/New_York,,NA,US,39,-77.95,DC,260
+20135,STANDARD,0,Bluemont,Mount Weather,,VA,Clarke County,America/New_York,703,NA,US,39.11,-77.83,DC,2520
+22611,STANDARD,0,Berryville,Mount Weather,,VA,Clarke County,America/New_York,540,NA,US,39.14,-77.98,DC,8360
+22620,STANDARD,0,Boyce,,,VA,Clarke County,America/New_York,540,NA,US,39.09,-78.05,DC,2130
+22646,PO BOX,0,Millwood,,,VA,Clarke County,America/New_York,540,NA,US,39.06,-78.03,DC,408
+20106,STANDARD,0,Amissville,Viewtown,,VA,Culpeper County,America/New_York,,NA,US,38.67,-77.99,DC,4640
+22701,STANDARD,0,Culpeper,"Raccoon Ford, Winston",Catalpa,VA,Culpeper County,America/New_York,540,NA,US,38.47,-78,DC,33370
+22713,STANDARD,0,Boston,,,VA,Culpeper County,America/New_York,540,NA,US,38.54,-78.14,DC,1310
+22714,STANDARD,0,Brandy Station,Brandy Sta,Brandy,VA,Culpeper County,America/New_York,540,NA,US,38.52,-77.89,DC,970
+22718,STANDARD,0,Elkwood,,,VA,Culpeper County,America/New_York,540,NA,US,38.51,-77.85,DC,660
+22724,STANDARD,0,Jeffersonton,,,VA,Culpeper County,America/New_York,540,NA,US,38.63,-77.91,DC,2310
+22726,STANDARD,0,Lignum,,,VA,Culpeper County,America/New_York,540,NA,US,38.41,-77.82,DC,740
+22729,STANDARD,0,Mitchells,,,VA,Culpeper County,America/New_York,540,NA,US,38.37,-78,DC,172
+22733,STANDARD,0,Rapidan,,,VA,Culpeper County,America/New_York,540,NA,US,38.31,-78.06,DC,1200
+22735,STANDARD,0,Reva,,,VA,Culpeper County,America/New_York,540,NA,US,38.49,-78.13,DC,1980
+22736,STANDARD,0,Richardsville,,,VA,Culpeper County,America/New_York,540,NA,US,38.4,-77.72,DC,570
+22737,STANDARD,0,Rixeyville,,,VA,Culpeper County,America/New_York,540,NA,US,38.58,-77.97,DC,3130
+22741,STANDARD,0,Stevensburg,,,VA,Culpeper County,America/New_York,540,NA,US,38.43,-77.87,DC,200
+22034,STANDARD,0,Fairfax,,Journal Newspaper,VA,Fairfax City,America/New_York,571,NA,US,38.85,-77.29,DC,0
+22036,STANDARD,0,Fairfax,,Journal Newspaper,VA,Fairfax City,America/New_York,"571,703",NA,US,38.85,-77.29,DC,0
+22037,UNIQUE,0,Fairfax,,Mobil Oil Corp,VA,Fairfax City,America/New_York,571,NA,US,38.85,-77.29,DC,67
+22038,PO BOX,0,Fairfax,,,VA,Fairfax City,America/New_York,571,NA,US,38.85,-77.29,DC,415
+20120,STANDARD,0,Centreville,Sully Station,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.84,-77.44,DC,40450
+20121,STANDARD,0,Centreville,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.81,-77.46,DC,26750
+20122,PO BOX,0,Centreville,,,VA,Fairfax County,America/New_York,571,NA,US,38.84,-77.44,DC,621
+20124,STANDARD,0,Clifton,,,VA,Fairfax County,America/New_York,571,NA,US,38.77,-77.38,DC,15080
+20151,STANDARD,0,Chantilly,Fairfax,,VA,Fairfax County,America/New_York,571,NA,US,38.9,-77.45,DC,21880
+20153,PO BOX,0,Chantilly,Fairfax,,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.4,DC,632
+20170,STANDARD,0,Herndon,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.96,-77.38,DC,40620
+20171,STANDARD,0,Herndon,Oak Hill,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.92,-77.4,DC,49720
+20172,PO BOX,0,Herndon,,,VA,Fairfax County,America/New_York,571,NA,US,38.96,-77.38,DC,769
+20190,STANDARD,0,Reston,Herndon,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.95,-77.34,DC,17820
+20191,STANDARD,0,Reston,Herndon,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.93,-77.35,DC,27670
+20192,UNIQUE,0,Herndon,Reston,"Hundon, Us Geological Survey",VA,Fairfax County,America/New_York,571,NA,US,38.96,-77.38,DC,0
+20193,UNIQUE,1,Reston,"Herndon, Hundon, Sallie Mae",,VA,Fairfax County,America/New_York,571,NA,US,38.93,-77.34,DC,0
+20201,UNIQUE,0,Washington,,Dept Hlth Human Serv,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20202,UNIQUE,0,Washington,,Dept Education,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.02,DC,0
+20203,UNIQUE,0,Washington,,Social Securtiy Admin,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20204,UNIQUE,0,Washington,,Food And Drug Admin,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.01,DC,0
+20206,UNIQUE,0,Washington,,Soc Sec Bureau Hearing App,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20207,UNIQUE,0,Washington,,Consumer Product Safety Comm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20208,UNIQUE,0,Washington,,Natl Institute Of Educ,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20210,UNIQUE,0,Washington,,Dept Of Labor,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20211,UNIQUE,0,Washington,,Office Of Workers Comp,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20212,UNIQUE,0,Washington,,Dept Labor Stats,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20213,UNIQUE,0,Washington,,Dept Labor Manpower Admn,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20214,UNIQUE,0,Washington,,Bureau Labor Statistics,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20215,UNIQUE,0,Washington,,Dept Labor Payroll Audit Div,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20216,UNIQUE,0,Washington,,Labor Management Admin,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20217,UNIQUE,0,Washington,,Us Tax Court,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20218,UNIQUE,0,Washington,,Natl Comm On Social Sec,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20219,UNIQUE,0,Washington,,Comptroller Of Currency,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20220,UNIQUE,0,Washington,,Dept Treasury,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20221,UNIQUE,0,Washington,,District Director Irs,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20222,UNIQUE,0,Washington,,Us Treasurer,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20223,UNIQUE,0,Washington,,Us Secret Service,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20224,UNIQUE,0,Washington,,Internal Revenue Service,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20226,UNIQUE,0,Washington,,Dept Treas Other Offices,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20227,UNIQUE,0,Washington,,Dept Treas Check Claims Div,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20228,UNIQUE,0,Washington,,Bureau Engav And Printing,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20229,UNIQUE,0,Washington,,Us Bureau Of Customs,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20230,UNIQUE,0,Washington,,Dept Commerce,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20232,UNIQUE,0,Washington,,Resolutn Trust Oversight Brd,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20233,UNIQUE,0,Washington,,Bureau Of Census,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20235,UNIQUE,0,Washington,,Dept Commerce Outside Hq,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20237,UNIQUE,0,Washington,,Broadcasting Bd Of Governors,DC,District of Columbia,America/New_York,202,NA,US,38.88,-77.01,DC,0
+20238,UNIQUE,0,Washington,,Us Holocaust Memorial Museum,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20239,UNIQUE,0,Washington,,Bureau Of Public Debt,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20240,UNIQUE,0,Washington,,Dept Interior,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.04,DC,0
+20241,UNIQUE,0,Washington,,Bureau Of Mines,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20242,UNIQUE,0,Washington,,National Park Service,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20244,UNIQUE,0,Washington,,Geological Survey,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20245,UNIQUE,0,Washington,,Bureau Of Indian Affairs,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.04,DC,0
+20250,UNIQUE,0,Washington,,Dept Agriculture,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20251,UNIQUE,0,Washington,,Dept Ag Ofc Outside Hq,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20254,UNIQUE,0,Washington,,Social Securtiy Admin,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20260,STANDARD,0,Washington,,Usps Headquarters,DC,District of Columbia,America/New_York,202,NA,US,38.88,-77.02,DC,0
+20261,UNIQUE,0,Washington,,Usps Consumer Affairs,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20262,UNIQUE,0,Washington,,Mafic,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20265,UNIQUE,0,Washington,,Philatelic Sales Division,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20266,UNIQUE,0,Washington,,Philatelic Sales,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20268,UNIQUE,0,Washington,,Postal Regulatory Comm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20270,UNIQUE,0,Washington,,Presidential Transition Team,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20277,UNIQUE,0,Washington,,Washington Dc Brm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20289,UNIQUE,0,Washington,,Universal Postal Union Congr,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20299,UNIQUE,0,Washington,,Readasorus,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20301,UNIQUE,0,Washington,Pentagon,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20303,UNIQUE,0,Washington,,National Imaging And Mapping,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20306,UNIQUE,0,Washington,,Armed Forces Inst Pathology,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20307,UNIQUE,1,Washington,,Walter Reed Army Med Center,DC,District of Columbia,America/New_York,202,NA,US,38.97,-77.03,DC,76
+20310,UNIQUE,0,Washington,,Dept Army Pentagon,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20314,UNIQUE,0,Washington,,Us Army Corp Of Engineers,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20317,UNIQUE,0,Washington,,Soldiers Airmens Home,DC,District of Columbia,America/New_York,202,NA,US,38.93,-77.01,DC,11
+20318,UNIQUE,0,Washington,,"Army Criminal Invest, Joint Staff",DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20319,UNIQUE,0,Washington,Fort Mcnair,,DC,District of Columbia,America/New_York,202,NA,US,38.86,-77.02,DC,20
+20330,UNIQUE,0,Washington,,Dept Air Force Pentagon,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20340,UNIQUE,0,Washington,,Defense Intelligence,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20350,UNIQUE,0,Washington,,Chief Naval Operation,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20355,UNIQUE,0,Washington,,Pentagon,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.04,DC,0
+20370,UNIQUE,0,Washington,Navy Annex,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20372,UNIQUE,0,Washington,,Bur Medicine Surgery,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20373,UNIQUE,0,Naval Anacost Annex,"Anacostia, Anacostia Anx, Jbab, Joint Base Anacostia Bolling, Washington",Naval Station Anacostia,DC,District of Columbia,America/New_York,202,NA,US,38.86,-77.01,DC,140
+20374,STANDARD,0,Washington Navy Yard,"Washington, Washington Na",Navy Yard,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,29
+20375,UNIQUE,0,Washington,,Naval Research Laboratory,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20376,STANDARD,0,Washington Navy Yard,"Naval Sea Sys, Naval Sea Systems Command, Washington, Washington Na",,DC,District of Columbia,America/New_York,202,NA,US,38.87,-76.99,DC,0
+20380,UNIQUE,0,Washington,,Dept Navy Hq Marines Arl,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20388,STANDARD,0,Washington Navy Yard,"Washington, Washington Na",Naval Investigative Service,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20389,UNIQUE,0,Washington,,Naval Intelligence Com,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20390,UNIQUE,0,Washington,"Marine Barrks, Us Marine Corps Barracks",Dept Navy Other Offices,DC,District of Columbia,America/New_York,202,NA,US,38.88,-76.99,DC,329
+20391,STANDARD,0,Washington Navy Yard,"Washington, Washington Na",Dept Navy Fed Credit Union,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20392,UNIQUE,0,Washington,,Navy Observatory,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20393,UNIQUE,0,Washington,,Navy Security Group,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20394,UNIQUE,0,Washington,,Naval Telecommunications Com,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20395,UNIQUE,0,Washington,,Naval Intelligence Support C,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20398,STANDARD,0,Washington Navy Yard,"Washington, Washington Na",Military Sealift Command,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20401,UNIQUE,0,Washington,,Gov Printing Office,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20402,UNIQUE,0,Washington,,Gpo Supt Of Documents,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20403,UNIQUE,0,Washington,,Gpo Field Serv Div,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20404,UNIQUE,0,Washington,,Gpo Procurement Div,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20405,UNIQUE,0,Washington,,Gen Services Admin,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.04,DC,0
+20406,UNIQUE,0,Washington,,Gsa Crystal City,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20407,UNIQUE,0,Washington,,Gsa Region 3,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20408,UNIQUE,0,Washington,,Natl Archives And Records,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20409,UNIQUE,1,Washington,,Fed Records Center,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20410,UNIQUE,0,Washington,,Housing And Urban Dev,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20411,UNIQUE,0,Washington,,Hud Fed Housing Adm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20412,UNIQUE,0,Washington,,Fha Comptroller,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20413,UNIQUE,0,Washington,,Housing Assistance Adm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20414,UNIQUE,0,Washington,,Hud Fed Natl Mortgage,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20415,UNIQUE,0,Washington,,Office Personnel Mgmt,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20416,UNIQUE,0,Washington,,Small Business Admin,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20418,UNIQUE,0,Washington,,National Academy Of Science,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.05,DC,0
+20419,UNIQUE,0,Washington,,Merit Systems Protection Bd,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20420,UNIQUE,0,Washington,,Veterans Admin,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20421,UNIQUE,0,Washington,,Veterans Benefits Office,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20422,UNIQUE,0,Washington,,Veterans Hospital,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20423,UNIQUE,0,Washington,,Surface Transportation Board,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20424,UNIQUE,0,Washington,,Fed Labor Relations Auth,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20425,UNIQUE,0,Washington,,Comm On Civil Rights,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20426,UNIQUE,0,Washington,,Federal Energy Reg Comm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20427,UNIQUE,0,Washington,,Fed Mediation And Concil Ser,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.05,DC,0
+20428,UNIQUE,0,Washington,,Civil Aeronautics Board,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20429,UNIQUE,0,Washington,,Federal Deposit Ins Corp,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20431,UNIQUE,0,Washington,,International Monetary Fund,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,97
+20433,UNIQUE,0,Washington,,World Bank,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,194
+20434,UNIQUE,0,Washington,,Resolution Trust Corporation,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20435,UNIQUE,0,Washington,,National Selective Service,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20436,UNIQUE,0,Washington,,International Trade Comm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20437,UNIQUE,0,Washington,,Food And Drug Admin,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20439,UNIQUE,0,Washington,,Us Court Appeal Fed Circuit,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20440,UNIQUE,0,Washington,,International Joint Comm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20441,UNIQUE,0,Washington,,Inter Amer Defense Board,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20442,UNIQUE,0,Washington,,Court Of Military Appeals,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20444,UNIQUE,0,Washington,,Tennessee Valley Auth,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20447,UNIQUE,0,Washington,,Family Support Administratio,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20451,UNIQUE,0,Washington,,Arms Control And Disarm Agy,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20453,UNIQUE,0,Washington,,Comm Equal Oppor Armed Forc,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20456,UNIQUE,0,Washington,,National Credit Union Admin,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20460,UNIQUE,0,Washington,,Envir Protect Agency,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20463,UNIQUE,0,Washington,,Federal Election Comm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20468,UNIQUE,0,Washington,,Gsa Surplus Sales,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20469,UNIQUE,0,Washington,,Gsa Consumer Products Info,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20470,UNIQUE,0,Washington,,Gsa Tele Com Serv,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20472,UNIQUE,0,Washington,,Fed Emer Mngt Agncy,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20500,STANDARD,0,Washington,,,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20501,UNIQUE,0,Washington,,White House Ofc Of Vice Pres,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20502,UNIQUE,0,Washington,,White House Ofc Staff,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20503,UNIQUE,0,Washington,,Office Of Mgmt And Budget,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20504,UNIQUE,0,Washington,,National Security Counsel,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20505,UNIQUE,0,Washington,,Central Intelligence Agency,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20506,UNIQUE,0,Washington,,Exec Office Other Organ,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.04,DC,0
+20507,UNIQUE,0,Washington,,Equal Emp Opportunity Comm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20508,UNIQUE,0,Washington,,Us Trade Representative,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20509,UNIQUE,0,Washington,,White House Ofc Staff,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.04,DC,0
+20510,UNIQUE,0,Washington,,Us Senate,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.01,DC,0
+20511,UNIQUE,0,Washington,,Dir National Intelligence,DC,District of Columbia,America/New_York,202,NA,US,38.97,-77.05,DC,0
+20515,UNIQUE,0,Washington,,Us House Of Representatives,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20520,UNIQUE,0,Washington,,Dept Of State,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.05,DC,0
+20521,UNIQUE,0,Washington,,State Department,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,384
+20522,UNIQUE,0,Washington,,Government Agency,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20523,UNIQUE,0,Washington,,Dept Of State Intrntl Div,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20524,UNIQUE,0,Washington,,Passport Office,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20525,UNIQUE,0,Washington,,Action,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20526,UNIQUE,0,Washington,,Peace Corps,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20527,UNIQUE,0,Washington,,Oversea Pvt Inves Corp,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20528,UNIQUE,0,Washington,,Dept Homeland Security,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.02,DC,0
+20529,UNIQUE,0,Washington,,Us Citizenship Immigration,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.01,DC,0
+20530,UNIQUE,0,Washington,,Dept Justice,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20531,UNIQUE,0,Washington,,Law Enforce Assist Adm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20532,UNIQUE,1,Washington,,Bureau Narc Dngr Drugs Lab,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20533,UNIQUE,0,Washington,,Bureau Narc And Dngr Drugs,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20534,UNIQUE,0,Washington,,Bureau Of Prisons,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20535,UNIQUE,0,Washington,,Fbi,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.02,DC,0
+20536,UNIQUE,0,Washington,,Immig And Naturalization Ser,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20537,UNIQUE,0,Washington,,Fbi Identification Unit,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20538,UNIQUE,0,Washington,,Immig And Naturalization Ser,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20539,UNIQUE,0,Washington,,Immig And Natural Records,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20540,UNIQUE,0,Washington,,Library Of Congress,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77,DC,0
+20541,UNIQUE,0,Washington,,Library Of Congress Card Div,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20542,UNIQUE,0,Washington,,Library Of Congress Handicap,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20543,UNIQUE,0,Washington,,Us Supreme Court,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20544,UNIQUE,0,Washington,,Adm Office Us Court,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20546,UNIQUE,0,Washington,,Natl Aero And Space Admin,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20547,UNIQUE,0,Washington,,Us Information Agency,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20548,UNIQUE,0,Washington,,General Accounting Office,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20549,UNIQUE,0,Washington,,Securities And Exchange Comm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20551,UNIQUE,0,Washington,,Federal Reserve Board,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.05,DC,0
+20552,UNIQUE,0,Washington,,Cnsmr Fnncl Prtct Brd,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20553,UNIQUE,0,Washington,,Federal Aviation Agency,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.02,DC,0
+20554,UNIQUE,0,Washington,,Fed Communications Comm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20555,UNIQUE,0,Washington,,Nuclear Regulatory Comm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20557,UNIQUE,0,Washington,,Lib Of Congress Licensing,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20558,UNIQUE,1,Washington,,Comm Tech Uses Copyrights,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20559,UNIQUE,0,Washington,,Us Copyright Office,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20560,UNIQUE,0,Washington,,Smithsonian Institute,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20565,UNIQUE,0,Washington,,National Gallery Of Art,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.02,DC,0
+20566,UNIQUE,0,Washington,,John F Kennedy Center,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.06,DC,0
+20570,UNIQUE,0,Washington,,Natl Labor Relations Board,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20571,UNIQUE,0,Washington,,Export Import Bank,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20572,UNIQUE,0,Washington,,National Mediation Board,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20573,UNIQUE,0,Washington,,Federal Maritime Commission,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20575,UNIQUE,0,Washington,,Adv Comm Inter Govt Relation,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20576,UNIQUE,0,Washington,,Natl Capitol Planning,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20577,UNIQUE,0,Washington,,Inter American Dev Bank,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,24
+20578,UNIQUE,0,Washington,,Farm Credit Admin,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20579,UNIQUE,0,Washington,,Foreign Claims Settlement,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20580,UNIQUE,0,Washington,,Federal Trade Comm,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20581,UNIQUE,0,Washington,,Commodity Futures Trade,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20585,UNIQUE,0,Washington,,Dept Energy,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20586,UNIQUE,0,Washington,,Us Synthetic Fuel Corp,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20590,UNIQUE,0,Washington,,Dept Transportation,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20591,UNIQUE,0,Washington,,Dept Transportation,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20593,UNIQUE,0,Washington,,Us Coast Guard,DC,District of Columbia,America/New_York,202,NA,US,38.87,-77.01,DC,0
+20594,UNIQUE,0,Washington,,Natl Trans Safety Board,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20597,UNIQUE,0,Washington,,Armed Forces Inaugural Com,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20194,STANDARD,0,Reston,Herndon,,VA,Fairfax County,America/New_York,"703,571",NA,US,38.98,-77.34,DC,12470
+20599,UNIQUE,0,Washington,,Pre Inaugural Committee,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+20607,STANDARD,0,Accokeek,,,MD,Prince George's County,America/New_York,301,NA,US,38.67,-77.01,DC,11920
+20608,STANDARD,0,Aquasco,Eagle Harbor,,MD,Prince George's County,America/New_York,240,NA,US,38.58,-76.7,DC,710
+20610,PO BOX,0,Barstow,,,MD,Calvert County,America/New_York,410,NA,US,38.52,-76.6,DC,233
+20613,STANDARD,0,Brandywine,,,MD,Prince George's County,America/New_York,"240,301",NA,US,38.69,-76.85,DC,14590
+20615,STANDARD,0,Broomes Island,Broomes Is,,MD,Calvert County,America/New_York,410,NA,US,38.42,-76.55,DC,370
+20623,STANDARD,0,Cheltenham,,,MD,Prince George's County,America/New_York,"240,301",NA,US,38.74,-76.84,DC,2810
+20629,PO BOX,0,Dowell,,,MD,Calvert County,America/New_York,410,NA,US,38.34,-76.45,DC,409
+20639,STANDARD,0,Huntingtown,,,MD,Calvert County,America/New_York,"410,443",NA,US,38.61,-76.61,DC,15580
+20657,STANDARD,0,Lusby,,,MD,Calvert County,America/New_York,410,NA,US,38.41,-76.45,DC,18000
+20676,STANDARD,0,Port Republic,,,MD,Calvert County,America/New_York,"443,410",NA,US,38.49,-76.54,DC,3310
+20678,STANDARD,0,Prince Frederick,"Dares Beach, Prnc Frederck",Pr Frederick,MD,Calvert County,America/New_York,"410,443",NA,US,38.54,-76.58,DC,11510
+20685,STANDARD,0,Saint Leonard,,St Leonard,MD,Calvert County,America/New_York,410,NA,US,38.47,-76.5,DC,6320
+20688,STANDARD,0,Solomons,Dowell,,MD,Calvert County,America/New_York,"410,443,667",NA,US,38.33,-76.46,DC,2420
+20689,STANDARD,0,Sunderland,,,MD,Calvert County,America/New_York,410,NA,US,38.66,-76.58,DC,1860
+20697,UNIQUE,0,Southern Md Facility,Sthrn Md Fac,Southern Md Brm,MD,Prince George's County,America/New_York,240,NA,US,39.03,-76.9,DC,0
+20703,PO BOX,0,Lanham,Lanham Seabrook,Seabrook,MD,Prince George's County,America/New_York,240,NA,US,38.96,-76.85,DC,411
+20704,PO BOX,0,Beltsville,,,MD,Prince George's County,America/New_York,240,NA,US,39.03,-76.92,DC,412
+20705,STANDARD,0,Beltsville,Calverton,,MD,Prince George's County,America/New_York,"240,301,410",NA,US,39.03,-76.92,DC,27360
+20706,STANDARD,0,Lanham,"Glenarden, Lanham Seabrook, Seabrook",,MD,Prince George's County,America/New_York,"240,301",NA,US,38.96,-76.85,DC,43370
+20707,STANDARD,0,Laurel,,,MD,Prince George's County,America/New_York,############,NA,US,39.1,-76.88,DC,34680
+20708,STANDARD,0,Laurel,Montpelier,,MD,Prince George's County,America/New_York,############,NA,US,39.09,-76.85,DC,24330
+20709,PO BOX,0,Laurel,Montpelier,,MD,Prince George's County,America/New_York,240,NA,US,39.09,-76.85,DC,348
+20710,STANDARD,0,Bladensburg,,,MD,Prince George's County,America/New_York,"240,301",NA,US,38.94,-76.92,DC,8860
+20712,STANDARD,0,Mount Rainier,,Mt Rainier,MD,Prince George's County,America/New_York,"301,240",NA,US,38.94,-76.96,DC,7670
+20714,STANDARD,0,North Beach,"Holland Point, Rose Haven",N Beach,MD,Calvert County,America/New_York,"301,410,443",NA,US,38.7,-76.53,DC,4000
+20715,STANDARD,0,Bowie,,,MD,Prince George's County,America/New_York,"301,240",NA,US,38.99,-76.74,DC,24630
+20716,STANDARD,0,Bowie,Mitchellville,"S Bowie, South Bowie",MD,Prince George's County,America/New_York,301,NA,US,38.95,-76.73,DC,20090
+20717,PO BOX,0,Bowie,Mitchellville,,MD,Prince George's County,America/New_York,240,NA,US,38.95,-76.73,DC,117
+20718,PO BOX,0,Bowie,,,MD,Prince George's County,America/New_York,240,NA,US,38.95,-76.73,DC,358
+20719,PO BOX,0,Bowie,,W Bowie,MD,Prince George's County,America/New_York,240,NA,US,38.95,-76.73,DC,76
+20720,STANDARD,0,Bowie,,,MD,Prince George's County,America/New_York,"240,301",NA,US,38.98,-76.79,DC,24130
+20721,STANDARD,0,Bowie,Mitchellville,,MD,Prince George's County,America/New_York,301,NA,US,38.92,-76.79,DC,28280
+20722,STANDARD,0,Brentwood,"Colmar Manor, Cottage City, N Brentwood, North Brentwood",Brentwd,MD,Prince George's County,America/New_York,"240,301",NA,US,38.94,-76.95,DC,5960
+20725,PO BOX,0,Laurel,,,MD,Prince George's County,America/New_York,240,NA,US,39.09,-76.85,DC,488
+20726,PO BOX,0,Laurel,,,MD,Prince George's County,America/New_York,240,NA,US,39.09,-76.85,DC,109
+20731,PO BOX,0,Capitol Heights,Capitol Hgts,,MD,Prince George's County,America/New_York,240,NA,US,38.87,-76.9,DC,319
+20732,STANDARD,0,Chesapeake Beach,Chesapeak Bch,,MD,Calvert County,America/New_York,410,NA,US,38.68,-76.53,DC,9970
+20735,STANDARD,0,Clinton,,,MD,Prince George's County,America/New_York,"301,240",NA,US,38.76,-76.89,DC,35880
+20736,STANDARD,0,Owings,,,MD,Calvert County,America/New_York,410,NA,US,38.69,-76.62,DC,9010
+20737,STANDARD,0,Riverdale,"Riverdale Park, Riverdale Pk",,MD,Prince George's County,America/New_York,"240,301",NA,US,38.96,-76.92,DC,23070
+20738,PO BOX,0,Riverdale,,,MD,Prince George's County,America/New_York,240,NA,US,38.96,-76.92,DC,294
+20740,STANDARD,0,College Park,"Berwyn Heights, Berwyn Hts","Berwyn, North College Park",MD,Prince George's County,America/New_York,"301,240",NA,US,38.99,-76.93,DC,19140
+20741,PO BOX,0,College Park,,,MD,Prince George's County,America/New_York,240,NA,US,38.99,-76.93,DC,284
+20742,UNIQUE,0,College Park,,University Of Maryland,MD,Prince George's County,America/New_York,240,NA,US,38.99,-76.95,DC,165
+20743,STANDARD,0,Capitol Heights,"Capitol Hgts, Fairmount Heights, Fairmount Hgt, Seat Pleasant",,MD,Prince George's County,America/New_York,"240,301",NA,US,38.87,-76.9,DC,34350
+20744,STANDARD,0,Fort Washington,Ft Washington,,MD,Prince George's County,America/New_York,"240,301",NA,US,38.73,-77,DC,49460
+20745,STANDARD,0,Oxon Hill,"Forest Heights, Forest Hts",National Harbor,MD,Prince George's County,America/New_York,"301,240",NA,US,38.8,-76.99,DC,27280
+20746,STANDARD,0,Suitland,"Camp Springs, Hillcrest Hgts, Hillcrest Hts, Morningside","Marlow Heights, Silver Hill",MD,Prince George's County,America/New_York,"301,240",NA,US,38.83,-76.92,DC,25320
+20747,STANDARD,0,District Heights,"District Hts, Forestville",,MD,Prince George's County,America/New_York,"240,301",NA,US,38.85,-76.88,DC,34280
+20748,STANDARD,0,Temple Hills,"Camp Springs, Hillcrest Heights, Hillcrest Hts, Marlow Heights, Marlow Hgts",,MD,Prince George's County,America/New_York,"240,301",NA,US,38.81,-76.93,DC,33470
+20749,PO BOX,0,Fort Washington,Ft Washington,,MD,Prince George's County,America/New_York,240,NA,US,38.73,-77,DC,530
+20750,PO BOX,0,Oxon Hill,,,MD,Prince George's County,America/New_York,240,NA,US,38.8,-76.99,DC,466
+20752,PO BOX,0,Suitland,,,MD,Prince George's County,America/New_York,240,NA,US,38.83,-76.92,DC,336
+20753,PO BOX,0,District Heights,District Hts,Forestville,MD,Prince George's County,America/New_York,240,NA,US,38.85,-76.88,DC,597
+20754,STANDARD,0,Dunkirk,,,MD,Calvert County,America/New_York,,NA,US,38.72,-76.66,DC,6880
+20757,PO BOX,0,Temple Hills,,,MD,Prince George's County,America/New_York,240,NA,US,38.8,-76.94,DC,630
+20762,STANDARD,0,Andrews Air Force Base,"Andrews AFB, Jb Andrews",,MD,Prince George's County,America/New_York,"240,301",NA,US,38.8,-76.87,DC,2870
+20768,PO BOX,0,Greenbelt,,,MD,Prince George's County,America/New_York,240,NA,US,38.99,-76.88,DC,413
+20769,STANDARD,0,Glenn Dale,,,MD,Prince George's County,America/New_York,"240,301",NA,US,38.98,-76.8,DC,6840
+20770,STANDARD,0,Greenbelt,,,MD,Prince George's County,America/New_York,"240,301",NA,US,38.99,-76.88,DC,23990
+20771,UNIQUE,0,Greenbelt,,Goddard Flight Center,MD,Prince George's County,America/New_York,240,NA,US,38.99,-76.88,DC,0
+20772,STANDARD,0,Upper Marlboro,Uppr Marlboro,Marlboro,MD,Prince George's County,America/New_York,"240,301",NA,US,38.81,-76.75,DC,45210
+20773,PO BOX,0,Upper Marlboro,Uppr Marlboro,,MD,Prince George's County,America/New_York,240,NA,US,38.81,-76.75,DC,613
+20774,STANDARD,0,Upper Marlboro,"Glenarden, Kettering, Largo, Springdale, Uppr Marlboro, Upr Marlboro",,MD,Prince George's County,America/New_York,"240,301",NA,US,38.87,-76.77,DC,47420
+20775,PO BOX,0,Upper Marlboro,Uppr Marlboro,Kettering,MD,Prince George's County,America/New_York,240,NA,US,38.81,-76.75,DC,184
+20781,STANDARD,0,Hyattsville,,"Avondale, Cheverly, Edmonston, Rogers Heights, Tuxedo",MD,Prince George's County,America/New_York,"240,301",NA,US,38.95,-76.95,DC,12750
+20782,STANDARD,0,Hyattsville,"Chillum, University Pa, University Park, W Hyattsville, West Hyattsville","Avondale, Green Meadow, Lewisdale, Prince Georges Metro Ctr",MD,Prince George's County,America/New_York,"240,301",NA,US,38.97,-76.97,DC,29580
+20783,STANDARD,0,Hyattsville,Adelphi,Langley Park,MD,Prince George's County,America/New_York,301,NA,US,39,-76.97,DC,43220
+20784,STANDARD,0,Hyattsville,"Cheverly, Landover Hills, Landover Hls, New Carrolltn, New Carrollton",Lanham,MD,Prince George's County,America/New_York,301,NA,US,38.95,-76.89,DC,32040
+20785,STANDARD,0,Hyattsville,"Cheverly, Landover, N Englewood, North Englewood","Ardmore, Palmer Park",MD,Prince George's County,America/New_York,"240,301",NA,US,38.92,-76.88,DC,37140
+20787,PO BOX,0,Hyattsville,Langley Park,,MD,Prince George's County,America/New_York,240,NA,US,38.95,-76.95,DC,535
+20788,PO BOX,0,Hyattsville,W Hyattsville,Prince George Plaza,MD,Prince George's County,America/New_York,240,NA,US,38.95,-76.95,DC,51
+20790,UNIQUE,0,Capitol Heights,Capitol Hgts,Southern Maryland Facility,MD,Prince George's County,America/New_York,240,NA,US,38.87,-76.9,DC,0
+20791,PO BOX,0,Capitol Heights,Capitol Hgts,,MD,Prince George's County,America/New_York,240,NA,US,38.87,-76.9,DC,600
+20792,PO BOX,0,Upper Marlboro,"Largo, Uppr Marlboro",,MD,Prince George's County,America/New_York,240,NA,US,38.82,-76.75,DC,441
+20797,UNIQUE,0,Southern Md Facility,Sthrn Md Fac,Southern Md Brm,MD,Prince George's County,America/New_York,240,NA,US,39.03,-76.9,DC,0
+20799,UNIQUE,0,Capitol Heights,Capitol Hgts,Washington Ndc,MD,Prince George's County,America/New_York,240,NA,US,38.87,-76.9,DC,0
+20810,UNIQUE,0,Bethesda,,Geico,MD,Montgomery County,America/New_York,240,NA,US,38.97,-77.1,DC,0
+20811,UNIQUE,0,Bethesda,,Geico,MD,Montgomery County,America/New_York,240,NA,US,38.97,-77.1,DC,0
+20812,STANDARD,0,Glen Echo,,,MD,Montgomery County,America/New_York,"240,301",NA,US,38.97,-77.14,DC,320
+20813,PO BOX,0,Bethesda,,,MD,Montgomery County,America/New_York,240,NA,US,38.98,-77.12,DC,52
+20814,STANDARD,0,Bethesda,,,MD,Montgomery County,America/New_York,"301,240",NA,US,39,-77.1,DC,27480
+20815,STANDARD,0,Chevy Chase,"Bethesda, Chevy Chase Village, Chevy Chs Vlg, Martins Add, Martins Additions, N Chevy Chase, North Chevy Chase",Somerset,MD,Montgomery County,America/New_York,"240,301",NA,US,38.98,-77.08,DC,27270
+20816,STANDARD,0,Bethesda,,,MD,Montgomery County,America/New_York,"301,240",NA,US,38.96,-77.12,DC,15550
+20817,STANDARD,0,Bethesda,Westlake,,MD,Montgomery County,America/New_York,"240,301",NA,US,38.98,-77.12,DC,35050
+20818,STANDARD,0,Cabin John,,,MD,Montgomery County,America/New_York,"301,240",NA,US,38.97,-77.16,DC,1740
+20824,PO BOX,0,Bethesda,,,MD,Montgomery County,America/New_York,240,NA,US,38.98,-77.12,DC,315
+20825,PO BOX,0,Chevy Chase,Bethesda,,MD,Montgomery County,America/New_York,240,NA,US,38.98,-77.08,DC,50
+20827,PO BOX,0,Bethesda,"W Bethesda, Westlake",,MD,Montgomery County,America/New_York,240,NA,US,38.98,-77.12,DC,229
+20830,PO BOX,0,Olney,,,MD,Montgomery County,America/New_York,240,NA,US,39.14,-77.08,DC,360
+20832,STANDARD,0,Olney,,,MD,Montgomery County,America/New_York,240,NA,US,39.14,-77.08,DC,25270
+20833,STANDARD,0,Brookeville,,"Sunshine, Unity",MD,Montgomery County,America/New_York,,NA,US,39.17,-77.05,DC,7880
+20837,STANDARD,0,Poolesville,,,MD,Montgomery County,America/New_York,"240,301",NA,US,39.14,-77.41,DC,6540
+20838,STANDARD,0,Barnesville,,,MD,Montgomery County,America/New_York,240,NA,US,39.22,-77.39,DC,280
+20839,STANDARD,0,Beallsville,,,MD,Montgomery County,America/New_York,240,NA,US,39.19,-77.43,DC,230
+20841,STANDARD,0,Boyds,,,MD,Montgomery County,America/New_York,240,NA,US,39.18,-77.31,DC,9210
+20842,STANDARD,0,Dickerson,,Comus,MD,Montgomery County,America/New_York,,NA,US,39.22,-77.42,DC,1750
+20847,PO BOX,0,Rockville,,,MD,Montgomery County,America/New_York,240,NA,US,39.08,-77.15,DC,92
+20848,PO BOX,0,Rockville,,,MD,Montgomery County,America/New_York,240,NA,US,39.08,-77.15,DC,308
+20849,PO BOX,0,Rockville,,,MD,Montgomery County,America/New_York,240,NA,US,39.08,-77.15,DC,476
+20850,STANDARD,0,Rockville,Potomac,,MD,Montgomery County,America/New_York,"240,301",NA,US,39.08,-77.15,DC,45080
+20851,STANDARD,0,Rockville,,,MD,Montgomery County,America/New_York,"240,301",NA,US,39.08,-77.12,DC,13590
+20852,STANDARD,0,Rockville,"N Bethesda, North Bethesda",No Bethesda,MD,Montgomery County,America/New_York,"240,301",NA,US,39.05,-77.12,DC,40220
+20853,STANDARD,0,Rockville,,,MD,Montgomery County,America/New_York,"240,301",NA,US,39.1,-77.09,DC,30570
+20854,STANDARD,0,Potomac,Rockville,,MD,Montgomery County,America/New_York,301,NA,US,39.02,-77.19,DC,48600
+20855,STANDARD,0,Derwood,Rockville,,MD,Montgomery County,America/New_York,"240,301",NA,US,39.13,-77.13,DC,15850
+20857,UNIQUE,0,Rockville,,Hhs,MD,Montgomery County,America/New_York,240,NA,US,39.08,-77.15,DC,0
+20859,PO BOX,0,Potomac,Rockville,,MD,Montgomery County,America/New_York,240,NA,US,39.02,-77.19,DC,255
+20860,STANDARD,0,Sandy Spring,,,MD,Montgomery County,America/New_York,"240,301",NA,US,39.14,-77.02,DC,1930
+20861,STANDARD,0,Ashton,,,MD,Montgomery County,America/New_York,"240,301",NA,US,39.15,-76.98,DC,2760
+20862,STANDARD,0,Brinklow,,,MD,Montgomery County,America/New_York,"240,301",NA,US,39.18,-77.01,DC,410
+20866,STANDARD,0,Burtonsville,,,MD,Montgomery County,America/New_York,301,NA,US,39.11,-76.93,DC,14820
+20868,STANDARD,0,Spencerville,,,MD,Montgomery County,America/New_York,301,NA,US,39.12,-76.96,DC,740
+20871,STANDARD,0,Clarksburg,Hyattstown,,MD,Montgomery County,America/New_York,"301,240",NA,US,39.23,-77.27,DC,27070
+20872,STANDARD,0,Damascus,,,MD,Montgomery County,America/New_York,"240,301",NA,US,39.29,-77.22,DC,12990
+20874,STANDARD,0,Germantown,Darnestown,,MD,Montgomery County,America/New_York,240,NA,US,39.17,-77.26,DC,58580
+20875,PO BOX,0,Germantown,,,MD,Montgomery County,America/New_York,240,NA,US,39.17,-77.26,DC,628
+20876,STANDARD,0,Germantown,,,MD,Montgomery County,America/New_York,240,NA,US,39.21,-77.24,DC,24860
+20877,STANDARD,0,Gaithersburg,"Montgomery Village, Montgomry Vlg",,MD,Montgomery County,America/New_York,"301,240",NA,US,39.14,-77.21,DC,35970
+20878,STANDARD,0,Gaithersburg,"Darnestown, N Potomac, No Potomac, North Potomac",,MD,Montgomery County,America/New_York,"240,301",NA,US,39.12,-77.25,DC,63350
+20879,STANDARD,0,Gaithersburg,"Montgomery Village, Montgomry Vlg",,MD,Montgomery County,America/New_York,"240,301",NA,US,39.17,-77.18,DC,25290
+20880,PO BOX,0,Washington Grove,Washingtn Grv,,MD,Montgomery County,America/New_York,240,NA,US,39.14,-77.17,DC,740
+20882,STANDARD,0,Gaithersburg,"Brookeville, Laytonsville",,MD,Montgomery County,America/New_York,240,NA,US,39.24,-77.15,DC,13810
+20883,PO BOX,0,Gaithersburg,,,MD,Montgomery County,America/New_York,240,NA,US,39.17,-77.19,DC,161
+20884,PO BOX,0,Gaithersburg,,,MD,Montgomery County,America/New_York,240,NA,US,39.14,-77.21,DC,366
+20885,PO BOX,0,Gaithersburg,,,MD,Montgomery County,America/New_York,240,NA,US,39.14,-77.21,DC,344
+20886,STANDARD,0,Montgomery Village,"Gaithersburg, Montgomry Vlg",,MD,Montgomery County,America/New_York,"240,301",NA,US,39.19,-77.21,DC,33500
+20889,UNIQUE,0,Bethesda,,"National Naval Medical Ctr, Walter Reed Natl Mil Med Ctr",MD,Montgomery County,America/New_York,240,NA,US,38.98,-77.12,DC,273
+20891,PO BOX,0,Kensington,,,MD,Montgomery County,America/New_York,240,NA,US,39.02,-77.07,DC,119
+20892,UNIQUE,0,Bethesda,,National Institute Of Health,MD,Montgomery County,America/New_York,240,NA,US,38.98,-77.12,DC,0
+20894,UNIQUE,0,Bethesda,,National Library Of Medicine,MD,Montgomery County,America/New_York,240,NA,US,38.98,-77.12,DC,0
+20895,STANDARD,0,Kensington,,North Bethesda,MD,Montgomery County,America/New_York,"301,240",NA,US,39.02,-77.07,DC,19180
+20896,PO BOX,0,Garrett Park,,,MD,Montgomery County,America/New_York,240,NA,US,39.04,-77.09,DC,1020
+20897,UNIQUE,0,Suburb Maryland Fac,Subn Md Fac,Suburban Md Brm,MD,Montgomery County,America/New_York,240,NA,US,39.08,-77.05,DC,0
+20898,PO BOX,0,Gaithersburg,,,MD,Montgomery County,America/New_York,240,NA,US,39.14,-77.21,DC,347
+20899,UNIQUE,0,Gaithersburg,,Natl Inst Stds & Tech Md,MD,Montgomery County,America/New_York,240,NA,US,39.14,-77.22,DC,0
+20901,STANDARD,0,Silver Spring,Takoma Park,,MD,Montgomery County,America/New_York,"240,301",NA,US,39.01,-77.02,DC,35940
+20902,STANDARD,0,Silver Spring,Wheaton,,MD,Montgomery County,America/New_York,"240,301",NA,US,39.05,-77.04,DC,50390
+20903,STANDARD,0,Silver Spring,,Hillandale,MD,Montgomery County,America/New_York,301,NA,US,39.02,-76.98,DC,23620
+20904,STANDARD,0,Silver Spring,Colesville,Cloverly,MD,Montgomery County,America/New_York,301,NA,US,39.07,-76.98,DC,54640
+20905,STANDARD,0,Silver Spring,"Colesville, Sandy Spring",Cloverly,MD,Montgomery County,America/New_York,301,NA,US,39.11,-76.99,DC,17610
+20906,STANDARD,0,Silver Spring,Aspen Hill,"Glenmont, Leisure World, Norbeck, Wheaton",MD,Montgomery County,America/New_York,"301,240",NA,US,39.09,-77.06,DC,67910
+20907,PO BOX,0,Silver Spring,,,MD,Montgomery County,America/New_York,240,NA,US,39.01,-77.02,DC,323
+20908,PO BOX,0,Silver Spring,,,MD,Montgomery County,America/New_York,240,NA,US,39.01,-77.02,DC,38
+20910,STANDARD,0,Silver Spring,,Takoma Pk,MD,Montgomery County,America/New_York,"240,301",NA,US,39,-77.04,DC,38620
+20911,PO BOX,0,Silver Spring,,,MD,Montgomery County,America/New_York,240,NA,US,39.01,-77.02,DC,115
+20912,STANDARD,0,Takoma Park,Silver Spring,,MD,Montgomery County,America/New_York,"240,301",NA,US,38.98,-77,DC,23430
+20913,PO BOX,0,Takoma Park,Silver Spring,,MD,Montgomery County,America/New_York,240,NA,US,38.98,-77,DC,225
+20914,PO BOX,0,Silver Spring,Colesville,,MD,Montgomery County,America/New_York,240,NA,US,39.01,-77.02,DC,526
+20915,PO BOX,0,Silver Spring,Wheaton,,MD,Montgomery County,America/New_York,240,NA,US,39.01,-77.02,DC,270
+20916,PO BOX,0,Silver Spring,Aspen Hill,,MD,Montgomery County,America/New_York,240,NA,US,39.01,-77.02,DC,425
+20918,PO BOX,0,Silver Spring,,,MD,Montgomery County,America/New_York,240,NA,US,39.01,-77.02,DC,236
+20993,UNIQUE,0,Silver Spring,,Us Food And Drug Admin,MD,Montgomery County,America/New_York,240,NA,US,39.03,-76.98,DC,0
+20997,UNIQUE,0,Silver Spring,,Suburban Md Brm,MD,Montgomery County,America/New_York,240,NA,US,39.01,-77.02,DC,0
+21701,STANDARD,0,Frederick,Lewistown,Hood College,MD,Frederick County,America/New_York,"240,301",NA,US,39.42,-77.41,DC,34700
+21702,STANDARD,0,Frederick,Fort Detrick,College Estates,MD,Frederick County,America/New_York,"240,301",NA,US,39.48,-77.46,DC,41200
+21703,STANDARD,0,Frederick,,,MD,Frederick County,America/New_York,"301,240",NA,US,39.37,-77.47,DC,37740
+21704,STANDARD,0,Frederick,Urbana,,MD,Frederick County,America/New_York,"301,240",NA,US,39.35,-77.38,DC,17990
+21705,PO BOX,0,Frederick,,,MD,Frederick County,America/New_York,240,NA,US,39.41,-77.41,DC,758
+21709,UNIQUE,0,Frederick,,State Farm Ins Co,MD,Frederick County,America/New_York,240,NA,US,39.42,-77.41,DC,0
+21710,STANDARD,0,Adamstown,Doubs,,MD,Frederick County,America/New_York,"240,301",NA,US,39.29,-77.45,DC,4490
+21711,STANDARD,0,Big Pool,,,MD,Washington County,America/New_York,240,NA,US,39.66,-78,DC,930
+21713,STANDARD,0,Boonsboro,,,MD,Washington County,America/New_York,240,NA,US,39.5,-77.65,DC,8940
+21714,PO BOX,0,Braddock Heights,Braddock Hts,,MD,Frederick County,America/New_York,240,NA,US,39.42,-77.5,DC,439
+21715,PO BOX,0,Brownsville,,,MD,Washington County,America/New_York,240,NA,US,39.38,-77.66,DC,115
+21716,STANDARD,0,Brunswick,,Knoxville,MD,Frederick County,America/New_York,301,NA,US,39.31,-77.61,DC,6150
+21717,PO BOX,0,Buckeystown,,,MD,Frederick County,America/New_York,240,NA,US,39.34,-77.44,DC,406
+21718,STANDARD,0,Burkittsville,,,MD,Frederick County,America/New_York,240,NA,US,39.39,-77.63,DC,216
+21719,STANDARD,0,Cascade,"Fort Ritchie, Highfield",,MD,Washington County,America/New_York,"240,301",NA,US,39.7,-77.49,DC,1150
+21720,PO BOX,0,Cavetown,,,MD,Washington County,America/New_York,240,NA,US,39.65,-77.57,DC,250
+21721,PO BOX,0,Chewsville,,,MD,Washington County,America/New_York,240,NA,US,39.63,-77.68,DC,151
+21722,STANDARD,0,Clear Spring,Big Spring,,MD,Washington County,America/New_York,301,NA,US,39.65,-77.93,DC,5210
+21727,STANDARD,0,Emmitsburg,,,MD,Frederick County,America/New_York,"240,301",NA,US,39.7,-77.32,DC,3830
+21733,STANDARD,0,Fairplay,St James,,MD,Washington County,America/New_York,240,NA,US,39.55,-77.76,DC,1170
+21734,PO BOX,0,Funkstown,,,MD,Washington County,America/New_York,240,NA,US,39.61,-77.71,DC,1015
+21740,STANDARD,0,Hagerstown,,,MD,Washington County,America/New_York,"240,301",NA,US,39.63,-77.71,DC,52680
+21741,PO BOX,0,Hagerstown,,,MD,Washington County,America/New_York,240,NA,US,39.63,-77.71,DC,870
+21742,STANDARD,0,Hagerstown,,Northern,MD,Washington County,America/New_York,"240,301",NA,US,39.68,-77.65,DC,29850
+21746,UNIQUE,0,Hagerstown,,Md Correctional System,MD,Washington County,America/New_York,240,NA,US,39.57,-77.71,DC,28
+21747,PO BOX,0,Hagerstown,,,MD,Washington County,America/New_York,240,NA,US,39.63,-77.71,DC,0
+21748,UNIQUE,1,Hagerstown,,Citicorp,MD,Washington County,America/New_York,240,NA,US,39.63,-77.71,DC,0
+21749,UNIQUE,0,Hagerstown,,Citicorp Brm,MD,Washington County,America/New_York,240,NA,US,39.63,-77.71,DC,0
+21750,STANDARD,0,Hancock,,,MD,Washington County,America/New_York,"240,301",NA,US,39.7,-78.17,DC,3190
+21754,STANDARD,0,Ijamsville,,,MD,Frederick County,America/New_York,240,NA,US,39.33,-77.31,DC,6990
+21755,STANDARD,0,Jefferson,,,MD,Frederick County,America/New_York,240,NA,US,39.36,-77.53,DC,5540
+21756,STANDARD,0,Keedysville,,,MD,Washington County,America/New_York,301,NA,US,39.48,-77.69,DC,3520
+21757,STANDARD,0,Keymar,"Detour, Middleburg",,MD,Frederick County,America/New_York,,NA,US,39.59,-77.26,DC,2630
+21758,STANDARD,0,Knoxville,Brunswick,,MD,Frederick County,America/New_York,301,NA,US,39.35,-77.64,DC,4490
+21759,PO BOX,0,Ladiesburg,,,MD,Frederick County,America/New_York,240,NA,US,39.56,-77.26,DC,48
+21762,PO BOX,0,Libertytown,,,MD,Frederick County,America/New_York,240,NA,US,39.48,-77.25,DC,490
+21767,STANDARD,0,Maugansville,,,MD,Washington County,America/New_York,240,NA,US,39.7,-77.75,DC,1050
+21769,STANDARD,0,Middletown,,,MD,Frederick County,America/New_York,"240,301",NA,US,39.44,-77.54,DC,11620
+21770,STANDARD,0,Monrovia,,,MD,Frederick County,America/New_York,"240,301",NA,US,39.35,-77.25,DC,7040
+21771,STANDARD,0,Mount Airy,,,MD,Frederick County,America/New_York,"240,301",NA,US,39.37,-77.15,DC,30120
+21773,STANDARD,0,Myersville,,,MD,Frederick County,America/New_York,"240,301",NA,US,39.5,-77.56,DC,5190
+21774,STANDARD,0,New Market,,Lake Linganore,MD,Frederick County,America/New_York,301,NA,US,39.41,-77.27,DC,14950
+21775,PO BOX,0,New Midway,,,MD,Frederick County,America/New_York,240,NA,US,39.55,-77.3,DC,34
+21777,STANDARD,0,Point Of Rocks,Pt Of Rocks,,MD,Frederick County,America/New_York,240,NA,US,39.27,-77.53,DC,1850
+21778,STANDARD,0,Rocky Ridge,,,MD,Frederick County,America/New_York,240,NA,US,39.61,-77.33,DC,920
+21779,STANDARD,0,Rohrersville,Gapland,,MD,Washington County,America/New_York,240,NA,US,39.43,-77.65,DC,890
+21780,STANDARD,0,Sabillasville,,,MD,Frederick County,America/New_York,240,NA,US,39.7,-77.45,DC,1400
+21781,PO BOX,0,Saint James,,,MD,Washington County,America/New_York,240,NA,US,39.57,-77.76,DC,84
+21782,STANDARD,0,Sharpsburg,,,MD,Washington County,America/New_York,240,NA,US,39.45,-77.74,DC,3630
+21783,STANDARD,0,Smithsburg,,,MD,Washington County,America/New_York,"240,301",NA,US,39.65,-77.57,DC,8410
+21788,STANDARD,0,Thurmont,Graceham,,MD,Frederick County,America/New_York,"240,301",NA,US,39.62,-77.4,DC,10920
+21790,STANDARD,0,Tuscarora,,,MD,Frederick County,America/New_York,240,NA,US,39.26,-77.5,DC,134
+21792,PO BOX,0,Unionville,,,MD,Frederick County,America/New_York,240,NA,US,39.51,-77.11,DC,0
+21793,STANDARD,0,Walkersville,,,MD,Frederick County,America/New_York,301,NA,US,39.48,-77.35,DC,10090
+21795,STANDARD,0,Williamsport,,,MD,Washington County,America/New_York,"240,301",NA,US,39.59,-77.81,DC,8680
+21798,STANDARD,0,Woodsboro,,,MD,Frederick County,America/New_York,240,NA,US,39.53,-77.31,DC,2300
+20195,PO BOX,0,Reston,Herndon,,VA,Fairfax County,America/New_York,571,NA,US,38.95,-77.34,DC,525
+20196,UNIQUE,0,Reston,Herndon,Sprint,VA,Fairfax County,America/New_York,571,NA,US,38.95,-77.34,DC,0
+20598,UNIQUE,0,Dhs,"Alexandria, Arlington, Chantilly, Fairfax, Falls Church, Herndon, Lorton, Mc Lean, Mclean, Reston, Springfield, Sterling",Dept Hs,VA,Fairfax County,America/New_York,571,NA,US,38.86,-77.05,DC,0
+22003,STANDARD,0,Annandale,,,VA,Fairfax County,America/New_York,703,NA,US,38.83,-77.21,DC,53400
+22009,PO BOX,0,Burke,Springfield,,VA,Fairfax County,America/New_York,571,NA,US,38.78,-77.27,DC,305
+22015,STANDARD,0,Burke,Springfield,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.27,DC,42560
+22027,STANDARD,0,Dunn Loring,Vienna,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.89,-77.22,DC,2230
+22030,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,571,NA,US,38.84,-77.34,DC,48880
+22031,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.85,-77.29,DC,30860
+22032,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.82,-77.29,DC,28920
+22033,STANDARD,0,Fairfax,,,VA,Fairfax County,America/New_York,703,NA,US,38.88,-77.38,DC,36900
+22035,STANDARD,0,Fairfax,,Fairfax County Government,VA,Fairfax County,America/New_York,571,NA,US,38.85,-77.36,DC,0
+22039,STANDARD,0,Fairfax Station,"Fairfax Sta, Fx Station",,VA,Fairfax County,America/New_York,571,NA,US,38.76,-77.31,DC,19100
+22041,STANDARD,0,Falls Church,"Baileys Crossroads, Baileys Xrds",,VA,Fairfax County,America/New_York,703,NA,US,38.84,-77.14,DC,23870
+22042,STANDARD,0,Falls Church,Mosby,,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.2,DC,31090
+22043,STANDARD,0,Falls Church,Pimmit,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.2,DC,23170
+22044,STANDARD,0,Falls Church,Seven Corners,7 Corners,VA,Fairfax County,America/New_York,571,NA,US,38.86,-77.15,DC,11660
+22060,STANDARD,0,Fort Belvoir,Ft Belvoir,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.7,-77.14,DC,9220
+22066,STANDARD,0,Great Falls,,,VA,Fairfax County,America/New_York,703,NA,US,39.01,-77.28,DC,18050
+22067,STANDARD,0,Greenway,Mc Lean,,VA,Fairfax County,America/New_York,703,NA,US,38.93,-77.16,DC,0
+22079,STANDARD,0,Lorton,Mason Neck,,VA,Fairfax County,America/New_York,"703,571",NA,US,38.7,-77.24,DC,33540
+22081,STANDARD,0,Merrifield,,"Northern Virginia, Northern Virginia Facility",VA,Fairfax County,America/New_York,"571,703",NA,US,38.87,-77.24,DC,0
+22082,UNIQUE,0,Merrifield,,Engineering Support Center,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.24,DC,0
+22092,UNIQUE,1,Herndon,,U S Geological Survey,VA,Fairfax County,America/New_York,571,NA,US,38.96,-77.38,DC,0
+22095,UNIQUE,0,Herndon,Reston,Business Reply Mail,VA,Fairfax County,America/New_York,571,NA,US,38.96,-77.38,DC,0
+22096,UNIQUE,0,Reston,Herndon,Sprint,VA,Fairfax County,America/New_York,571,NA,US,38.95,-77.34,DC,0
+22101,STANDARD,0,Mc Lean,Mclean,Maclean,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.19,DC,29720
+22102,STANDARD,0,Mc Lean,"Mclean, Tysons, Tysons Corner, West Mclean",Maclean,VA,Fairfax County,America/New_York,"703,571",NA,US,38.95,-77.23,DC,23910
+22103,PO BOX,0,West Mclean,"Mc Lean, Mclean",Maclean,VA,Fairfax County,America/New_York,571,NA,US,38.93,-77.16,DC,170
+22106,PO BOX,0,Mc Lean,Mclean,,VA,Fairfax County,America/New_York,571,NA,US,38.94,-77.19,DC,265
+22107,UNIQUE,0,Mc Lean,,Gannett,VA,Fairfax County,America/New_York,571,NA,US,38.93,-77.18,DC,0
+22108,UNIQUE,0,Mc Lean,,Usa Today,VA,Fairfax County,America/New_York,571,NA,US,38.93,-77.18,DC,0
+22109,UNIQUE,0,Mc Lean,,Wachovia Bank,VA,Fairfax County,America/New_York,571,NA,US,38.94,-77.19,DC,0
+22116,PO BOX,0,Merrifield,,,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.24,DC,624
+22118,UNIQUE,0,Merrifield,,Bank Of America,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.24,DC,0
+22119,UNIQUE,0,Merrifield,,Navy Federal Credit Union,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.24,DC,0
+22120,UNIQUE,1,Merrifield,Continental Telephone,,VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.22,DC,0
+22121,PO BOX,0,Mount Vernon,,,VA,Fairfax County,America/New_York,571,NA,US,38.71,-77.1,DC,74
+22122,PO BOX,0,Newington,,,VA,Fairfax County,America/New_York,571,NA,US,38.73,-77.2,DC,112
+22124,STANDARD,0,Oakton,Vienna,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.89,-77.3,DC,17910
+22150,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.17,DC,26770
+22151,STANDARD,0,Springfield,"N Springfield, North Springfield",N Springfld,VA,Fairfax County,America/New_York,703,NA,US,38.8,-77.21,DC,17210
+22152,STANDARD,0,Springfield,"W Springfield, West Springfield",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.77,-77.23,DC,29200
+22153,STANDARD,0,Springfield,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.74,-77.24,DC,32060
+22156,UNIQUE,0,Springfield,,Firm Zip,VA,Fairfax County,America/New_York,571,NA,US,38.78,-77.17,DC,0
+22158,UNIQUE,0,Springfield,,"Army Times, Springfield Brm",VA,Fairfax County,America/New_York,571,NA,US,38.78,-77.17,DC,0
+22159,STANDARD,0,Springfield,,"Army Times, Firm Zip",VA,Fairfax County,America/New_York,571,NA,US,38.78,-77.17,DC,0
+22160,UNIQUE,0,Springfield,,National Right To Work Comm,VA,Fairfax County,America/New_York,571,NA,US,38.78,-77.17,DC,0
+22161,UNIQUE,0,Springfield,,Dept Of Commerce,VA,Fairfax County,America/New_York,571,NA,US,38.78,-77.17,DC,0
+22180,STANDARD,0,Vienna,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.9,-77.26,DC,24900
+22181,STANDARD,0,Vienna,,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.91,-77.29,DC,14760
+22182,STANDARD,0,Vienna,"Tysons, Tysons Corner",,VA,Fairfax County,America/New_York,"571,703",NA,US,38.94,-77.27,DC,26280
+22183,PO BOX,0,Vienna,,,VA,Fairfax County,America/New_York,571,NA,US,38.9,-77.26,DC,258
+22184,UNIQUE,1,Vienna,,National Wildlife Assoc,VA,Fairfax County,America/New_York,571,NA,US,38.9,-77.26,DC,0
+22185,UNIQUE,0,Vienna,Oakton,"A T & T, AT&T",VA,Fairfax County,America/New_York,571,NA,US,38.87,-77.3,DC,0
+22199,PO BOX,0,Lorton,,,VA,Fairfax County,America/New_York,571,NA,US,38.7,-77.24,DC,474
+22303,STANDARD,0,Alexandria,"Jefferson Manor, Jefferson Mnr",,VA,Fairfax County,America/New_York,703,NA,US,38.79,-77.08,DC,14330
+22306,STANDARD,0,Alexandria,Community,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.76,-77.1,DC,29660
+22307,STANDARD,0,Alexandria,Belleview,,VA,Fairfax County,America/New_York,703,NA,US,38.77,-77.06,DC,9790
+22308,STANDARD,0,Alexandria,Fort Hunt,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.73,-77.06,DC,13740
+22309,STANDARD,0,Alexandria,Engleside,,VA,Fairfax County,America/New_York,"571,703",NA,US,38.72,-77.11,DC,31040
+22310,STANDARD,0,Alexandria,Franconia,,VA,Fairfax County,America/New_York,703,NA,US,38.78,-77.12,DC,28090
+22312,STANDARD,0,Alexandria,Lincolnia,,VA,Fairfax County,America/New_York,703,NA,US,38.82,-77.15,DC,27890
+22315,STANDARD,0,Alexandria,Kingstowne,,VA,Fairfax County,America/New_York,703,NA,US,38.76,-77.15,DC,26980
+22040,PO BOX,0,Falls Church,,,VA,Falls Church City,America/New_York,571,NA,US,38.88,-77.17,DC,382
+22046,STANDARD,0,Falls Church,,,VA,Falls Church city,America/New_York,"571,703",NA,US,38.88,-77.17,DC,17600
+22047,UNIQUE,1,Falls Church,,Aaa,VA,Falls Church City,America/New_York,571,NA,US,38.86,-77.22,DC,0
+20115,STANDARD,0,Marshall,,,VA,Fauquier County,America/New_York,540,NA,US,38.87,-77.85,DC,5430
+20116,PO BOX,0,Marshall,,,VA,Fauquier County,America/New_York,,NA,US,38.87,-77.85,DC,902
+20119,STANDARD,0,Catlett,,,VA,Fauquier County,America/New_York,540,NA,US,38.61,-77.64,DC,3720
+20128,PO BOX,0,Orlean,,,VA,Fauquier County,America/New_York,,NA,US,38.74,-77.96,DC,255
+20137,STANDARD,0,Broad Run,,,VA,Fauquier County,America/New_York,540,NA,US,38.81,-77.72,DC,1860
+20138,PO BOX,0,Calverton,,,VA,Fauquier County,America/New_York,,NA,US,38.63,-77.67,DC,289
+20139,PO BOX,0,Casanova,,,VA,Fauquier County,America/New_York,,NA,US,38.66,-77.7,DC,326
+20140,PO BOX,0,Rectortown,,,VA,Fauquier County,America/New_York,,NA,US,38.81,-77.9,DC,98
+20144,STANDARD,0,Delaplane,,,VA,Fauquier County,America/New_York,540,NA,US,38.92,-77.92,DC,860
+20184,STANDARD,0,Upperville,,,VA,Fauquier County,America/New_York,703,NA,US,38.99,-77.88,DC,400
+20185,PO BOX,0,Upperville,,,VA,Fauquier County,America/New_York,540,NA,US,38.99,-77.88,DC,384
+20186,STANDARD,0,Warrenton,,"Airlie, Opal",VA,Fauquier County,America/New_York,540,NA,US,38.71,-77.79,DC,13490
+20187,STANDARD,0,Warrenton,"New Baltimore, Vint Hill Farms, Vint Hill Frm",,VA,Fauquier County,America/New_York,540,NA,US,38.72,-77.75,DC,18410
+20188,PO BOX,0,Warrenton,"Vint Hill Farms, Vint Hill Frm",,VA,Fauquier County,America/New_York,540,NA,US,38.71,-77.79,DC,1067
+20198,STANDARD,0,The Plains,,,VA,Fauquier County,America/New_York,540,NA,US,38.86,-77.77,DC,1810
+22639,STANDARD,0,Hume,,,VA,Fauquier County,America/New_York,,NA,US,38.83,-77.99,DC,590
+22643,STANDARD,0,Markham,,,VA,Fauquier County,America/New_York,540,NA,US,38.9,-78,DC,360
+22712,STANDARD,0,Bealeton,Morrisville,,VA,Fauquier County,America/New_York,540,NA,US,38.57,-77.76,DC,9760
+22720,STANDARD,0,Goldvein,,,VA,Fauquier County,America/New_York,540,NA,US,38.44,-77.65,DC,880
+22728,STANDARD,0,Midland,,,VA,Fauquier County,America/New_York,540,NA,US,38.59,-77.72,DC,2900
+22734,STANDARD,0,Remington,,,VA,Fauquier County,America/New_York,540,NA,US,38.53,-77.8,DC,3160
+22739,PO BOX,0,Somerville,,,VA,Fauquier County,America/New_York,,NA,US,38.52,-77.6,DC,63
+22742,STANDARD,0,Sumerduck,,,VA,Fauquier County,America/New_York,,NA,US,38.46,-77.72,DC,1610
+22602,STANDARD,0,Winchester,,,VA,Frederick County,America/New_York,540,NA,US,39.14,-78.28,DC,28230
+22603,STANDARD,0,Winchester,Hayfield,,VA,Frederick County,America/New_York,540,NA,US,39.28,-78.21,DC,13740
+22622,PO BOX,0,Brucetown,,,VA,Frederick County,America/New_York,540,NA,US,39.25,-78.05,DC,0
+22624,STANDARD,0,Clear Brook,,,VA,Frederick County,America/New_York,540,NA,US,39.26,-78.1,DC,2470
+22625,STANDARD,0,Cross Junction,"Cross Jct, Whitacre",,VA,Frederick County,America/New_York,540,NA,US,39.32,-78.29,DC,3530
+22637,STANDARD,0,Gore,,,VA,Frederick County,America/New_York,540,NA,US,39.26,-78.33,DC,2020
+22645,STANDARD,0,Middletown,,,VA,Frederick County,America/New_York,,NA,US,39.02,-78.27,DC,3870
+22649,STANDARD,0,Middletown,Reliance,,VA,Frederick County,America/New_York,540,NA,US,39.02,-78.27,DC,0
+22654,STANDARD,0,Star Tannery,,,VA,Frederick County,America/New_York,,NA,US,39.08,-78.45,DC,720
+22655,STANDARD,0,Stephens City,,,VA,Frederick County,America/New_York,540,NA,US,39.09,-78.22,DC,20880
+22656,STANDARD,0,Stephenson,,,VA,Frederick County,America/New_York,540,NA,US,39.2,-78.09,DC,4920
+22663,STANDARD,0,White Post,,,VA,Frederick County,America/New_York,540,NA,US,39.05,-78.1,DC,1570
+22401,STANDARD,0,Fredericksburg,Fredericksbrg,"Enon, Fred",VA,Fredericksburg city,America/New_York,540,NA,US,38.29,-77.48,DC,21280
+22402,PO BOX,0,Fredericksburg,Fredericksbrg,Fred,VA,Fredericksburg City,America/New_York,540,NA,US,38.29,-77.48,DC,552
+22403,PO BOX,0,Fredericksburg,"Falmouth, Fredericksbrg",Fred,VA,Fredericksburg City,America/New_York,540,NA,US,38.29,-77.48,DC,620
+22404,PO BOX,0,Fredericksburg,Fredericksbrg,Fred,VA,Fredericksburg City,America/New_York,540,NA,US,38.29,-77.48,DC,1119
+22412,UNIQUE,0,Fredericksburg,"Falmouth, Fredericksbrg",Geico Insurance,VA,Fredericksburg City,America/New_York,540,NA,US,38.29,-77.48,DC,0
+20101,UNIQUE,0,Dulles,,Dulles P & D Center,VA,Loudoun County,America/New_York,571,NA,US,38.92,-77.35,DC,87
+20102,UNIQUE,0,Dulles,,Dulles Air Transfer Office,VA,Loudoun County,America/New_York,571,NA,US,38.92,-77.35,DC,0
+20103,UNIQUE,0,Dulles,,Stamp Distribution Network,VA,Loudoun County,America/New_York,571,NA,US,38.92,-77.35,DC,0
+20104,UNIQUE,0,Dulles,,Inspection Service Forensic,VA,Loudoun County,America/New_York,571,NA,US,38.92,-77.35,DC,0
+20105,STANDARD,0,Aldie,Stone Ridge,,VA,Loudoun County,America/New_York,"540,703,571",NA,US,38.97,-77.64,DC,32660
+20107,STANDARD,1,Arcola,,,VA,Loudoun County,America/New_York,,NA,US,38.96,-77.52,DC,31
+20117,STANDARD,0,Middleburg,,,VA,Loudoun County,America/New_York,540,NA,US,38.97,-77.73,DC,1560
+20118,PO BOX,0,Middleburg,,,VA,Loudoun County,America/New_York,540,NA,US,38.97,-77.74,DC,2122
+20129,STANDARD,0,Paeonian Springs,Paeonian Spgs,,VA,Loudoun County,America/New_York,703,NA,US,39.16,-77.61,DC,650
+20131,PO BOX,0,Philomont,,,VA,Loudoun County,America/New_York,,NA,US,39.05,-77.74,DC,375
+20132,STANDARD,0,Purcellville,Hillsboro,,VA,Loudoun County,America/New_York,540,NA,US,39.13,-77.71,DC,16860
+20134,PO BOX,0,Purcellville,Hillsboro,,VA,Loudoun County,America/New_York,540,NA,US,39.13,-77.71,DC,959
+20141,STANDARD,0,Round Hill,,,VA,Loudoun County,America/New_York,540,NA,US,39.13,-77.77,DC,7570
+20142,PO BOX,0,Round Hill,,,VA,Loudoun County,America/New_York,540,NA,US,39.13,-77.77,DC,667
+20146,PO BOX,0,Ashburn,,,VA,Loudoun County,America/New_York,,NA,US,39.04,-77.48,DC,510
+20147,STANDARD,0,Ashburn,,,VA,Loudoun County,America/New_York,703,NA,US,39.04,-77.48,DC,63400
+20148,STANDARD,0,Ashburn,"Brambleton, Broadlands",,VA,Loudoun County,America/New_York,"571,703",NA,US,39,-77.52,DC,59380
+20149,UNIQUE,0,Ashburn,,Natl Assn Letter Carriers,VA,Loudoun County,America/New_York,571,NA,US,39.04,-77.48,DC,0
+20152,STANDARD,0,Chantilly,"Fairfax, South Riding",,VA,Loudoun County,America/New_York,"571,703",NA,US,38.92,-77.5,DC,36430
+20158,STANDARD,0,Hamilton,,,VA,Loudoun County,America/New_York,540,NA,US,39.13,-77.66,DC,4360
+20159,PO BOX,0,Hamilton,,,VA,Loudoun County,America/New_York,540,NA,US,39.13,-77.66,DC,419
+20160,PO BOX,0,Lincoln,Purcellville,,VA,Loudoun County,America/New_York,540,NA,US,39.11,-77.69,DC,243
+20163,PO BOX,0,Sterling,,,VA,Loudoun County,America/New_York,,NA,US,39,-77.4,DC,0
+20164,STANDARD,0,Sterling,,,VA,Loudoun County,America/New_York,703,NA,US,39,-77.4,DC,39110
+20165,STANDARD,0,Sterling,Potomac Falls,,VA,Loudoun County,America/New_York,703,NA,US,39.06,-77.39,DC,33190
+20166,STANDARD,0,Sterling,"Arcola, Dulles",,VA,Loudoun County,America/New_York,"571,703",NA,US,38.99,-77.46,DC,12350
+20167,PO BOX,0,Sterling,,,VA,Loudoun County,America/New_York,571,NA,US,39,-77.4,DC,542
+20175,STANDARD,0,Leesburg,,,VA,Loudoun County,America/New_York,"571,703,540",NA,US,39.1,-77.55,DC,31280
+20176,STANDARD,0,Leesburg,Lansdowne,Lucketts,VA,Loudoun County,America/New_York,"540,571,703",NA,US,39.18,-77.54,DC,49640
+20177,PO BOX,0,Leesburg,,,VA,Loudoun County,America/New_York,571,NA,US,39.1,-77.55,DC,711
+20178,PO BOX,0,Leesburg,,,VA,Loudoun County,America/New_York,571,NA,US,39.1,-77.55,DC,239
+20180,STANDARD,0,Lovettsville,,,VA,Loudoun County,America/New_York,540,NA,US,39.27,-77.63,DC,7910
+20189,STANDARD,0,Dulles,,,VA,Loudoun County,America/New_York,"571,703",NA,US,38.96,-77.45,DC,9117
+20197,STANDARD,0,Waterford,,,VA,Loudoun County,America/New_York,"571,703",NA,US,39.2,-77.63,DC,2460
+20199,UNIQUE,1,Dulles,Visa Lottery State Dept,,VA,Loudoun County,America/New_York,571,NA,US,39,-77.45,DC,0
+22093,UNIQUE,1,Ashburn,Natl Assn Letter Carriers,,VA,Loudoun County,America/New_York,571,NA,US,39.04,-77.48,DC,0
+22709,STANDARD,0,Aroda,,,VA,Madison County,America/New_York,540,NA,US,38.32,-78.24,DC,910
+22711,STANDARD,0,Banco,,,VA,Madison County,America/New_York,540,NA,US,38.47,-78.27,DC,119
+22715,STANDARD,0,Brightwood,,,VA,Madison County,America/New_York,540,NA,US,38.41,-78.16,DC,1080
+22719,STANDARD,0,Etlan,Madison,,VA,Madison County,America/New_York,540,NA,US,38.52,-78.26,DC,280
+22721,STANDARD,1,Graves Mill,,,VA,Madison County,America/New_York,540,NA,US,38.39,-78.28,DC,0
+22722,STANDARD,0,Haywood,,,VA,Madison County,America/New_York,540,NA,US,38.47,-78.23,DC,176
+22723,STANDARD,0,Hood,,,VA,Madison County,America/New_York,540,NA,US,38.35,-78.38,DC,196
+22725,STANDARD,0,Leon,,,VA,Madison County,America/New_York,540,NA,US,38.45,-78.15,DC,70
+22727,STANDARD,0,Madison,"Banco, Etlan, Graves Mill","Aroda, Aylor, Criglersville, Shelby, Twymans Mill",VA,Madison County,America/New_York,"434,540",NA,US,38.37,-78.25,DC,4910
+22730,STANDARD,0,Oakpark,,,VA,Madison County,America/New_York,540,NA,US,38.36,-78.16,DC,151
+22731,STANDARD,0,Pratts,,,VA,Madison County,America/New_York,540,NA,US,38.34,-78.26,DC,210
+22732,STANDARD,0,Radiant,,,VA,Madison County,America/New_York,540,NA,US,38.31,-78.19,DC,290
+22738,STANDARD,0,Rochelle,Uno,,VA,Madison County,America/New_York,540,NA,US,38.29,-78.27,DC,950
+22743,STANDARD,0,Syria,,,VA,Madison County,America/New_York,540,NA,US,38.48,-78.32,DC,205
+22748,PO BOX,0,Wolftown,,,VA,Madison County,America/New_York,540,NA,US,38.35,-78.34,DC,164
+22948,STANDARD,0,Locust Dale,,,VA,Madison County,America/New_York,540,NA,US,38.36,-78.13,DC,230
+22989,PO BOX,0,Woodberry Forest,Woodberry For,Wdberry Forst,VA,Madison County,America/New_York,,NA,US,38.29,-78.13,DC,195
+20108,PO BOX,0,Manassas,,,VA,Manassas City,America/New_York,571,NA,US,38.74,-77.48,DC,1684
+20110,STANDARD,0,Manassas,,,VA,Manassas city,America/New_York,"571,703",NA,US,38.74,-77.48,DC,44240
+20113,PO BOX,0,Manassas,Manassas Park,,VA,Manassas City,America/New_York,571,NA,US,38.74,-77.48,DC,188
+20109,STANDARD,0,Manassas,"Sudley Spgs, Sudley Springs",,VA,Prince William County,America/New_York,"571,703",NA,US,38.79,-77.53,DC,37490
+20111,STANDARD,0,Manassas,Manassas Park,,VA,Prince William County,America/New_York,"571,703",NA,US,38.75,-77.43,DC,36040
+20112,STANDARD,0,Manassas,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.66,-77.43,DC,28440
+20136,STANDARD,0,Bristow,,,VA,Prince William County,America/New_York,571,NA,US,38.74,-77.55,DC,31270
+20143,STANDARD,0,Catharpin,,,VA,Prince William County,America/New_York,571,NA,US,38.84,-77.56,DC,1110
+20155,STANDARD,0,Gainesville,,,VA,Prince William County,America/New_York,571,NA,US,38.79,-77.61,DC,36090
+20156,PO BOX,0,Gainesville,,,VA,Prince William County,America/New_York,571,NA,US,38.79,-77.61,DC,339
+20168,PO BOX,0,Haymarket,,,VA,Prince William County,America/New_York,571,NA,US,38.81,-77.63,DC,269
+20169,STANDARD,0,Haymarket,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.88,-77.65,DC,27590
+20181,STANDARD,0,Nokesville,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.69,-77.58,DC,9110
+20182,PO BOX,0,Nokesville,,,VA,Prince William County,America/New_York,571,NA,US,38.69,-77.58,DC,437
+22025,STANDARD,0,Dumfries,Montclair,,VA,Prince William County,America/New_York,"571,703",NA,US,38.6,-77.34,DC,17840
+22026,STANDARD,0,Dumfries,Southbridge,,VA,Prince William County,America/New_York,571,NA,US,38.56,-77.3,DC,18850
+22125,PO BOX,0,Occoquan,,,VA,Prince William County,America/New_York,571,NA,US,38.68,-77.26,DC,654
+22134,STANDARD,0,Quantico,,"Mcb Quantico, Quantico Naval Hospital",VA,Prince William County,America/New_York,571,NA,US,38.52,-77.29,DC,4790
+22135,UNIQUE,0,Quantico,,Fbi Academy,VA,Prince William County,America/New_York,571,NA,US,38.52,-77.29,DC,0
+22172,STANDARD,0,Triangle,,,VA,Prince William County,America/New_York,"571,703",NA,US,38.54,-77.31,DC,9550
+22191,STANDARD,0,Woodbridge,,Wdbg,VA,Prince William County,America/New_York,"571,703",NA,US,38.63,-77.26,DC,68120
+22192,STANDARD,0,Woodbridge,"Lake Ridge, Prince William, Prince Wm",,VA,Prince William County,America/New_York,"571,703",NA,US,38.68,-77.31,DC,56250
+22193,STANDARD,0,Woodbridge,Dale City,Dalecity,VA,Prince William County,America/New_York,"571,703",NA,US,38.64,-77.35,DC,79970
+22194,PO BOX,0,Woodbridge,,,VA,Prince William County,America/New_York,571,NA,US,38.63,-77.26,DC,666
+22195,PO BOX,0,Woodbridge,,,VA,Prince William County,America/New_York,571,NA,US,38.63,-77.26,DC,1056
+22623,STANDARD,0,Chester Gap,,,VA,Rappahannock County,America/New_York,540,NA,US,38.85,-78.13,DC,620
+22627,STANDARD,0,Flint Hill,Huntly,,VA,Rappahannock County,America/New_York,540,NA,US,38.76,-78.1,DC,720
+22640,STANDARD,0,Huntly,,,VA,Rappahannock County,America/New_York,540,NA,US,38.8,-78.14,DC,310
+22716,STANDARD,0,Castleton,,,VA,Rappahannock County,America/New_York,540,NA,US,38.6,-78.1,DC,720
+22740,STANDARD,0,Sperryville,,,VA,Rappahannock County,America/New_York,540,NA,US,38.67,-78.25,DC,1090
+22746,STANDARD,0,Viewtown,,,VA,Rappahannock County,America/New_York,540,NA,US,38.63,-78.03,DC,269
+22747,STANDARD,0,Washington,,Wash,VA,Rappahannock County,America/New_York,540,NA,US,38.71,-78.15,DC,1010
+22749,STANDARD,0,Woodville,,,VA,Rappahannock County,America/New_York,540,NA,US,38.6,-78.17,DC,290
+22407,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.28,-77.58,DC,56890
+22408,STANDARD,0,Fredericksburg,Fredericksbrg,"Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Spotsylvania County,America/New_York,540,NA,US,38.22,-77.44,DC,29210
+22534,STANDARD,0,Partlow,,,VA,Spotsylvania County,America/New_York,"804,540",NA,US,38.08,-77.67,DC,2750
+22551,STANDARD,0,Spotsylvania,,,VA,Spotsylvania County,America/New_York,540,NA,US,38.17,-77.7,DC,19000
+22553,STANDARD,0,Spotsylvania,Snell,,VA,Spotsylvania County,America/New_York,540,NA,US,38.27,-77.65,DC,15540
+22565,PO BOX,0,Thornburg,,,VA,Spotsylvania County,America/New_York,540,NA,US,38.13,-77.52,DC,556
+22405,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredericksbg",VA,Stafford County,America/New_York,540,NA,US,38.31,-77.4,DC,31780
+22406,STANDARD,0,Fredericksburg,"Falmouth, Fredericksbrg","Fred, Fredbg, Frederickbg, Frederickbur, Fredericksbg, Fredericksbur",VA,Stafford County,America/New_York,540,NA,US,38.4,-77.54,DC,25040
+22430,PO BOX,0,Brooke,Stafford,,VA,Stafford County,America/New_York,540,NA,US,38.37,-77.34,DC,71
+22463,PO BOX,0,Garrisonville,,,VA,Stafford County,America/New_York,540,NA,US,38.48,-77.42,DC,348
+22471,PO BOX,0,Hartwood,,,VA,Stafford County,America/New_York,540,NA,US,38.39,-77.61,DC,307
+22545,PO BOX,0,Ruby,,,VA,Stafford County,America/New_York,540,NA,US,38.5,-77.51,DC,71
+22554,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.42,-77.4,DC,58630
+22555,PO BOX,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.42,-77.4,DC,1083
+22556,STANDARD,0,Stafford,,,VA,Stafford County,America/New_York,540,NA,US,38.47,-77.51,DC,27890
+22610,STANDARD,0,Bentonville,Browntown,Overall,VA,Warren County,America/New_York,540,NA,US,38.83,-78.31,DC,1850
+22630,STANDARD,0,Front Royal,"Lake Frederick, Lk Frederick, Riverton",,VA,Warren County,America/New_York,540,NA,US,38.92,-78.18,DC,29590
+22642,STANDARD,0,Linden,,,VA,Warren County,America/New_York,540,NA,US,38.9,-78.07,DC,4300
+56901,UNIQUE,0,Parcel Return Service,Prs,Parcel Return Svc,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.04,DC,0
+56902,UNIQUE,0,Parcel Return Service,Prs,Parcel Return Svc,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+56904,UNIQUE,0,Parcel Return Service,Prs,Parcel Return Svc,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+56915,UNIQUE,0,Parcel Return Service,Prs,Parcel Return Svc,DC,District of Columbia,America/New_York,202,NA,US,38.92,-76.99,DC,0
+56920,UNIQUE,0,Parcel Return Service,Prs,Parcel Return Svc,DC,District of Columbia,America/New_York,202,NA,US,38.9,-77.04,DC,0
+56933,UNIQUE,0,Parcel Return Service,Prs,Parcel Return Svc,DC,District of Columbia,America/New_York,202,NA,US,38.86,-76.99,DC,0
+56944,UNIQUE,0,Parcel Return Service,Prs,Parcel Return Svc,DC,District of Columbia,America/New_York,202,NA,US,38.86,-76.99,DC,0
+56945,UNIQUE,0,Parcel Return Service,Prs,Parcel Return Svc,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+56950,UNIQUE,0,Parcel Return Service,Prs,Parcel Return Svc,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+56965,UNIQUE,0,Parcel Return Service,Prs,Parcel Return Svc,DC,District of Columbia,America/New_York,202,NA,US,38.89,-77.03,DC,0
+56972,UNIQUE,0,Parcel Return Service,Prs,Parcel Return Svc,DC,District of Columbia,America/New_York,202,NA,US,38.86,-76.99,DC,0

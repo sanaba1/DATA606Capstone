@@ -1,0 +1,241 @@
+zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,Metro,irs_estimated_population
+30002,STANDARD,0,Avondale Estates,Avondale Est,,GA,DeKalb County,America/New_York,"404,678",NA,US,33.77,-84.26,Atlanta,5640
+30003,PO BOX,0,Norcross,,Rockbridge,GA,Gwinnett County,America/New_York,678,NA,US,33.94,-84.2,Atlanta,551
+30004,STANDARD,0,Alpharetta,Milton,,GA,Fulton County,America/New_York,678,NA,US,34.14,-84.29,Atlanta,64590
+30005,STANDARD,0,Alpharetta,Johns Creek,,GA,Fulton County,America/New_York,678,NA,US,34.09,-84.22,Atlanta,36680
+30006,PO BOX,0,Marietta,,,GA,Cobb County,America/New_York,678,NA,US,33.95,-84.54,Atlanta,1112
+30007,PO BOX,0,Marietta,,,GA,Cobb County,America/New_York,678,NA,US,33.95,-84.54,Atlanta,259
+30008,STANDARD,0,Marietta,,,GA,Cobb County,America/New_York,"470,678,770",NA,US,33.9,-84.59,Atlanta,25700
+30009,STANDARD,0,Alpharetta,Milton,,GA,Fulton County,America/New_York,678,NA,US,34.08,-84.31,Atlanta,18080
+30010,PO BOX,0,Norcross,"Peachtree Cor, Peachtree Corners",,GA,Gwinnett County,America/New_York,678,NA,US,33.94,-84.2,Atlanta,784
+30012,STANDARD,0,Conyers,,,GA,Rockdale County,America/New_York,"470,678,770",NA,US,33.66,-84.01,Atlanta,23960
+30013,STANDARD,0,Conyers,,,GA,Rockdale County,America/New_York,"470,678,770",NA,US,33.65,-83.97,Atlanta,25020
+30017,STANDARD,0,Grayson,,,GA,Gwinnett County,America/New_York,678,NA,US,33.89,-83.95,Atlanta,23440
+30019,STANDARD,0,Dacula,,,GA,Gwinnett County,America/New_York,678,NA,US,33.98,-83.88,Atlanta,47410
+30021,STANDARD,0,Clarkston,,,GA,DeKalb County,America/New_York,"404,678",NA,US,33.81,-84.24,Atlanta,21900
+30022,STANDARD,0,Alpharetta,Johns Creek,,GA,Fulton County,America/New_York,678,NA,US,34.06,-84.27,Atlanta,62820
+30023,PO BOX,0,Alpharetta,,,GA,Fulton County,America/New_York,678,NA,US,34.06,-84.27,Atlanta,643
+30024,STANDARD,0,Suwanee,Johns Creek,,GA,Gwinnett County,America/New_York,"470,678",NA,US,34.05,-84.07,Atlanta,81610
+30026,PO BOX,0,North Metro,Duluth,,GA,Gwinnett County,America/New_York,678,NA,US,34,-84.15,Atlanta,15
+30029,PO BOX,0,North Metro,Duluth,,GA,Gwinnett County,America/New_York,678,NA,US,34,-84.15,Atlanta,0
+30030,STANDARD,0,Decatur,,,GA,DeKalb County,America/New_York,404,NA,US,33.77,-84.29,Atlanta,27450
+30031,PO BOX,0,Decatur,,,GA,Dekalb County,America/New_York,404,NA,US,33.77,-84.29,Atlanta,1305
+30032,STANDARD,0,Decatur,,"Belvedere, Dunaire",GA,DeKalb County,America/New_York,404,NA,US,33.74,-84.26,Atlanta,34620
+30033,STANDARD,0,Decatur,,"North Decatur, Vista Grove",GA,DeKalb County,America/New_York,404,NA,US,33.81,-84.28,Atlanta,25790
+30034,STANDARD,0,Decatur,,,GA,DeKalb County,America/New_York,"678,770",NA,US,33.69,-84.25,Atlanta,37900
+30035,STANDARD,0,Decatur,,Snapfinger,GA,DeKalb County,America/New_York,"678,770",NA,US,33.72,-84.2,Atlanta,18260
+30036,PO BOX,0,Decatur,,,GA,Dekalb County,America/New_York,404,NA,US,33.77,-84.29,Atlanta,839
+30037,PO BOX,0,Decatur,,,GA,Dekalb County,America/New_York,404,NA,US,33.77,-84.29,Atlanta,1054
+30038,STANDARD,0,Lithonia,Stonecrest,,GA,DeKalb County,America/New_York,"678,770",NA,US,33.67,-84.14,Atlanta,34630
+30039,STANDARD,0,Snellville,,,GA,Gwinnett County,America/New_York,"678,770",NA,US,33.8,-84.03,Atlanta,44310
+30042,PO BOX,0,Lawrenceville,,,GA,Gwinnett County,America/New_York,678,NA,US,33.94,-83.99,Atlanta,737
+30043,STANDARD,0,Lawrenceville,,,GA,Gwinnett County,America/New_York,"470,678,770",NA,US,34,-84.01,Atlanta,79510
+30044,STANDARD,0,Lawrenceville,,,GA,Gwinnett County,America/New_York,"678,770",NA,US,33.92,-84.07,Atlanta,83580
+30045,STANDARD,0,Lawrenceville,,,GA,Gwinnett County,America/New_York,"470,678,770",NA,US,33.94,-83.93,Atlanta,39190
+30046,STANDARD,0,Lawrenceville,,,GA,Gwinnett County,America/New_York,470,NA,US,33.94,-83.99,Atlanta,34780
+30047,STANDARD,0,Lilburn,,,GA,Gwinnett County,America/New_York,"678,770",NA,US,33.88,-84.13,Atlanta,62210
+30048,PO BOX,0,Lilburn,,,GA,Gwinnett County,America/New_York,678,NA,US,33.88,-84.13,Atlanta,1316
+30049,PO BOX,0,Lawrenceville,,,GA,Gwinnett County,America/New_York,678,NA,US,33.64,-84.26,Atlanta,725
+30058,STANDARD,0,Lithonia,Stonecrest,,GA,DeKalb County,America/New_York,"678,770",NA,US,33.71,-84.1,Atlanta,48920
+30060,STANDARD,0,Marietta,,"Atlanta Naval Air Station, Dobbins AFB, Dobbins Air Force Base",GA,Cobb County,America/New_York,"470,678,770",NA,US,33.95,-84.54,Atlanta,31060
+30061,PO BOX,0,Marietta,,,GA,Cobb County,America/New_York,678,NA,US,33.95,-84.54,Atlanta,1272
+30062,STANDARD,0,Marietta,,,GA,Cobb County,America/New_York,"678,770",NA,US,34,-84.47,Atlanta,62910
+30063,UNIQUE,0,Marietta,,Lockheed,GA,Cobb County,America/New_York,678,NA,US,33.95,-84.54,Atlanta,41
+30064,STANDARD,0,Marietta,,,GA,Cobb County,America/New_York,"470,678,770",NA,US,33.94,-84.61,Atlanta,46240
+30065,PO BOX,0,Marietta,,Mreta,GA,Cobb County,America/New_York,678,NA,US,33.95,-84.54,Atlanta,611
+30066,STANDARD,0,Marietta,,,GA,Cobb County,America/New_York,678,NA,US,34.03,-84.51,Atlanta,54720
+30067,STANDARD,0,Marietta,,,GA,Cobb County,America/New_York,"678,770",NA,US,33.93,-84.46,Atlanta,38460
+30068,STANDARD,0,Marietta,,,GA,Cobb County,America/New_York,"678,770",NA,US,33.97,-84.43,Atlanta,33330
+30069,UNIQUE,0,Marietta,Dobbins AFB,Dobbins Air Force Base,GA,Cobb County,America/New_York,678,NA,US,33.95,-84.54,Atlanta,41
+30071,STANDARD,0,Norcross,"Berkeley Lake, Peachtree Cor, Peachtree Corners",,GA,Gwinnett County,America/New_York,678,NA,US,33.94,-84.2,Atlanta,22320
+30072,PO BOX,0,Pine Lake,,,GA,DeKalb County,America/New_York,678,NA,US,33.79,-84.21,Atlanta,1132
+30073,STANDARD,1,Decatur,,,GA,Dekalb County,America/New_York,404,NA,US,33.7,-84.25,Atlanta,206
+30074,PO BOX,0,Redan,Lithonia,,GA,Dekalb County,America/New_York,678,NA,US,33.73,-84.15,Atlanta,503
+30075,STANDARD,0,Roswell,Mountain Park,Sandy Plains,GA,Fulton County,America/New_York,678,NA,US,34.03,-84.35,Atlanta,53880
+30076,STANDARD,0,Roswell,,,GA,Fulton County,America/New_York,678,NA,US,34.03,-84.31,Atlanta,39820
+30077,PO BOX,0,Roswell,,,GA,Fulton County,America/New_York,678,NA,US,34.03,-84.35,Atlanta,937
+30078,STANDARD,0,Snellville,,,GA,Gwinnett County,America/New_York,"678,770",NA,US,33.85,-84,Atlanta,35210
+30079,STANDARD,0,Scottdale,,,GA,DeKalb County,America/New_York,"404,678",NA,US,33.79,-84.26,Atlanta,2820
+30080,STANDARD,0,Smyrna,,,GA,Cobb County,America/New_York,678,NA,US,33.86,-84.51,Atlanta,44280
+30081,PO BOX,0,Smyrna,,,GA,Cobb County,America/New_York,678,NA,US,33.86,-84.51,Atlanta,1158
+30082,STANDARD,0,Smyrna,,,GA,Cobb County,America/New_York,678,NA,US,33.85,-84.54,Atlanta,24780
+30083,STANDARD,0,Stone Mountain,Stone Mtn,"Memorial Square, St Mountain, St Mtn",GA,DeKalb County,America/New_York,"678,770,404",NA,US,33.8,-84.17,Atlanta,47380
+30084,STANDARD,0,Tucker,,,GA,DeKalb County,America/New_York,678,NA,US,33.85,-84.22,Atlanta,35060
+30085,PO BOX,0,Tucker,,,GA,Dekalb County,America/New_York,678,NA,US,33.85,-84.22,Atlanta,828
+30086,PO BOX,0,Stone Mountain,Stone Mtn,St Mountain,GA,Dekalb County,America/New_York,404,NA,US,33.8,-84.17,Atlanta,1204
+30087,STANDARD,0,Stone Mountain,"Smoke Rise, Stone Mtn",,GA,DeKalb County,America/New_York,"404,678,770",NA,US,33.81,-84.13,Atlanta,34590
+30088,STANDARD,0,Stone Mountain,Stone Mtn,,GA,DeKalb County,America/New_York,"404,678,770",NA,US,33.76,-84.18,Atlanta,22840
+30090,STANDARD,0,Marietta,,,GA,Cobb County,America/New_York,"470,678,770",NA,US,33.95,-84.54,Atlanta,0
+30091,PO BOX,0,Norcross,,,GA,Gwinnett County,America/New_York,678,NA,US,33.94,-84.2,Atlanta,903
+30092,STANDARD,0,Peachtree Corners,"Berkeley Lake, Norcross, Peachtree Cor",Parkway,GA,Gwinnett County,America/New_York,678,NA,US,33.97,-84.23,Atlanta,32090
+30093,STANDARD,0,Norcross,,,GA,Gwinnett County,America/New_York,678,NA,US,33.91,-84.18,Atlanta,44520
+30094,STANDARD,0,Conyers,,,GA,Rockdale County,America/New_York,"770,470,678",NA,US,33.61,-84.05,Atlanta,28310
+30095,PO BOX,0,Duluth,,,GA,Gwinnett County,America/New_York,678,NA,US,34,-84.15,Atlanta,747
+30096,STANDARD,0,Duluth,"Berkeley Lake, Peachtree Cor, Peachtree Corners",,GA,Gwinnett County,America/New_York,"470,678,770",NA,US,34,-84.15,Atlanta,60360
+30097,STANDARD,0,Duluth,"Johns Creek, Peachtree Cor, Peachtree Corners",,GA,Fulton County,America/New_York,"470,678,770",NA,US,34.03,-84.15,Atlanta,46340
+30098,UNIQUE,0,Duluth,,State Farm Insurance Co,GA,Gwinnett County,America/New_York,678,NA,US,34,-84.15,Atlanta,28
+30099,UNIQUE,0,Duluth,,Primerica Financial Services,GA,Gwinnett County,America/New_York,678,NA,US,34,-84.15,Atlanta,0
+30101,STANDARD,0,Acworth,,Oak Grove,GA,Cobb County,America/New_York,"678,770",NA,US,34.05,-84.67,Atlanta,57910
+30102,STANDARD,0,Acworth,,,GA,Cherokee County,America/New_York,"678,770",NA,US,34.1,-84.63,Atlanta,38510
+30106,STANDARD,0,Austell,,,GA,Cobb County,America/New_York,"770,678",NA,US,33.82,-84.64,Atlanta,19140
+30107,STANDARD,0,Ball Ground,,,GA,Cherokee County,America/New_York,"770,678",NA,US,34.33,-84.37,Atlanta,14670
+30111,PO BOX,0,Clarkdale,,,GA,Cobb County,America/New_York,678,NA,US,33.82,-84.65,Atlanta,314
+30114,STANDARD,0,Canton,Holly Springs,,GA,Cherokee County,America/New_York,"678,770",NA,US,34.24,-84.49,Atlanta,51740
+30115,STANDARD,0,Canton,Holly Springs,,GA,Cherokee County,America/New_York,"678,770",NA,US,34.2,-84.4,Atlanta,44680
+30122,STANDARD,0,Lithia Springs,Lithia Spgs,,GA,Douglas County,America/New_York,678,NA,US,33.77,-84.64,Atlanta,20410
+30126,STANDARD,0,Mableton,Smyrna,,GA,Cobb County,America/New_York,678,NA,US,33.81,-84.56,Atlanta,35960
+30127,STANDARD,0,Powder Springs,Powder Spgs,,GA,Cobb County,America/New_York,"470,678,770",NA,US,33.86,-84.68,Atlanta,63510
+30133,PO BOX,0,Douglasville,,,GA,Douglas County,America/New_York,678,NA,US,33.74,-84.74,Atlanta,1123
+30134,STANDARD,0,Douglasville,,,GA,Douglas County,America/New_York,"678,770",NA,US,33.74,-84.74,Atlanta,40210
+30135,STANDARD,0,Douglasville,,,GA,Douglas County,America/New_York,"678,770",NA,US,33.67,-84.73,Atlanta,60000
+30142,PO BOX,0,Holly Springs,,,GA,Cherokee County,America/New_York,678,NA,US,34.17,-84.49,Atlanta,574
+30144,STANDARD,0,Kennesaw,,Barrett Parkway,GA,Cobb County,America/New_York,678,NA,US,34.02,-84.61,Atlanta,44120
+30146,PO BOX,0,Lebanon,,,GA,Cherokee County,America/New_York,678,NA,US,34.21,-84.44,Atlanta,259
+30152,STANDARD,0,Kennesaw,,,GA,Cobb County,America/New_York,678,NA,US,33.99,-84.65,Atlanta,41190
+30154,PO BOX,0,Douglasville,,,GA,Douglas County,America/New_York,678,NA,US,33.74,-84.74,Atlanta,744
+30156,PO BOX,0,Kennesaw,,,GA,Cobb County,America/New_York,678,NA,US,33.99,-84.65,Atlanta,872
+30160,PO BOX,0,Kennesaw,,,GA,Cobb County,America/New_York,678,NA,US,33.99,-84.65,Atlanta,372
+30168,STANDARD,0,Austell,,,GA,Cobb County,America/New_York,"678,770",NA,US,33.78,-84.59,Atlanta,22540
+30169,PO BOX,0,Canton,,,GA,Cherokee County,America/New_York,678,NA,US,34.14,-84.3,Atlanta,843
+30183,STANDARD,0,Waleska,,Lake Arrowhead,GA,Cherokee County,America/New_York,678,NA,US,34.31,-84.55,Atlanta,5260
+30187,STANDARD,0,Winston,,,GA,Douglas County,America/New_York,678,NA,US,33.65,-84.86,Atlanta,8640
+30188,STANDARD,0,Woodstock,"Holly Springs, Mountain Park",,GA,Cherokee County,America/New_York,"678,770",NA,US,34.1,-84.51,Atlanta,61190
+30189,STANDARD,0,Woodstock,,,GA,Cherokee County,America/New_York,"678,770",NA,US,34.12,-84.57,Atlanta,35810
+30205,STANDARD,0,Brooks,,,GA,Fayette County,America/New_York,,NA,US,33.29,-84.45,Atlanta,3320
+30213,STANDARD,0,Fairburn,,,GA,Fulton County,America/New_York,770,NA,US,33.56,-84.58,Atlanta,34710
+30214,STANDARD,0,Fayetteville,Woolsey,,GA,Fayette County,America/New_York,"770,678",NA,US,33.49,-84.49,Atlanta,29280
+30215,STANDARD,0,Fayetteville,,,GA,Fayette County,America/New_York,"678,770",NA,US,33.44,-84.46,Atlanta,34640
+30228,STANDARD,0,Hampton,,,GA,Henry County,America/New_York,770,NA,US,33.38,-84.28,Atlanta,42490
+30236,STANDARD,0,Jonesboro,Lake Spivey,,GA,Clayton County,America/New_York,"770,678",NA,US,33.52,-84.35,Atlanta,41100
+30237,PO BOX,0,Jonesboro,,,GA,Clayton County,America/New_York,678,NA,US,33.52,-84.35,Atlanta,1145
+30238,STANDARD,0,Jonesboro,,,GA,Clayton County,America/New_York,"678,770",NA,US,33.49,-84.38,Atlanta,35500
+30248,STANDARD,0,Locust Grove,,,GA,Henry County,America/New_York,"678,770",NA,US,33.34,-84.1,Atlanta,25740
+30250,PO BOX,0,Lovejoy,,,GA,Clayton County,America/New_York,678,NA,US,33.44,-84.31,Atlanta,362
+30252,STANDARD,0,Mcdonough,,,GA,Henry County,America/New_York,"678,770",NA,US,33.47,-84.06,Atlanta,44530
+30253,STANDARD,0,Mcdonough,,Mc Donough,GA,Henry County,America/New_York,"678,770",NA,US,33.45,-84.14,Atlanta,54170
+30260,STANDARD,0,Morrow,Lake City,,GA,Clayton County,America/New_York,404,NA,US,33.57,-84.34,Atlanta,22520
+30268,STANDARD,0,Palmetto,"Chatt Hills, Chattahoochee Hills",,GA,Fulton County,America/New_York,678,NA,US,33.52,-84.66,Atlanta,9460
+30269,STANDARD,0,Peachtree City,Peachtree Cty,,GA,Fayette County,America/New_York,"678,770",NA,US,33.39,-84.56,Atlanta,37400
+30270,UNIQUE,0,Peachtree City,"Fayetteville, Peachtree Cty",Peachtree City Parcel Return,GA,Fayette County,America/New_York,678,NA,US,33.4,-84.6,Atlanta,0
+30272,PO BOX,0,Red Oak,,,GA,Fulton County,America/New_York,678,NA,US,33.62,-84.53,Atlanta,642
+30273,STANDARD,0,Rex,,,GA,Clayton County,America/New_York,678,NA,US,33.58,-84.27,Atlanta,16270
+30274,STANDARD,0,Riverdale,,,GA,Clayton County,America/New_York,"678,770",NA,US,33.56,-84.4,Atlanta,29150
+30281,STANDARD,0,Stockbridge,,,GA,Henry County,America/New_York,"678,770",NA,US,33.54,-84.24,Atlanta,60480
+30287,PO BOX,0,Morrow,,,GA,Clayton County,America/New_York,404,NA,US,33.57,-84.34,Atlanta,239
+30288,STANDARD,0,Conley,,,GA,Clayton County,America/New_York,,NA,US,33.65,-84.33,Atlanta,7370
+30290,STANDARD,0,Tyrone,,,GA,Fayette County,America/New_York,"678,770",NA,US,33.46,-84.59,Atlanta,9000
+30291,STANDARD,0,Union City,,,GA,Fulton County,America/New_York,678,NA,US,33.57,-84.54,Atlanta,19980
+30294,STANDARD,0,Ellenwood,,,GA,DeKalb County,America/New_York,,NA,US,33.63,-84.26,Atlanta,37600
+30296,STANDARD,0,Riverdale,,,GA,Clayton County,America/New_York,678,NA,US,33.56,-84.44,Atlanta,24560
+30297,STANDARD,0,Forest Park,"Fort Gillem, Gillem Enclave, Gillem Enclv",,GA,Clayton County,America/New_York,404,NA,US,33.62,-84.37,Atlanta,23090
+30298,PO BOX,0,Forest Park,,Forest,GA,Clayton County,America/New_York,404,NA,US,33.61,-84.35,Atlanta,875
+30301,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.85,-84.39,Atlanta,1009
+30302,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.75,-84.38,Atlanta,774
+30303,STANDARD,0,Atlanta,,"Atl, Georgia State University",GA,Fulton County,America/New_York,"470,404,678",NA,US,33.75,-84.39,Atlanta,1800
+30304,STANDARD,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.64,-84.39,Atlanta,0
+30305,STANDARD,0,Atlanta,,Atl,GA,Fulton County,America/New_York,############,NA,US,33.83,-84.38,Atlanta,22750
+30306,STANDARD,0,Atlanta,,"Atl, North Highland Finance",GA,Fulton County,America/New_York,404,NA,US,33.78,-84.34,Atlanta,20460
+30307,STANDARD,0,Atlanta,,"Atl, Little Five Points Pstl Str",GA,DeKalb County,America/New_York,404,NA,US,33.76,-84.33,Atlanta,17540
+30308,STANDARD,0,Atlanta,,Atl,GA,Fulton County,America/New_York,"404,678",NA,US,33.77,-84.37,Atlanta,13770
+30309,STANDARD,0,Atlanta,,Atl,GA,Fulton County,America/New_York,"678,404",NA,US,33.78,-84.38,Atlanta,22880
+30310,STANDARD,0,Atlanta,,"Atl, Fort Mcpherson",GA,Fulton County,America/New_York,"404,678",NA,US,33.72,-84.42,Atlanta,19900
+30311,STANDARD,0,Atlanta,South Fulton,Atl,GA,Fulton County,America/New_York,404,NA,US,33.72,-84.48,Atlanta,25150
+30312,STANDARD,0,Atlanta,,Atl,GA,Fulton County,America/New_York,############,NA,US,33.74,-84.38,Atlanta,17770
+30313,STANDARD,0,Atlanta,,Atl,GA,Fulton County,America/New_York,"404,470,678",NA,US,33.76,-84.4,Atlanta,2940
+30314,STANDARD,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.75,-84.42,Atlanta,11130
+30315,STANDARD,0,Atlanta,,Atl,GA,Fulton County,America/New_York,"678,404",NA,US,33.7,-84.38,Atlanta,24320
+30316,STANDARD,0,Atlanta,,Atl,GA,DeKalb County,America/New_York,404,NA,US,33.72,-84.32,Atlanta,26920
+30317,STANDARD,0,Atlanta,,Atl,GA,DeKalb County,America/New_York,404,NA,US,33.75,-84.32,Atlanta,11610
+30318,STANDARD,0,Atlanta,,Atl,GA,Fulton County,America/New_York,"404,678,770",NA,US,33.78,-84.44,Atlanta,39770
+30319,STANDARD,0,Atlanta,"Brookhaven, Sandy Spgs, Sandy Springs","Atl, North Atlanta",GA,DeKalb County,America/New_York,"678,770",NA,US,33.87,-84.33,Atlanta,36360
+30320,PO BOX,0,Atlanta,,"Atl, Logistics & Distribution Ctr",GA,Clayton County,America/New_York,404,NA,US,33.63,-84.43,Atlanta,312
+30321,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.75,-84.38,Atlanta,1247
+30322,UNIQUE,0,Atlanta,,"Atl, Emory University",GA,DeKalb County,America/New_York,678,NA,US,33.79,-84.33,Atlanta,252
+30324,STANDARD,0,Atlanta,,Atl,GA,Fulton County,America/New_York,############,NA,US,33.81,-84.36,Atlanta,23340
+30325,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.79,-84.44,Atlanta,475
+30326,STANDARD,0,Atlanta,Brookhaven,Atl,GA,Fulton County,America/New_York,############,NA,US,33.85,-84.36,Atlanta,6150
+30327,STANDARD,0,Atlanta,"Sandy Spgs, Sandy Springs",Atl,GA,Fulton County,America/New_York,############,NA,US,33.86,-84.42,Atlanta,21940
+30328,STANDARD,0,Atlanta,"Sandy Spgs, Sandy Springs",Atl,GA,Fulton County,America/New_York,############,NA,US,33.93,-84.38,Atlanta,34380
+30329,STANDARD,0,Atlanta,Brookhaven,"Atl, Briarcliff",GA,DeKalb County,America/New_York,"404,470",NA,US,33.82,-84.32,Atlanta,23410
+30330,UNIQUE,1,Atlanta,"Fort Mcpherson, Ft Mcpherson",Atl,GA,Fulton County,America/New_York,678,NA,US,33.7,-84.43,Atlanta,121
+30331,STANDARD,0,Atlanta,South Fulton,Atl,GA,Fulton County,America/New_York,404,NA,US,33.71,-84.53,Atlanta,46720
+30332,UNIQUE,0,Atlanta,,"Atl, Georgia Tech",GA,Fulton County,America/New_York,404,NA,US,33.78,-84.4,Atlanta,793
+30333,PO BOX,0,Atlanta,,"Atl, Druid Hills",GA,Fulton County,America/New_York,404,NA,US,33.79,-84.32,Atlanta,198
+30334,STANDARD,0,Atlanta,,Atl,GA,Fulton County,America/New_York,############,NA,US,33.75,-84.39,Atlanta,257
+30336,STANDARD,0,Atlanta,South Fulton,"Atl, Industrial",GA,Fulton County,America/New_York,404,NA,US,33.74,-84.57,Atlanta,1370
+30337,STANDARD,0,Atlanta,"College Park, South Fulton",Atl,GA,Fulton County,America/New_York,"404,678,770",NA,US,33.64,-84.46,Atlanta,8580
+30338,STANDARD,0,Atlanta,"Dunwoody, Sandy Spgs, Sandy Springs","Atl, North Springs",GA,DeKalb County,America/New_York,############,NA,US,33.94,-84.31,Atlanta,34840
+30339,STANDARD,0,Atlanta,"Sandy Spgs, Sandy Springs, Vinings","Atl, Cumberland, Overlook Sru, Vinnings",GA,Cobb County,America/New_York,############,NA,US,33.86,-84.47,Atlanta,25130
+30340,STANDARD,0,Atlanta,Doraville,Atl,GA,DeKalb County,America/New_York,"678,470,770",NA,US,33.89,-84.25,Atlanta,25050
+30341,STANDARD,0,Atlanta,Chamblee,Atl,GA,DeKalb County,America/New_York,############,NA,US,33.9,-84.3,Atlanta,27350
+30342,STANDARD,0,Atlanta,"Sandy Spgs, Sandy Springs","Atl, Tuxedo",GA,Fulton County,America/New_York,############,NA,US,33.88,-84.37,Atlanta,27680
+30343,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.75,-84.38,Atlanta,260
+30344,STANDARD,0,Atlanta,East Point,Atl,GA,Fulton County,America/New_York,"404,678,770",NA,US,33.68,-84.46,Atlanta,26670
+30345,STANDARD,0,Atlanta,,Atl,GA,DeKalb County,America/New_York,"770,470,678",NA,US,33.85,-84.28,Atlanta,21850
+30346,STANDARD,0,Atlanta,Dunwoody,Atl,GA,DeKalb County,America/New_York,############,NA,US,33.92,-84.34,Atlanta,4870
+30347,STANDARD,1,Atlanta,"Atl, Executive Park",,GA,Fulton County,America/New_York,404,NA,US,33.82,-84.33,Atlanta,242
+30348,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.83,-84.38,Atlanta,41
+30349,STANDARD,0,Atlanta,"College Park, South Fulton",Atl,GA,Fulton County,America/New_York,"404,678,770",NA,US,33.61,-84.49,Atlanta,66560
+30350,STANDARD,0,Atlanta,"Dunwoody, Sandy Spgs, Sandy Springs",Atl,GA,Fulton County,America/New_York,"404,770,678",NA,US,33.97,-84.32,Atlanta,28970
+30353,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.75,-84.38,Atlanta,0
+30354,STANDARD,0,Atlanta,Hapeville,Atl,GA,Fulton County,America/New_York,"770,404,678",NA,US,33.66,-84.39,Atlanta,12290
+30355,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.83,-84.36,Atlanta,836
+30356,PO BOX,0,Atlanta,Dunwoody,Atl,GA,Fulton County,America/New_York,404,NA,US,33.94,-84.33,Atlanta,418
+30357,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.79,-84.38,Atlanta,646
+30358,PO BOX,0,Atlanta,"Sandy Spgs, Sandy Springs",Atl,GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,702
+30359,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.82,-84.32,Atlanta,549
+30360,STANDARD,0,Atlanta,"Doraville, Dunwoody","Atl, Winters Chapel",GA,DeKalb County,America/New_York,############,NA,US,33.93,-84.27,Atlanta,13510
+30361,STANDARD,0,Atlanta,,Atl,GA,Fulton County,America/New_York,"404,678,770",NA,US,33.78,-84.38,Atlanta,58
+30362,PO BOX,0,Atlanta,Doraville,Atl,GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,981
+30363,STANDARD,0,Atlanta,,,GA,Fulton County,America/New_York,404,NA,US,33.79,-84.4,Atlanta,2240
+30364,PO BOX,0,Atlanta,East Point,Atl,GA,Fulton County,America/New_York,404,NA,US,33.67,-84.46,Atlanta,880
+30366,PO BOX,0,Atlanta,Chamblee,Atl,GA,Fulton County,America/New_York,404,NA,US,33.88,-84.29,Atlanta,375
+30368,UNIQUE,0,Atlanta,,"Atl, Suntrust",GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,0
+30369,STANDARD,0,Atlanta,,,GA,Fulton County,America/New_York,"678,404,470",NA,US,33.8,-84.47,Atlanta,0
+30370,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.75,-84.38,Atlanta,0
+30371,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,0
+30374,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.57,-84.39,Atlanta,0
+30375,UNIQUE,0,Atlanta,,"Atl, Att Bellsouth",GA,Fulton County,America/New_York,404,NA,US,33.77,-84.38,Atlanta,0
+30376,STANDARD,1,Atlanta,Atl,,GA,Fulton County,America/New_York,404,NA,US,33.81,-84.35,Atlanta,0
+30377,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,286
+30378,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,0
+30379,STANDARD,1,Atlanta,Atl,,GA,Fulton County,America/New_York,404,NA,US,33.74,-84.38,Atlanta,0
+30380,UNIQUE,0,Atlanta,,"Atl, Atlanta Postal Credit Union",GA,Fulton County,America/New_York,404,NA,US,33.64,-84.39,Atlanta,0
+30384,UNIQUE,0,Atlanta,,"Atl, Bank America",GA,Fulton County,America/New_York,404,NA,US,33.89,-84.45,Atlanta,0
+30385,UNIQUE,0,Atlanta,,"Atl, Att Bellsouth",GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,0
+30386,UNIQUE,1,Atlanta,Atl,Sears Roebuck Co,GA,Fulton County,America/New_York,404,NA,US,33.64,-84.39,Atlanta,0
+30387,UNIQUE,1,Atlanta,Atl,J C Penney,GA,Fulton County,America/New_York,404,NA,US,33.74,-84.38,Atlanta,0
+30388,UNIQUE,0,Atlanta,,"Atl, Avon",GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,0
+30389,UNIQUE,1,Atlanta,Atl,Atlanta Gas Light,GA,Fulton County,America/New_York,404,NA,US,33.74,-84.38,Atlanta,0
+30390,UNIQUE,1,Atlanta,Atl,J C Penney,GA,Fulton County,America/New_York,404,NA,US,33.74,-84.38,Atlanta,0
+30392,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.75,-84.38,Atlanta,0
+30394,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.75,-84.38,Atlanta,0
+30396,UNIQUE,0,Atlanta,,"Atl, Georgia Power",GA,Fulton County,America/New_York,404,NA,US,33.64,-84.39,Atlanta,0
+30398,UNIQUE,0,Atlanta,,"Atl, Bank America",GA,Fulton County,America/New_York,404,NA,US,33.64,-84.39,Atlanta,0
+30399,UNIQUE,1,Atlanta,Atl,Bankamerica Corporation,GA,Fulton County,America/New_York,404,NA,US,33.74,-84.38,Atlanta,0
+30515,PO BOX,0,Buford,,,GA,Gwinnett County,America/New_York,678,NA,US,34.11,-83.99,Atlanta,1072
+30518,STANDARD,0,Buford,"Rest Haven, Sugar Hill",Sugarhill,GA,Gwinnett County,America/New_York,"470,678,770",NA,US,34.11,-83.99,Atlanta,50830
+30519,STANDARD,0,Buford,,,GA,Gwinnett County,America/New_York,"470,678,770",NA,US,34.09,-83.94,Atlanta,48280
+31106,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,264
+31107,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,203
+31119,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,517
+31120,STANDARD,1,Atlanta,,T Mobile,GA,Fulton County,America/New_York,404,NA,US,33.74,-84.38,Atlanta,0
+31126,PO BOX,0,Atlanta,,"Atl, Lenox Sq Finance, Lenox Square Finance",GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,2482
+31131,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,816
+31136,UNIQUE,0,Atlanta,,Newgistics,GA,Fulton County,America/New_York,404,NA,US,33.72,-84.58,Atlanta,0
+31139,PO BOX,0,Atlanta,,Atl,GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,589
+31141,PO BOX,0,Atlanta,,"Atl, Embry Hls",GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,374
+31145,PO BOX,0,Atlanta,,"Atl, Northlake",GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,248
+31146,PO BOX,0,Atlanta,Dunwoody,"Atl, Perimeter Center Finance",GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,287
+31150,PO BOX,0,Atlanta,"Sandy Spgs, Sandy Springs",Atl,GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,381
+31156,PO BOX,0,Atlanta,"Sandy Spgs, Sandy Springs",Atl,GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,261
+31169,UNIQUE,0,Peachtree City,Peachtree Cty,Peachtree City Parcel Return,GA,Fayette County,America/New_York,678,NA,US,33.38,-84.79,Atlanta,0
+31191,UNIQUE,1,Atlanta,"Atlanta Bmc, Fingerhut, Atl",,GA,Fulton County,America/New_York,404,NA,US,33.79,-84.44,Atlanta,0
+31192,UNIQUE,0,Atlanta,,"Atl, Mellon Bank",GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,0
+31193,UNIQUE,0,Atlanta,,"Atl, Wells Fargo",GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,0
+31195,UNIQUE,0,Atlanta,,"Atl, Atlanta Ndc",GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,0
+31196,UNIQUE,0,Atlanta,,"Atl, Atlanta Ndc",GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,0
+31197,UNIQUE,1,Atlanta,Atl,Atlanta Bmc,GA,Fulton County,America/New_York,404,NA,US,33.74,-84.38,Atlanta,0
+31198,UNIQUE,1,Atlanta,Atl,Atlanta Bmc,GA,Fulton County,America/New_York,404,NA,US,33.74,-84.38,Atlanta,0
+31199,UNIQUE,1,Atlanta,Atl,"Atlanta Bmc, Bmc",GA,Fulton County,America/New_York,404,NA,US,33.74,-84.38,Atlanta,0
+39901,UNIQUE,0,Atlanta,Chamblee,Irs Service Center,GA,Fulton County,America/New_York,404,NA,US,33.76,-84.42,Atlanta,145

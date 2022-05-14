@@ -1,0 +1,210 @@
+zip,type,decomissioned,primary_city,accepatable_cities_state,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,metro,irs_estimated_population
+20588,UNIQUE,0,Dhs,"Camp Springs, Cheltenham, Columbia",Dept Hs,MD,Howard County,America/New_York,410,NA,US,38.74,-76.85,Baltimore,0
+20701,STANDARD,0,Annapolis Junction,Annapolis Jct,,MD,Howard County,America/New_York,"410,443",NA,US,39.12,-76.77,Baltimore,420
+20711,STANDARD,0,Lothian,,,MD,Anne Arundel County,America/New_York,"240,301",NA,US,38.8,-76.65,Baltimore,6750
+20723,STANDARD,0,Laurel,Scaggsville,,MD,Howard County,America/New_York,############,NA,US,39.14,-76.87,Baltimore,33360
+20724,STANDARD,0,Laurel,"Maryland City, Md City, Russett",,MD,Anne Arundel County,America/New_York,############,NA,US,39.1,-76.8,Baltimore,17370
+20733,STANDARD,0,Churchton,,,MD,Anne Arundel County,America/New_York,410,NA,US,38.81,-76.53,Baltimore,2670
+20751,STANDARD,0,Deale,,,MD,Anne Arundel County,America/New_York,410,NA,US,38.79,-76.54,Baltimore,2170
+20755,STANDARD,0,Fort George G Meade,Fort Meade,"Fort George Meade, Ft George G Meade, Ft Meade",MD,Anne Arundel County,America/New_York,410,NA,US,39.11,-76.75,Baltimore,8560
+20758,STANDARD,0,Friendship,,,MD,Anne Arundel County,America/New_York,410,NA,US,38.73,-76.59,Baltimore,740
+20759,STANDARD,0,Fulton,,,MD,Howard County,America/New_York,410,NA,US,39.15,-76.92,Baltimore,6520
+20763,STANDARD,0,Savage,,,MD,Howard County,America/New_York,"410,443",NA,US,39.13,-76.81,Baltimore,2620
+20764,STANDARD,0,Shady Side,,,MD,Anne Arundel County,America/New_York,410,NA,US,38.83,-76.52,Baltimore,3920
+20765,PO BOX,0,Galesville,,,MD,Anne Arundel County,America/New_York,410,NA,US,38.84,-76.54,Baltimore,553
+20776,STANDARD,0,Harwood,,,MD,Anne Arundel County,America/New_York,410,NA,US,38.86,-76.6,Baltimore,3150
+20777,STANDARD,0,Highland,,,MD,Howard County,America/New_York,240,NA,US,39.17,-76.95,Baltimore,3530
+20778,STANDARD,0,West River,,,MD,Anne Arundel County,America/New_York,"410,443",NA,US,38.82,-76.55,Baltimore,1720
+20779,STANDARD,0,Tracys Landing,Tracys Lndg,Fairhaven,MD,Anne Arundel County,America/New_York,410,NA,US,38.76,-76.58,Baltimore,1290
+20794,STANDARD,0,Jessup,,,MD,Howard County,America/New_York,"410,443",NA,US,39.14,-76.77,Baltimore,10650
+21001,STANDARD,0,Aberdeen,,,MD,Harford County,America/New_York,"410,443,667",NA,US,39.51,-76.17,Baltimore,22570
+21005,STANDARD,0,Aberdeen Proving Ground,Aber Prov Grd,Apg,MD,Harford County,America/New_York,"443,667",NA,US,39.49,-76.14,Baltimore,2130
+21009,STANDARD,0,Abingdon,,,MD,Harford County,America/New_York,410,NA,US,39.46,-76.27,Baltimore,29380
+21010,STANDARD,0,Gunpowder,"Aber Prov Grd, Aberdeen Proving Ground",Edgewood Arsenal,MD,Harford County,America/New_York,410,NA,US,39.39,-76.29,Baltimore,580
+21012,STANDARD,0,Arnold,,,MD,Anne Arundel County,America/New_York,410,NA,US,39.04,-76.49,Baltimore,21430
+21013,STANDARD,0,Baldwin,,,MD,Baltimore County,America/New_York,,NA,US,39.51,-76.49,Baltimore,4820
+21014,STANDARD,0,Bel Air,,,MD,Harford County,America/New_York,"410,443",NA,US,39.53,-76.34,Baltimore,36010
+21015,STANDARD,0,Bel Air,,,MD,Harford County,America/New_York,"410,443",NA,US,39.54,-76.29,Baltimore,29180
+21017,STANDARD,0,Belcamp,,Riverside,MD,Harford County,America/New_York,410,NA,US,39.47,-76.23,Baltimore,5710
+21018,PO BOX,0,Benson,,,MD,Harford County,America/New_York,410,NA,US,39.51,-76.18,Baltimore,51
+21020,PO BOX,0,Boring,,,MD,Baltimore County,America/New_York,410,NA,US,39.57,-76.8,Baltimore,111
+21022,PO BOX,0,Brooklandville,Brooklandvl,,MD,Baltimore County,America/New_York,410,NA,US,39.42,-76.67,Baltimore,326
+21023,PO BOX,0,Butler,,,MD,Baltimore County,America/New_York,410,NA,US,39.55,-76.68,Baltimore,247
+21027,PO BOX,0,Chase,,,MD,Baltimore County,America/New_York,410,NA,US,39.36,-76.37,Baltimore,185
+21028,STANDARD,0,Churchville,,,MD,Harford County,America/New_York,"410,443",NA,US,39.56,-76.24,Baltimore,3160
+21029,STANDARD,0,Clarksville,,,MD,Howard County,America/New_York,240,NA,US,39.2,-76.94,Baltimore,13020
+21030,STANDARD,0,Cockeysville,"Cockysvil, Hunt Valley",,MD,Baltimore County,America/New_York,"410,443",NA,US,39.47,-76.63,Baltimore,24100
+21031,STANDARD,0,Hunt Valley,,,MD,Baltimore County,America/New_York,"443,410",NA,US,39.49,-76.65,Baltimore,23
+21032,STANDARD,0,Crownsville,,,MD,Anne Arundel County,America/New_York,410,NA,US,39.01,-76.59,Baltimore,8610
+21034,STANDARD,0,Darlington,,,MD,Harford County,America/New_York,"410,443",NA,US,39.63,-76.2,Baltimore,3040
+21035,STANDARD,0,Davidsonville,,,MD,Anne Arundel County,America/New_York,410,NA,US,38.93,-76.63,Baltimore,8060
+21036,STANDARD,0,Dayton,,,MD,Howard County,America/New_York,240,NA,US,39.23,-77,Baltimore,2190
+21037,STANDARD,0,Edgewater,,,MD,Anne Arundel County,America/New_York,"301,410",NA,US,38.9,-76.54,Baltimore,20170
+21040,STANDARD,0,Edgewood,,,MD,Harford County,America/New_York,"410,443",NA,US,39.42,-76.29,Baltimore,22210
+21041,PO BOX,0,Ellicott City,,Ellicott,MD,Howard County,America/New_York,410,NA,US,39.27,-76.83,Baltimore,398
+21042,STANDARD,0,Ellicott City,,Ellicott,MD,Howard County,America/New_York,"410,443",NA,US,39.27,-76.83,Baltimore,42660
+21043,STANDARD,0,Ellicott City,"Daniels, Ilchester, Oella",Ellicott,MD,Howard County,America/New_York,"410,443",NA,US,39.26,-76.8,Baltimore,46000
+21044,STANDARD,0,Columbia,,,MD,Howard County,America/New_York,############,NA,US,39.21,-76.88,Baltimore,40280
+21045,STANDARD,0,Columbia,,,MD,Howard County,America/New_York,############,NA,US,39.2,-76.85,Baltimore,36910
+21046,STANDARD,0,Columbia,,,MD,Howard County,America/New_York,############,NA,US,39.17,-76.84,Baltimore,15140
+21047,STANDARD,0,Fallston,,,MD,Harford County,America/New_York,"410,443",NA,US,39.52,-76.42,Baltimore,12890
+21048,STANDARD,0,Finksburg,Patapsco,,MD,Carroll County,America/New_York,443,NA,US,39.49,-76.88,Baltimore,10130
+21050,STANDARD,0,Forest Hill,,,MD,Harford County,America/New_York,410,NA,US,39.58,-76.39,Baltimore,18220
+21051,STANDARD,0,Fork,,,MD,Baltimore County,America/New_York,"410,443",NA,US,39.47,-76.45,Baltimore,340
+21052,PO BOX,0,Fort Howard,,,MD,Baltimore County,America/New_York,410,NA,US,39.21,-76.45,Baltimore,417
+21053,STANDARD,0,Freeland,,,MD,Baltimore County,America/New_York,410,NA,US,39.69,-76.72,Baltimore,3160
+21054,STANDARD,0,Gambrills,,,MD,Anne Arundel County,America/New_York,240,NA,US,39.04,-76.69,Baltimore,12950
+21056,PO BOX,0,Gibson Island,,,MD,Anne Arundel County,America/New_York,410,NA,US,39.07,-76.42,Baltimore,256
+21057,STANDARD,0,Glen Arm,,,MD,Baltimore County,America/New_York,410,NA,US,39.44,-76.5,Baltimore,3950
+21060,STANDARD,0,Glen Burnie,,,MD,Anne Arundel County,America/New_York,"443,410",NA,US,39.16,-76.6,Baltimore,34330
+21061,STANDARD,0,Glen Burnie,,,MD,Anne Arundel County,America/New_York,"410,443",NA,US,39.16,-76.63,Baltimore,49780
+21062,UNIQUE,0,Glen Burnie,,Md Motor Vehicle Admin,MD,Anne Arundel County,America/New_York,410,NA,US,39.16,-76.6,Baltimore,0
+21065,UNIQUE,0,Hunt Valley,Cockys Ht Vly,"Huntvalley, Pdp Group Inc",MD,Baltimore County,America/New_York,410,NA,US,39.49,-76.65,Baltimore,0
+21071,PO BOX,0,Glyndon,,,MD,Baltimore County,America/New_York,"410,443",NA,US,39.47,-76.81,Baltimore,632
+21074,STANDARD,0,Hampstead,Greenmount,,MD,Carroll County,America/New_York,"410,443",NA,US,39.61,-76.85,Baltimore,14740
+21075,STANDARD,0,Elkridge,,,MD,Howard County,America/New_York,"240,443,410",NA,US,39.2,-76.75,Baltimore,32860
+21076,STANDARD,0,Hanover,,Harmans,MD,Anne Arundel County,America/New_York,443,NA,US,39.16,-76.72,Baltimore,19650
+21077,STANDARD,0,Harmans,,,MD,Anne Arundel County,America/New_York,443,NA,US,39.16,-76.7,Baltimore,320
+21078,STANDARD,0,Havre De Grace,Hvre De Grace,,MD,Harford County,America/New_York,"667,410,443",NA,US,39.54,-76.09,Baltimore,17910
+21082,STANDARD,0,Hydes,,,MD,Baltimore County,America/New_York,410,NA,US,39.48,-76.47,Baltimore,830
+21084,STANDARD,0,Jarrettsville,,,MD,Harford County,America/New_York,"410,443",NA,US,39.6,-76.47,Baltimore,7370
+21085,STANDARD,0,Joppa,,"Joppatown, Joppatowne",MD,Harford County,America/New_York,443,NA,US,39.43,-76.35,Baltimore,15870
+21087,STANDARD,0,Kingsville,Bradshaw,,MD,Baltimore County,America/New_York,,NA,US,39.44,-76.41,Baltimore,5400
+21088,PO BOX,0,Lineboro,Manchester,,MD,Carroll County,America/New_York,410,NA,US,39.71,-76.84,Baltimore,35
+21090,STANDARD,0,Linthicum Heights,"Linthicum, Linthicum Hts",,MD,Anne Arundel County,America/New_York,"443,410",NA,US,39.2,-76.66,Baltimore,9820
+21092,PO BOX,0,Long Green,,,MD,Baltimore County,America/New_York,410,NA,US,39.47,-76.52,Baltimore,156
+21093,STANDARD,0,Lutherville Timonium,"Lutherville, Luthvle Timon, Timonium",,MD,Baltimore County,America/New_York,410,NA,US,39.43,-76.64,Baltimore,36960
+21094,PO BOX,0,Lutherville Timonium,"Lutherville, Luthvle Timon, Timonium",,MD,Baltimore County,America/New_York,410,NA,US,39.43,-76.64,Baltimore,247
+21098,UNIQUE,1,Hanover,Household Bank,,MD,Anne Arundel County,America/New_York,410,NA,US,39.19,-76.72,Baltimore,0
+21102,STANDARD,0,Manchester,"Lineboro, Millers",,MD,Carroll County,America/New_York,"410,443",NA,US,39.65,-76.89,Baltimore,11610
+21104,STANDARD,0,Marriottsville,"Henryton, Marriottsvl, Woodstock",,MD,Carroll County,America/New_York,,NA,US,39.35,-76.89,Baltimore,5720
+21105,PO BOX,0,Maryland Line,,,MD,Baltimore County,America/New_York,410,NA,US,39.71,-76.65,Baltimore,132
+21106,PO BOX,0,Mayo,,,MD,Anne Arundel County,America/New_York,410,NA,US,38.89,-76.5,Baltimore,259
+21108,STANDARD,0,Millersville,,,MD,Anne Arundel County,America/New_York,"410,443",NA,US,39.05,-76.64,Baltimore,17780
+21111,STANDARD,0,Monkton,Hereford,,MD,Baltimore County,America/New_York,,NA,US,39.57,-76.58,Baltimore,4920
+21113,STANDARD,0,Odenton,,,MD,Anne Arundel County,America/New_York,############,NA,US,39.05,-76.72,Baltimore,32590
+21114,STANDARD,0,Crofton,,,MD,Anne Arundel County,America/New_York,############,NA,US,39.01,-76.68,Baltimore,25240
+21117,STANDARD,0,Owings Mills,Garrison,,MD,Baltimore County,America/New_York,410,NA,US,39.41,-76.79,Baltimore,51850
+21120,STANDARD,0,Parkton,"Bentley Spgs, Bentley Springs",,MD,Baltimore County,America/New_York,"410,443",NA,US,39.65,-76.67,Baltimore,7150
+21122,STANDARD,0,Pasadena,"Lake Shore, Riviera Beach",,MD,Anne Arundel County,America/New_York,"410,443",NA,US,39.11,-76.55,Baltimore,58170
+21123,PO BOX,0,Pasadena,"Lake Shore, Riviera Beach",,MD,Anne Arundel County,America/New_York,410,NA,US,39.11,-76.55,Baltimore,635
+21128,STANDARD,0,Perry Hall,,Perryhall,MD,Baltimore County,America/New_York,410,NA,US,39.41,-76.45,Baltimore,14180
+21130,PO BOX,0,Perryman,,,MD,Harford County,America/New_York,410,NA,US,39.48,-76.19,Baltimore,237
+21131,STANDARD,0,Phoenix,Jacksonville,,MD,Baltimore County,America/New_York,410,NA,US,39.5,-76.56,Baltimore,7740
+21132,STANDARD,0,Pylesville,,,MD,Harford County,America/New_York,410,NA,US,39.68,-76.37,Baltimore,2610
+21133,STANDARD,0,Randallstown,Mcdonogh Run,Foxridge,MD,Baltimore County,America/New_York,"410,443",NA,US,39.37,-76.8,Baltimore,27130
+21136,STANDARD,0,Reisterstown,Glyndon,,MD,Baltimore County,America/New_York,"410,443",NA,US,39.45,-76.81,Baltimore,32830
+21139,PO BOX,0,Riderwood,,,MD,Baltimore County,America/New_York,410,NA,US,39.4,-76.6,Baltimore,157
+21140,STANDARD,0,Riva,,,MD,Anne Arundel County,America/New_York,"301,410",NA,US,38.94,-76.58,Baltimore,3500
+21144,STANDARD,0,Severn,,,MD,Anne Arundel County,America/New_York,"410,443",NA,US,39.13,-76.69,Baltimore,34850
+21146,STANDARD,0,Severna Park,,,MD,Anne Arundel County,America/New_York,"410,443",NA,US,39.08,-76.57,Baltimore,28240
+21150,PO BOX,0,Simpsonville,,,MD,Howard County,America/New_York,410,NA,US,39.18,-76.88,Baltimore,90
+21152,STANDARD,0,Sparks Glencoe,"Glencoe, Sparks, Sparks Glenco",,MD,Baltimore County,America/New_York,"410,443",NA,US,39.54,-76.68,Baltimore,5610
+21153,PO BOX,0,Stevenson,,,MD,Baltimore County,America/New_York,410,NA,US,39.42,-76.7,Baltimore,925
+21154,STANDARD,0,Street,,,MD,Harford County,America/New_York,410,NA,US,39.65,-76.34,Baltimore,6070
+21155,STANDARD,0,Upperco,Fowbelsburg,,MD,Baltimore County,America/New_York,,NA,US,39.57,-76.8,Baltimore,2250
+21156,STANDARD,0,Upper Falls,,,MD,Baltimore County,America/New_York,410,NA,US,39.43,-76.4,Baltimore,350
+21157,STANDARD,0,Westminster,,Carrollton,MD,Carroll County,America/New_York,"410,443",NA,US,39.57,-77,Baltimore,33560
+21158,STANDARD,0,Westminster,,,MD,Carroll County,America/New_York,"410,443",NA,US,39.65,-77.04,Baltimore,20190
+21160,STANDARD,0,Whiteford,Cardiff,,MD,Harford County,America/New_York,"410,443",NA,US,39.7,-76.34,Baltimore,2230
+21161,STANDARD,0,White Hall,,Norrisville,MD,Harford County,America/New_York,,NA,US,39.65,-76.56,Baltimore,5140
+21162,STANDARD,0,White Marsh,,,MD,Baltimore County,America/New_York,"443,410",NA,US,39.39,-76.41,Baltimore,4760
+21163,STANDARD,0,Woodstock,Granite,,MD,Howard County,America/New_York,,NA,US,39.32,-76.87,Baltimore,7250
+21201,STANDARD,0,Baltimore,,,MD,Baltimore city,America/New_York,############,NA,US,39.29,-76.62,Baltimore,10800
+21202,STANDARD,0,Baltimore,East Case,,MD,Baltimore city,America/New_York,############,NA,US,39.3,-76.61,Baltimore,12240
+21203,PO BOX,0,Baltimore,,,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,1290
+21204,STANDARD,0,Towson,"Baltimore, Eudowood, Loch Raven, Ruxton",,MD,Baltimore County,America/New_York,"410,443,667",NA,US,39.39,-76.62,Baltimore,15160
+21205,STANDARD,0,Baltimore,,"Clifton East End, East End",MD,Baltimore city,America/New_York,"410,443",NA,US,39.3,-76.56,Baltimore,11050
+21206,STANDARD,0,Baltimore,Raspeburg,,MD,Baltimore city,America/New_York,"410,443",NA,US,39.34,-76.54,Baltimore,41800
+21207,STANDARD,0,Gwynn Oak,"Baltimore, Pikesville, Woodlawn",,MD,Baltimore County,America/New_York,"667,410,443",NA,US,39.32,-76.72,Baltimore,40230
+21208,STANDARD,0,Pikesville,Baltimore,,MD,Baltimore County,America/New_York,"410,443,667",NA,US,39.39,-76.7,Baltimore,31150
+21209,STANDARD,0,Baltimore,"Mount Washington, Mt Washington",,MD,Baltimore County,America/New_York,410,NA,US,39.37,-76.67,Baltimore,25470
+21210,STANDARD,0,Baltimore,Roland Park,,MD,Baltimore city,America/New_York,"443,410",NA,US,39.36,-76.63,Baltimore,9260
+21211,STANDARD,0,Baltimore,,Hampden,MD,Baltimore city,America/New_York,"410,443",NA,US,39.33,-76.64,Baltimore,13310
+21212,STANDARD,0,Baltimore,Govans,,MD,Baltimore city,America/New_York,"410,443,667",NA,US,39.37,-76.61,Baltimore,27190
+21213,STANDARD,0,Baltimore,Clifton,Clifton East End,MD,Baltimore city,America/New_York,"410,443",NA,US,39.31,-76.58,Baltimore,22200
+21214,STANDARD,0,Baltimore,,Hamilton,MD,Baltimore city,America/New_York,"443,410",NA,US,39.35,-76.56,Baltimore,16210
+21215,STANDARD,0,Baltimore,Arlington,,MD,Baltimore city,America/New_York,410,NA,US,39.35,-76.68,Baltimore,41820
+21216,STANDARD,0,Baltimore,,Walbrook,MD,Baltimore city,America/New_York,410,NA,US,39.31,-76.67,Baltimore,20150
+21217,STANDARD,0,Baltimore,Druid,,MD,Baltimore city,America/New_York,"410,443",NA,US,39.31,-76.64,Baltimore,20120
+21218,STANDARD,0,Baltimore,,Waverly,MD,Baltimore city,America/New_York,"443,410",NA,US,39.33,-76.6,Baltimore,29710
+21219,STANDARD,0,Sparrows Point,"Baltimore, Edgemere, Sparrows Pt",,MD,Baltimore County,America/New_York,"410,443",NA,US,39.22,-76.43,Baltimore,8730
+21220,STANDARD,0,Middle River,Baltimore,,MD,Baltimore County,America/New_York,"410,443",NA,US,39.33,-76.43,Baltimore,38490
+21221,STANDARD,0,Essex,Baltimore,,MD,Baltimore County,America/New_York,"410,443",NA,US,39.3,-76.44,Baltimore,37450
+21222,STANDARD,0,Dundalk,Baltimore,,MD,Baltimore County,America/New_York,"410,443",NA,US,39.26,-76.49,Baltimore,49680
+21223,STANDARD,0,Baltimore,Franklin,,MD,Baltimore city,America/New_York,"667,410",NA,US,39.28,-76.65,Baltimore,14510
+21224,STANDARD,0,Baltimore,Highlandtown,,MD,Baltimore city,America/New_York,410,NA,US,39.27,-76.54,Baltimore,42600
+21225,STANDARD,0,Brooklyn,"Baltimore, Brooklyn Park",,MD,Baltimore city,America/New_York,"410,443",NA,US,39.22,-76.61,Baltimore,26880
+21226,STANDARD,0,Curtis Bay,"Baltimore, Carvel Beach, Chestnut Hill Cove, Chstnt Hl Cv, Clearwater Beach, Clearwatr Bch, Greenland Bch, Greenland Beach, Orchard Beach, Stoney Beach",Brooklyn,MD,Anne Arundel County,America/New_York,"410,443",NA,US,39.21,-76.55,Baltimore,5760
+21227,STANDARD,0,Halethorpe,"Arbutus, Baltimore, Lansdowne",,MD,Baltimore County,America/New_York,"240,443,410",NA,US,39.24,-76.68,Baltimore,30210
+21228,STANDARD,0,Catonsville,Baltimore,,MD,Baltimore County,America/New_York,"410,443",NA,US,39.26,-76.74,Baltimore,45290
+21229,STANDARD,0,Baltimore,Carroll,,MD,Baltimore city,America/New_York,410,NA,US,39.28,-76.69,Baltimore,35840
+21230,STANDARD,0,Baltimore,,,MD,Baltimore city,America/New_York,"410,667",NA,US,39.27,-76.62,Baltimore,27750
+21231,STANDARD,0,Baltimore,,Patterson,MD,Baltimore city,America/New_York,"410,443,667",NA,US,39.29,-76.59,Baltimore,12010
+21233,STANDARD,0,Baltimore,,,MD,Baltimore City,America/New_York,############,NA,US,39.3,-76.61,Baltimore,35
+21234,STANDARD,0,Parkville,Baltimore,,MD,Baltimore County,America/New_York,"410,443",NA,US,39.38,-76.55,Baltimore,59610
+21235,UNIQUE,0,Baltimore,,Social Security Administrat,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,20
+21236,STANDARD,0,Nottingham,Baltimore,,MD,Baltimore County,America/New_York,410,NA,US,39.39,-76.48,Baltimore,37310
+21237,STANDARD,0,Rosedale,Baltimore,,MD,Baltimore County,America/New_York,410,NA,US,39.32,-76.5,Baltimore,28180
+21239,STANDARD,0,Baltimore,"Idlewylde, Loch Hill, Northwood",,MD,Baltimore city,America/New_York,"443,410",NA,US,39.37,-76.59,Baltimore,22730
+21240,STANDARD,0,Baltimore,Millersville,,MD,Anne Arundel County,America/New_York,"240,410,443",NA,US,39.17,-76.67,Baltimore,117
+21241,UNIQUE,0,Baltimore,,Social Security Admin,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,0
+21244,STANDARD,0,Windsor Mill,Baltimore,,MD,Baltimore County,America/New_York,410,NA,US,39.33,-76.78,Baltimore,33130
+21250,UNIQUE,0,Baltimore,,Univ Of Md Baltimore County,MD,Baltimore County,America/New_York,410,NA,US,39.26,-76.71,Baltimore,46
+21251,UNIQUE,0,Baltimore,,Morgan State University,MD,Baltimore city,America/New_York,410,NA,US,39.34,-76.58,Baltimore,35
+21252,UNIQUE,0,Towson,Baltimore,Towson State University,MD,Baltimore County,America/New_York,410,NA,US,39.39,-76.61,Baltimore,59
+21260,STANDARD,1,Baltimore,,Census Bureau,MD,Baltimore City,America/New_York,410,NA,US,39.35,-76.7,Baltimore,0
+21261,STANDARD,1,Baltimore,Essex,Census Bureau,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.45,Baltimore,0
+21263,UNIQUE,0,Baltimore,,Bank Of America,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,0
+21264,UNIQUE,0,Baltimore,,M T Bank,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,0
+21265,UNIQUE,1,Baltimore,,Verizon Telephone,MD,Baltimore City,America/New_York,410,NA,US,39.29,-76.6,Baltimore,0
+21268,UNIQUE,1,Baltimore,,Harte Hanks Direct Marketing,MD,Baltimore City,America/New_York,410,NA,US,39.21,-76.72,Baltimore,0
+21270,PO BOX,0,Baltimore,,Reisterstown Rd Plaza,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,35
+21273,UNIQUE,0,Baltimore,,Bank Of America,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,0
+21274,UNIQUE,1,Baltimore,,Bank Of America,MD,Baltimore City,America/New_York,410,NA,US,39.29,-76.6,Baltimore,0
+21275,UNIQUE,0,Baltimore,,Wells Fargo,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,0
+21278,UNIQUE,0,Baltimore,,Baltimore Sunpapers,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,0
+21279,UNIQUE,0,Baltimore,,Sun Trust Bank,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,0
+21280,UNIQUE,1,Baltimore,,Bank Of America,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,0
+21281,PO BOX,0,Baltimore,,,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,73
+21282,PO BOX,0,Pikesville,Baltimore,,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,387
+21283,UNIQUE,1,Baltimore,Shared Firm Zip Code,,MD,Baltimore City,America/New_York,410,NA,US,39.29,-76.61,Baltimore,0
+21284,PO BOX,0,Towson,"Baltimore, Loch Raven",,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,202
+21285,PO BOX,0,Towson,Baltimore,,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,100
+21286,STANDARD,0,Towson,"Baltimore, Loch Raven",,MD,Baltimore County,America/New_York,"667,410,443",NA,US,39.41,-76.57,Baltimore,18250
+21287,STANDARD,0,Baltimore,,"Johns Hopkins, Johns Hopkins Hospital",MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,34
+21288,UNIQUE,1,Baltimore,,Household Bank,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,0
+21289,UNIQUE,0,Baltimore,,T Rowe Price Associates Inc,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,0
+21290,UNIQUE,0,Baltimore,,Social Security Admin,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,0
+21297,PO BOX,0,Baltimore,,Firms-Courtesy Reply,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,80
+21298,UNIQUE,0,Baltimore,,Baltimore Brm,MD,Baltimore City,America/New_York,410,NA,US,39.3,-76.61,Baltimore,0
+21401,STANDARD,0,Annapolis,"Cape Saint Claire, Cpe St Claire",,MD,Anne Arundel County,America/New_York,"410,443,301",NA,US,38.99,-76.55,Baltimore,35920
+21402,STANDARD,0,Annapolis,"N Severn Vlg, Naval Academy, North Severn Village",,MD,Anne Arundel County,America/New_York,"410,443",NA,US,38.99,-76.47,Baltimore,1030
+21403,STANDARD,0,Annapolis,Highland Bch,,MD,Anne Arundel County,America/New_York,"301,410,443",NA,US,38.97,-76.5,Baltimore,29020
+21404,PO BOX,0,Annapolis,,,MD,Anne Arundel County,America/New_York,410,NA,US,38.97,-76.5,Baltimore,266
+21405,STANDARD,0,Annapolis,"Sherwood Forest, Sherwood Frst",,MD,Anne Arundel County,America/New_York,"301,410,443",NA,US,39.03,-76.56,Baltimore,613
+21409,STANDARD,0,Annapolis,,,MD,Anne Arundel County,America/New_York,443,NA,US,39.02,-76.45,Baltimore,19780
+21411,UNIQUE,0,Annapolis,,Comptroller Of The Treasury,MD,Anne Arundel County,America/New_York,410,NA,US,38.97,-76.5,Baltimore,0
+21412,STANDARD,0,Annapolis,,Bancroft Hall,MD,Anne Arundel County,America/New_York,410,NA,US,38.97,-76.5,Baltimore,1107
+21607,STANDARD,0,Barclay,,,MD,Queen Anne's County,America/New_York,410,NA,US,39.14,-75.86,Baltimore,420
+21617,STANDARD,0,Centreville,,,MD,Queen Anne's County,America/New_York,"410,443",NA,US,39.04,-76.06,Baltimore,10010
+21619,STANDARD,0,Chester,,,MD,Queen Anne's County,America/New_York,410,NA,US,38.95,-76.28,Baltimore,6140
+21623,STANDARD,0,Church Hill,,,MD,Queen Anne's County,America/New_York,410,NA,US,39.14,-75.98,Baltimore,1940
+21628,PO BOX,0,Crumpton,,,MD,Queen Anne's County,America/New_York,410,NA,US,39.23,-75.92,Baltimore,474
+21638,STANDARD,0,Grasonville,,,MD,Queen Anne's County,America/New_York,410,NA,US,38.95,-76.19,Baltimore,4790
+21644,STANDARD,0,Ingleside,,,MD,Queen Anne's County,America/New_York,410,NA,US,39.11,-75.87,Baltimore,148
+21656,PO BOX,0,Price,Church Hill,,MD,Queen Anne's County,America/New_York,410,NA,US,39.14,-75.99,Baltimore,0
+21657,STANDARD,0,Queen Anne,,,MD,Queen Anne's County,America/New_York,410,NA,US,38.97,-75.99,Baltimore,1080
+21658,STANDARD,0,Queenstown,,,MD,Queen Anne's County,America/New_York,"410,443",NA,US,38.98,-76.15,Baltimore,3570
+21666,STANDARD,0,Stevensville,,,MD,Queen Anne's County,America/New_York,"410,443",NA,US,38.99,-76.3,Baltimore,12410
+21668,STANDARD,0,Sudlersville,,,MD,Queen Anne's County,America/New_York,410,NA,US,39.18,-75.85,Baltimore,1590
+21723,STANDARD,0,Cooksville,,,MD,Howard County,America/New_York,410,NA,US,39.33,-77,Baltimore,1020
+21737,STANDARD,0,Glenelg,,,MD,Howard County,America/New_York,410,NA,US,39.25,-77.03,Baltimore,2280
+21738,STANDARD,0,Glenwood,,,MD,Howard County,America/New_York,"410,443",NA,US,39.28,-77.02,Baltimore,3450
+21765,PO BOX,0,Lisbon,,,MD,Howard County,America/New_York,410,NA,US,39.33,-77.07,Baltimore,179
+21776,STANDARD,0,New Windsor,,,MD,Carroll County,America/New_York,"410,443",NA,US,39.54,-77.1,Baltimore,5490
+21784,STANDARD,0,Sykesville,"Eldersburg, Gaither",,MD,Carroll County,America/New_York,"410,443",NA,US,39.37,-76.97,Baltimore,38330
+21787,STANDARD,0,Taneytown,,,MD,Carroll County,America/New_York,"410,443",NA,US,39.65,-77.16,Baltimore,10010
+21791,STANDARD,0,Union Bridge,Linwood,,MD,Carroll County,America/New_York,"410,443",NA,US,39.56,-77.17,Baltimore,4880
+21794,STANDARD,0,West Friendship,W Friendship,,MD,Howard County,America/New_York,410,NA,US,39.3,-76.95,Baltimore,2630
+21797,STANDARD,0,Woodbine,,,MD,Howard County,America/New_York,,NA,US,39.33,-77.06,Baltimore,9130

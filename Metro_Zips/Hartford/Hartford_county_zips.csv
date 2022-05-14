@@ -1,0 +1,152 @@
+zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,Metro,irs_estimated_population
+6001,STANDARD,0,Avon,,,CT,Hartford County,America/New_York,860,NA,US,41.8,-72.83,Hartford,18690
+6002,STANDARD,0,Bloomfield,,,CT,Hartford County,America/New_York,860,NA,US,41.81,-72.73,Hartford,19330
+6006,UNIQUE,0,Windsor,,Northeast Area,CT,Hartford County,America/New_York,860,NA,US,41.85,-72.65,Hartford,0
+6010,STANDARD,0,Bristol,,Forestville,CT,Hartford County,America/New_York,860,NA,US,41.68,-72.94,Hartford,52790
+6011,PO BOX,0,Bristol,,,CT,Hartford County,America/New_York,860,NA,US,41.68,-72.94,Hartford,861
+6013,STANDARD,0,Burlington,Unionville,,CT,Hartford County,America/New_York,860,NA,US,41.76,-72.96,Hartford,9200
+6016,STANDARD,0,Broad Brook,"Melrose, Windsorville",,CT,Hartford County,America/New_York,860,NA,US,41.9,-72.54,Hartford,5680
+6019,STANDARD,0,Canton,Collinsville,,CT,Hartford County,America/New_York,860,NA,US,41.86,-72.9,Hartford,9210
+6020,PO BOX,0,Canton Center,,Cherry Brook,CT,Hartford County,America/New_York,860,NA,US,41.83,-72.93,Hartford,183
+6022,PO BOX,0,Collinsville,,,CT,Hartford County,America/New_York,860,NA,US,41.87,-72.93,Hartford,162
+6023,STANDARD,0,East Berlin,,,CT,Hartford County,America/New_York,860,NA,US,41.61,-72.72,Hartford,1230
+6025,PO BOX,0,East Glastonbury,E Glastonbury,E Glstnbry,CT,Hartford County,America/New_York,860,NA,US,41.7,-72.54,Hartford,123
+6026,STANDARD,0,East Granby,,,CT,Hartford County,America/New_York,860,NA,US,41.93,-72.71,Hartford,4970
+6027,STANDARD,0,East Hartland,,,CT,Hartford County,America/New_York,860,NA,US,42,-72.94,Hartford,1340
+6028,PO BOX,0,East Windsor Hill,E Windsor Hl,,CT,Hartford County,America/New_York,860,NA,US,41.87,-72.67,Hartford,65
+6029,STANDARD,0,Ellington,,,CT,Tolland County,America/New_York,860,NA,US,41.9,-72.46,Hartford,15510
+6030,UNIQUE,0,Farmington,,University Of Ct Health Ctr,CT,Hartford County,America/New_York,860,NA,US,41.71,-72.83,Hartford,0
+6032,STANDARD,0,Farmington,,"Talcott Village, The Exchange At Talcott Vill, West Farms Mall",CT,Hartford County,America/New_York,860,NA,US,41.71,-72.83,Hartford,17520
+6033,STANDARD,0,Glastonbury,,,CT,Hartford County,America/New_York,860,NA,US,41.7,-72.6,Hartford,28620
+6034,PO BOX,0,Farmington,,,CT,Hartford County,America/New_York,860,NA,US,41.71,-72.83,Hartford,291
+6035,STANDARD,0,Granby,,,CT,Hartford County,America/New_York,860,NA,US,41.95,-72.78,Hartford,7130
+6037,STANDARD,0,Berlin,Kensington,Kenington,CT,Hartford County,America/New_York,860,NA,US,41.62,-72.77,Hartford,18140
+6040,STANDARD,0,Manchester,,,CT,Hartford County,America/New_York,860,NA,US,41.78,-72.51,Hartford,31400
+6041,UNIQUE,0,Manchester,,Jc Penney Co,CT,Hartford County,America/New_York,860,NA,US,41.78,-72.51,Hartford,29
+6042,STANDARD,0,Manchester,,,CT,Hartford County,America/New_York,860,NA,US,41.79,-72.53,Hartford,21640
+6043,STANDARD,0,Bolton,,,CT,Tolland County,America/New_York,860,NA,US,41.76,-72.43,Hartford,4720
+6045,PO BOX,0,Manchester,,,CT,Hartford County,America/New_York,860,NA,US,41.78,-72.51,Hartford,676
+6050,PO BOX,0,New Britain,,,CT,Hartford County,America/New_York,860,NA,US,41.67,-72.78,Hartford,1273
+6051,STANDARD,0,New Britain,,New Brit,CT,Hartford County,America/New_York,860,NA,US,41.67,-72.78,Hartford,24870
+6052,STANDARD,0,New Britain,,,CT,Hartford County,America/New_York,860,NA,US,41.66,-72.8,Hartford,6740
+6053,STANDARD,0,New Britain,,,CT,Hartford County,America/New_York,860,NA,US,41.69,-72.79,Hartford,27750
+6060,STANDARD,0,North Granby,,,CT,Hartford County,America/New_York,860,NA,US,42.01,-72.84,Hartford,2540
+6062,STANDARD,0,Plainville,,,CT,Hartford County,America/New_York,860,NA,US,41.67,-72.86,Hartford,15900
+6064,PO BOX,0,Poquonock,,,CT,Hartford County,America/New_York,860,NA,US,41.87,-72.67,Hartford,201
+6065,STANDARD,0,Riverton,,,CT,Hartford County,America/New_York,,NA,US,41.95,-73.02,Hartford,670
+6066,STANDARD,0,Vernon Rockville,"Vernon, Vernon Rockvl","Rockville, Talcottville, Turnpike",CT,Tolland County,America/New_York,860,NA,US,41.84,-72.45,Hartford,26130
+6067,STANDARD,0,Rocky Hill,,,CT,Hartford County,America/New_York,860,NA,US,41.66,-72.63,Hartford,19330
+6070,STANDARD,0,Simsbury,,Simbury,CT,Hartford County,America/New_York,860,NA,US,41.88,-72.81,Hartford,15100
+6071,STANDARD,0,Somers,,Connecticut State Prison,CT,Tolland County,America/New_York,860,NA,US,41.98,-72.45,Hartford,8710
+6072,PO BOX,0,Somersville,,,CT,Tolland County,America/New_York,860,NA,US,41.99,-72.45,Hartford,371
+6073,STANDARD,0,South Glastonbury,S Glastonbury,,CT,Hartford County,America/New_York,860,NA,US,41.65,-72.56,Hartford,5730
+6074,STANDARD,0,South Windsor,,"Bissell, Wapping",CT,Hartford County,America/New_York,860,NA,US,41.81,-72.61,Hartford,25910
+6075,PO BOX,0,Stafford,,,CT,Tolland County,America/New_York,860,NA,US,41.98,-72.28,Hartford,183
+6076,STANDARD,0,Stafford Springs,"Stafford Spgs, Union","Stafford Sp, West Stafford",CT,Tolland County,America/New_York,860,NA,US,41.95,-72.3,Hartford,10610
+6077,PO BOX,0,Staffordville,,,CT,Tolland County,America/New_York,860,NA,US,41.98,-72.31,Hartford,175
+6078,STANDARD,0,Suffield,,,CT,Hartford County,America/New_York,860,NA,US,41.98,-72.65,Hartford,9700
+6080,UNIQUE,0,Suffield,,Mcdougal Correctional Fclty,CT,Hartford County,America/New_York,860,NA,US,41.98,-72.65,Hartford,10
+6081,STANDARD,0,Tariffville,,,CT,Hartford County,America/New_York,860,NA,US,41.91,-72.77,Hartford,1240
+6082,STANDARD,0,Enfield,,"Hazardville, North Thompsonville, Scitico, Thompsonville",CT,Hartford County,America/New_York,860,NA,US,41.96,-72.56,Hartford,35820
+6083,PO BOX,0,Enfield,,,CT,Hartford County,America/New_York,860,NA,US,41.96,-72.56,Hartford,586
+6084,STANDARD,0,Tolland,,,CT,Tolland County,America/New_York,860,NA,US,41.88,-72.36,Hartford,14100
+6085,STANDARD,0,Unionville,,Lake Garda,CT,Hartford County,America/New_York,860,NA,US,41.75,-72.88,Hartford,6900
+6087,UNIQUE,1,Unionville,,Accr A Data,CT,Hartford County,America/New_York,860,NA,US,41.75,-72.88,Hartford,0
+6088,STANDARD,0,East Windsor,,"Scantic, Warehouse Point",CT,Hartford County,America/New_York,860,NA,US,41.91,-72.59,Hartford,4320
+6089,STANDARD,0,Weatogue,,,CT,Hartford County,America/New_York,860,NA,US,41.84,-72.82,Hartford,3310
+6090,STANDARD,0,West Granby,,,CT,Hartford County,America/New_York,860,NA,US,41.95,-72.86,Hartford,1120
+6091,STANDARD,0,West Hartland,,,CT,Hartford County,America/New_York,860,NA,US,42,-72.97,Hartford,178
+6092,STANDARD,0,West Simsbury,,,CT,Hartford County,America/New_York,860,NA,US,41.87,-72.84,Hartford,4330
+6093,STANDARD,0,West Suffield,,W Suffield,CT,Hartford County,America/New_York,860,NA,US,42,-72.72,Hartford,3370
+6095,STANDARD,0,Windsor,,Wilson,CT,Hartford County,America/New_York,860,NA,US,41.85,-72.65,Hartford,27630
+6096,STANDARD,0,Windsor Locks,,Bradley International Airpor,CT,Hartford County,America/New_York,860,NA,US,41.92,-72.65,Hartford,11600
+6101,STANDARD,0,Hartford,,"Htd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6102,PO BOX,0,Hartford,,,CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6103,STANDARD,0,Hartford,,Central,CT,Hartford County,America/New_York,860,NA,US,41.77,-72.67,Hartford,1780
+6104,PO BOX,0,Hartford,,Main Office,CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6105,STANDARD,0,Hartford,West Hartford,"Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.77,-72.71,Hartford,13180
+6106,STANDARD,0,Hartford,,Htfd,CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,28370
+6107,STANDARD,0,West Hartford,"Hartford, West Hartfrd","W Hartford, W Htfd",CT,Hartford County,America/New_York,860,NA,US,41.75,-72.74,Hartford,18480
+6108,STANDARD,0,East Hartford,Hartford,"E Hartford, East Htfd, Forbes Village, Hartfrd, Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.78,-72.62,Hartford,21010
+6109,STANDARD,0,Wethersfield,Hartford,"Hfd, Htfd, Weathersfield, Weth, Wethersfld",CT,Hartford County,America/New_York,860,NA,US,41.7,-72.67,Hartford,25700
+6110,STANDARD,0,West Hartford,"Hartford, West Hartfrd","Corbins Corner, Elmwood, W Hartford, W Htfd",CT,Hartford County,America/New_York,860,NA,US,41.73,-72.73,Hartford,11650
+6111,STANDARD,0,Newington,Hartford,"Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.68,-72.73,Hartford,28480
+6112,STANDARD,0,Hartford,,"Blue Hills, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.79,-72.7,Hartford,16990
+6114,STANDARD,0,Hartford,,"Barry Square, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.74,-72.67,Hartford,21600
+6115,PO BOX,0,Hartford,,"Hfd, Htfd, Main Office",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,35
+6117,STANDARD,0,West Hartford,"Hartford, West Hartfrd","W Hartford, W Htfd",CT,Hartford County,America/New_York,860,NA,US,41.79,-72.76,Hartford,14360
+6118,STANDARD,0,East Hartford,Hartford,"E Hartford, E Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.61,Hartford,24120
+6119,STANDARD,0,West Hartford,"Hartford, West Hartfrd","W Hartford, W Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.73,Hartford,12470
+6120,STANDARD,0,Hartford,,Unity Plaza,CT,Hartford County,America/New_York,860,NA,US,41.79,-72.66,Hartford,9030
+6123,PO BOX,0,Hartford,,,CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,268
+6126,PO BOX,0,Hartford,,,CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,931
+6127,PO BOX,0,West Hartford,"Hartford, West Hartfrd",W Hartford,CT,Hartford County,America/New_York,860,NA,US,41.75,-72.74,Hartford,257
+6128,PO BOX,0,East Hartford,Hartford,,CT,Hartford County,America/New_York,860,NA,US,41.76,-72.61,Hartford,266
+6129,PO BOX,0,Wethersfield,Hartford,"Weathersfield, Wethersfld",CT,Hartford County,America/New_York,860,NA,US,41.7,-72.67,Hartford,201
+6131,PO BOX,0,Newington,Hartford,,CT,Hartford County,America/New_York,860,NA,US,41.68,-72.73,Hartford,278
+6132,PO BOX,0,Hartford,,,CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,414
+6133,PO BOX,0,West Hartford,"Hartford, West Hartfrd","Elmwood, W Hartford",CT,Hartford County,America/New_York,860,NA,US,41.75,-72.74,Hartford,396
+6134,PO BOX,0,Hartford,,,CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,254
+6137,PO BOX,0,West Hartford,"Bishops Cor, Bishops Corner, Hartford, West Hartfrd",W Hartford,CT,Hartford County,America/New_York,860,NA,US,41.75,-72.74,Hartford,120
+6138,PO BOX,0,East Hartford,"Hartford, Silver Lane",E Hartford,CT,Hartford County,America/New_York,860,NA,US,41.76,-72.61,Hartford,342
+6140,PO BOX,0,Hartford,,"Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,78
+6141,PO BOX,0,Hartford,,"Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,153
+6142,PO BOX,0,Hartford,,"Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,45
+6143,PO BOX,0,Hartford,,"Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,159
+6144,PO BOX,0,Hartford,,"Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,149
+6145,PO BOX,0,Hartford,,"Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,18
+6146,PO BOX,0,Hartford,,,CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,99
+6147,PO BOX,0,Hartford,,"Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,224
+6150,UNIQUE,0,Hartford,,"Bank Of America, Hartford Natl Bank, Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6151,UNIQUE,0,Hartford,,"Bank Of America, Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6152,STANDARD,0,Hartford,,"Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6153,UNIQUE,0,Hartford,,"Allstate, Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6154,UNIQUE,0,Hartford,,"C T Mutual Insurance Co, Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6155,UNIQUE,0,Hartford,,"Hartford Insurance Group, Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6156,UNIQUE,0,Hartford,,"Aetna Life, Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6160,UNIQUE,0,Hartford,,"Aetna Insurance, Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.77,-72.69,Hartford,0
+6161,UNIQUE,0,Hartford,Wethersfield,Ct Dept Of Motor Vehicles,CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6167,UNIQUE,0,Hartford,,"A A R P Pharmacy, Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6176,UNIQUE,0,Hartford,,"Hfd, Htfd, Irs",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6180,UNIQUE,0,Hartford,,"Bank Of America, Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6183,UNIQUE,0,Hartford,,"Hfd, Htfd, Travelers Ins",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6199,PO BOX,0,Hartford,,"Hfd, Htfd",CT,Hartford County,America/New_York,860,NA,US,41.76,-72.68,Hartford,0
+6231,STANDARD,0,Amston,,,CT,Tolland County,America/New_York,860,NA,US,41.62,-72.37,Hartford,3770
+6232,STANDARD,0,Andover,,,CT,Tolland County,America/New_York,860,NA,US,41.73,-72.36,Hartford,3000
+6237,STANDARD,0,Columbia,,,CT,Tolland County,America/New_York,860,NA,US,41.7,-72.3,Hartford,4970
+6238,STANDARD,0,Coventry,,,CT,Tolland County,America/New_York,860,NA,US,41.78,-72.3,Hartford,11420
+6248,STANDARD,0,Hebron,,,CT,Tolland County,America/New_York,860,NA,US,41.65,-72.36,Hartford,5280
+6250,STANDARD,0,Mansfield Center,Mansfield Ctr,"Mansfield, Mansfield Hollow, West Ashford",CT,Tolland County,America/New_York,860,NA,US,41.77,-72.19,Hartford,4400
+6251,PO BOX,0,Mansfield Depot,Mansfield Dpt,Merrow,CT,Tolland County,America/New_York,860,NA,US,41.77,-72.2,Hartford,74
+6265,STANDARD,0,South Willington,S Willington,,CT,Tolland County,America/New_York,860,NA,US,41.89,-72.26,Hartford,0
+6268,STANDARD,0,Storrs Mansfield,"Storrs, Storrs Manfld","Gurleyville, Mansfield",CT,Tolland County,America/New_York,860,NA,US,41.8,-72.25,Hartford,5490
+6269,UNIQUE,0,Storrs Mansfield,"Storrs, Storrs Manfld",University Of Ct,CT,Tolland County,America/New_York,860,NA,US,41.8,-72.29,Hartford,337
+6279,STANDARD,0,Willington,,"East Willington, W Willington",CT,Tolland County,America/New_York,860,NA,US,41.86,-72.27,Hartford,4660
+6409,STANDARD,0,Centerbrook,,,CT,Middlesex County,America/New_York,860,NA,US,41.35,-72.42,Hartford,620
+6412,STANDARD,0,Chester,,,CT,Middlesex County,America/New_York,860,NA,US,41.4,-72.45,Hartford,3370
+6413,STANDARD,0,Clinton,,,CT,Middlesex County,America/New_York,860,NA,US,41.27,-72.53,Hartford,12010
+6414,PO BOX,0,Cobalt,,,CT,Middlesex County,America/New_York,860,NA,US,41.57,-72.55,Hartford,406
+6416,STANDARD,0,Cromwell,,,CT,Middlesex County,America/New_York,860,NA,US,41.6,-72.63,Hartford,13330
+6417,STANDARD,0,Deep River,,,CT,Middlesex County,America/New_York,860,NA,US,41.39,-72.43,Hartford,4010
+6419,STANDARD,0,Killingworth,Deep River,,CT,Middlesex County,America/New_York,860,NA,US,41.35,-72.56,Hartford,6150
+6422,STANDARD,0,Durham,,,CT,Middlesex County,America/New_York,860,NA,US,41.47,-72.68,Hartford,7070
+6423,STANDARD,0,East Haddam,,,CT,Middlesex County,America/New_York,860,NA,US,41.45,-72.46,Hartford,4560
+6424,STANDARD,0,East Hampton,Haddam Neck,,CT,Middlesex County,America/New_York,860,NA,US,41.57,-72.49,Hartford,11710
+6426,STANDARD,0,Essex,,,CT,Middlesex County,America/New_York,860,NA,US,41.35,-72.39,Hartford,3100
+6438,STANDARD,0,Haddam,,,CT,Middlesex County,America/New_York,860,NA,US,41.45,-72.5,Hartford,2450
+6441,STANDARD,0,Higganum,,,CT,Middlesex County,America/New_York,860,NA,US,41.49,-72.55,Hartford,5300
+6442,STANDARD,0,Ivoryton,,,CT,Middlesex County,America/New_York,860,NA,US,41.34,-72.43,Hartford,2540
+6444,PO BOX,0,Marion,,,CT,Hartford County,America/New_York,860,NA,US,41.56,-72.92,Hartford,759
+6447,STANDARD,0,Marlborough,,Marlboro,CT,Hartford County,America/New_York,860,NA,US,41.63,-72.45,Hartford,5960
+6455,STANDARD,0,Middlefield,,,CT,Middlesex County,America/New_York,860,NA,US,41.5,-72.71,Hartford,2980
+6456,PO BOX,0,Middle Haddam,,,CT,Middlesex County,America/New_York,860,NA,US,41.52,-72.55,Hartford,437
+6457,STANDARD,0,Middletown,,,CT,Middlesex County,America/New_York,860,NA,US,41.54,-72.65,Hartford,37480
+6459,UNIQUE,0,Middletown,,Wesleyan,CT,Middlesex County,America/New_York,860,NA,US,41.54,-72.65,Hartford,195
+6467,PO BOX,0,Milldale,,,CT,Hartford County,America/New_York,860,NA,US,41.57,-72.9,Hartford,477
+6469,STANDARD,0,Moodus,,,CT,Middlesex County,America/New_York,860,NA,US,41.5,-72.45,Hartford,2950
+6475,STANDARD,0,Old Saybrook,,Fenwick,CT,Middlesex County,America/New_York,860,NA,US,41.29,-72.36,Hartford,9750
+6479,STANDARD,0,Plantsville,,,CT,Hartford County,America/New_York,860,NA,US,41.57,-72.91,Hartford,9100
+6480,STANDARD,0,Portland,,,CT,Middlesex County,America/New_York,860,NA,US,41.58,-72.62,Hartford,8650
+6481,STANDARD,0,Rockfall,,,CT,Middlesex County,America/New_York,860,NA,US,41.53,-72.69,Hartford,1080
+6489,STANDARD,0,Southington,,,CT,Hartford County,America/New_York,860,NA,US,41.6,-72.88,Hartford,30650
+6498,STANDARD,0,Westbrook,,,CT,Middlesex County,America/New_York,860,NA,US,41.28,-72.45,Hartford,5950
