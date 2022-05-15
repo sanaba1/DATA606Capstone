@@ -33,7 +33,7 @@ Race, Real Estate, and Food Equity in the U.S.
 
 ## Graphs
 Food Deserts are in part informed by the urban/rural spectrum. 
-![](Density_Graphs/Atlanta_rural_desert.png) ![](Density_Graphs/Atlanta_ubran_desert.png)
+![](Density_Graphs/Atlanta_rural_desert.png) ![](Density_Graphs/Atlanta_urban_desert.png)
 ![Baltimore Rural](Density_Graphs/Baltimore_rural_desert.png) ![](Density_Graphs/Baltimore_urban_desert.png)
 
 ## Outcome
