@@ -8,7 +8,7 @@ Race, Real Estate, and Food Equity in the U.S.
 -
 ## Contents
 ### Notebooks
-- [SNAP]()
+- [SNAP](SNAP_Data.csv)
 - [Redfin]()
 - [Census]()
 ### Data
@@ -16,7 +16,7 @@ Race, Real Estate, and Food Equity in the U.S.
 - [Redfin]()
 - [Census]()
 - [zip Location per Metro]()
-- [zip Polygon data (for mapping)]()
+- [zip Polygon data (for mapping)](Shape_Files)
 ## Goals
 -
 -
