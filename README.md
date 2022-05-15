@@ -8,20 +8,21 @@ Race, Real Estate, and Food Equity in the U.S.
 -
 ## Contents
 ### Notebooks
-- [SNAP](SNAP_Data.csv)
-- [Redfin]()
-- [Census]()
-### Data
 - [SNAP]()
 - [Redfin]()
 - [Census]()
-- [zip Location per Metro]()
+### Data
+- [SNAP](SNAP_Data.csv)
+- [Redfin]()
+- [Census]()
+- [Grocery Density Tables)[Groche Desnity)
+- [zip Location per Metro](Metro_Zips)
 - [zip Polygon data (for mapping)](Shape_Files)
 ## Goals
 -
 -
 -
-## Data
+## Dataset Info
 ### SNAP
 - This data contains a list of SNAP retailers with features including:
   - Location (address)
