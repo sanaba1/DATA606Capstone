@@ -105,7 +105,7 @@ Is the housing market a good predictor of food access in U.S. counties?
 - Decennial data taken by the US gov't
 
 ## Graphs
-Food Deserts are in part informed by the urban/rural spectrum. 
+Rural and Urban communities handle distance to resources in different ways.  Often those that live in the Suburbs have at least a car within the household, and so the distance to travel for a grocery store can handle a higher threshold of tolerance.  Whereas traveling within a city is hampered by distance to public transportation, long commute times for short distances, and other burdens.  These two Baltimore Heatmaps expand upon those zipcode regions that could be defined as a food desert. This following heatmap, demonstrates almost an inverse relationship, quite contrary to what we believed we would find.  Areas centered around some of the most abundant food zones appear to have some of the lowest housing values.  This could be due to a few factors.  Dated concepts and definitions of food deserts, the changed reality of mobility in households, or even the shift in house values over the years. 
 ![](Density_Graphs/Atlanta_rural_desert.png) ![](Density_Graphs/Atlanta_urban_desert.png)
 ![Baltimore Rural](Density_Graphs/Baltimore_rural_desert.png) ![](Density_Graphs/Baltimore_urban_desert.png)
 
