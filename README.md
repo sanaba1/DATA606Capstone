@@ -6,16 +6,18 @@ The goal of this project was to analyze the correlation between the existence of
 The code for this project can be found in our Github repository.
 ## Contents
 ### Notebooks
-- [SNAP]()
-- [Redfin]()
-- [Census]()
+- [Food Desert Mapping](Notebooks/Food_Dessert_Mapping.ipynb)
+- [Redfin](Notebooks/Redfin_Mapping.ipynb)
+- [Census](Notebooks/Demographic_Census_Data.ipynb)
+- [Merged Data](Notebooks/Combined_dataset.ipynb)
+- [Linear Regression](Notebooks/Linear_Regression_Model.ipynb)
 ### Data
 - [SNAP](SNAP_Data.csv)
-- [Redfin]()
-- [Census]()
+- [Redfin](Redfin_Zip_Data)
+- [Census](Census)
 - [Grocery Density Tables](Groche Desnity)
 - [zip Location per Metro](Metro_Zips)
-- [zip Polygon data (for mapping)](Shape_Files)
+- zip Polygon data (for mapping)(removed for size restriction)
 ## Motivation & Background
 Food access is a key component of food security security and equity and each individual having access to nutrient-dense, affordable food is a basic human right. Low food equity has been associated with various health issues and socioeconomic factors. 
 
