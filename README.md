@@ -109,6 +109,11 @@ Rural and Urban communities handle distance to resources in different ways.  Oft
 ![](Density_Graphs/Atlanta_rural_desert.png) ![](Density_Graphs/Atlanta_urban_desert.png)
 ![Baltimore Rural](Density_Graphs/Baltimore_rural_desert.png) ![](Density_Graphs/Baltimore_urban_desert.png)
 
+## Conclusion
+- Notable among many of our geographic heatmaps, when comparing the Food Desert maps along with the Home Sales maps, is that often higher valued areas are technically in areas designated ‘food deserts’.  A takeaway from combing through this data, and really exploring it is that the standing definition of a food desert is not in line with the cultural definition.  
+- We did find that certain characteristics of households were fairly strong indicators in housing cost.  Our RMSE gives us some large offset values.  This could be a result of home values being fairly broad across these datasets. While we set out to ensure categorical values were correctly encoded, the sheer size and dimensionality of this data proved to be quite complex. 
+
+
 ## Limitations
 - Depth of investigation. The volume of the housing data, and correlating it to both Census and Snap data resulted in a large, high-dimensional dataset that we really only scratched the surface of.  
 - The metro data had limitations 
